@@ -1,0 +1,25 @@
+{
+  "task": "wine_bottle",
+  "instruction": "Put the wine bottle on top of the cabinet.",
+  "model": "smolvla",
+  "seed": 0,
+  "index": 3,
+  "max_steps": 800,
+  "n_action_steps": 50,
+  "control_mode": "relative",
+  "pilot": false,
+  "parameter_dtypes": {
+    "torch.bfloat16": 474,
+    "torch.float32": 26
+  },
+  "study": "generalization",
+  "mask": "none",
+  "intervention": "none",
+  "intervention_trigger_step": null,
+  "intervention_steps": 0,
+  "initial_goal": false,
+  "status": "completed",
+  "success": false,
+  "steps": 800,
+  "elapsed_seconds": 27.27755920801428
+}

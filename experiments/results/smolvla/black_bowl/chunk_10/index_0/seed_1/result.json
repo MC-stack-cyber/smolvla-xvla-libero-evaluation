@@ -1,0 +1,19 @@
+{
+  "task": "black_bowl",
+  "instruction": "Put the black bowl on the stove.",
+  "model": "smolvla",
+  "seed": 1,
+  "index": 0,
+  "max_steps": 800,
+  "n_action_steps": 10,
+  "control_mode": "relative",
+  "pilot": false,
+  "parameter_dtypes": {
+    "torch.bfloat16": 474,
+    "torch.float32": 26
+  },
+  "status": "completed",
+  "success": true,
+  "steps": 365,
+  "elapsed_seconds": 27.386969457991654
+}

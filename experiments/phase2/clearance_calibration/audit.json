@@ -1,0 +1,1171 @@
+{
+  "passed": true,
+  "expected": 20,
+  "found": 20,
+  "errors": [],
+  "records": [
+    {
+      "task": "milk",
+      "instruction": "Put the milk in the basket.",
+      "model": "smolvla",
+      "seed": 0,
+      "index": 0,
+      "max_steps": 800,
+      "n_action_steps": 50,
+      "control_mode": "relative",
+      "pilot": false,
+      "parameter_dtypes": {
+        "torch.bfloat16": 474,
+        "torch.float32": 26
+      },
+      "study": "clearance_calibration",
+      "mask": "none",
+      "intervention": "sham",
+      "intervention_trigger_step": 183,
+      "intervention_steps": 80,
+      "script_steps_planned": 80,
+      "initial_goal": false,
+      "status": "completed",
+      "success": false,
+      "steps": 800,
+      "elapsed_seconds": 25.19890854100231,
+      "max_action_prefix_delta": 0.0,
+      "max_state_prefix_delta": 0.0,
+      "end_scripted_carton_bottom_above_rim_m": -0.13715623288472423,
+      "max_scripted_carton_bottom_above_rim_m": -0.13582267663393555,
+      "end_scripted_bilateral_contact": true,
+      "contact_steps_in_segment": 80,
+      "min_post_script_target_xy_distance_m": 0.11304647152681709
+    },
+    {
+      "task": "milk",
+      "instruction": "Put the milk in the basket.",
+      "model": "smolvla",
+      "seed": 0,
+      "index": 0,
+      "max_steps": 800,
+      "n_action_steps": 50,
+      "control_mode": "relative",
+      "pilot": false,
+      "parameter_dtypes": {
+        "torch.bfloat16": 474,
+        "torch.float32": 26
+      },
+      "study": "clearance_calibration",
+      "mask": "none",
+      "intervention": "clearance",
+      "intervention_trigger_step": 183,
+      "intervention_steps": 80,
+      "script_steps_planned": 80,
+      "initial_goal": false,
+      "status": "completed",
+      "success": false,
+      "steps": 800,
+      "elapsed_seconds": 28.764139790990157,
+      "max_action_prefix_delta": 0.0,
+      "max_state_prefix_delta": 0.0,
+      "end_scripted_carton_bottom_above_rim_m": 0.01965243307344411,
+      "max_scripted_carton_bottom_above_rim_m": 0.019672625901988816,
+      "end_scripted_bilateral_contact": true,
+      "contact_steps_in_segment": 80,
+      "min_post_script_target_xy_distance_m": 0.11264633194881735
+    },
+    {
+      "task": "milk",
+      "instruction": "Put the milk in the basket.",
+      "model": "smolvla",
+      "seed": 1,
+      "index": 0,
+      "max_steps": 800,
+      "n_action_steps": 50,
+      "control_mode": "relative",
+      "pilot": false,
+      "parameter_dtypes": {
+        "torch.bfloat16": 474,
+        "torch.float32": 26
+      },
+      "study": "clearance_calibration",
+      "mask": "none",
+      "intervention": "sham",
+      "intervention_trigger_step": null,
+      "intervention_steps": 0,
+      "script_steps_planned": 80,
+      "initial_goal": false,
+      "status": "completed",
+      "success": false,
+      "steps": 800,
+      "elapsed_seconds": 25.094565958017483,
+      "max_action_prefix_delta": 0.0,
+      "max_state_prefix_delta": 0.0,
+      "end_scripted_carton_bottom_above_rim_m": null,
+      "max_scripted_carton_bottom_above_rim_m": null,
+      "end_scripted_bilateral_contact": null,
+      "contact_steps_in_segment": 0,
+      "min_post_script_target_xy_distance_m": 0.36475755629914064
+    },
+    {
+      "task": "milk",
+      "instruction": "Put the milk in the basket.",
+      "model": "smolvla",
+      "seed": 1,
+      "index": 0,
+      "max_steps": 800,
+      "n_action_steps": 50,
+      "control_mode": "relative",
+      "pilot": false,
+      "parameter_dtypes": {
+        "torch.bfloat16": 474,
+        "torch.float32": 26
+      },
+      "study": "clearance_calibration",
+      "mask": "none",
+      "intervention": "clearance",
+      "intervention_trigger_step": null,
+      "intervention_steps": 0,
+      "script_steps_planned": 80,
+      "initial_goal": false,
+      "status": "completed",
+      "success": false,
+      "steps": 800,
+      "elapsed_seconds": 25.453593042009743,
+      "max_action_prefix_delta": 0.0,
+      "max_state_prefix_delta": 0.0,
+      "end_scripted_carton_bottom_above_rim_m": null,
+      "max_scripted_carton_bottom_above_rim_m": null,
+      "end_scripted_bilateral_contact": null,
+      "contact_steps_in_segment": 0,
+      "min_post_script_target_xy_distance_m": 0.36475755629914064
+    },
+    {
+      "task": "milk",
+      "instruction": "Put the milk in the basket.",
+      "model": "smolvla",
+      "seed": 2,
+      "index": 0,
+      "max_steps": 800,
+      "n_action_steps": 50,
+      "control_mode": "relative",
+      "pilot": false,
+      "parameter_dtypes": {
+        "torch.bfloat16": 474,
+        "torch.float32": 26
+      },
+      "study": "clearance_calibration",
+      "mask": "none",
+      "intervention": "sham",
+      "intervention_trigger_step": 182,
+      "intervention_steps": 80,
+      "script_steps_planned": 80,
+      "initial_goal": false,
+      "status": "completed",
+      "success": false,
+      "steps": 800,
+      "elapsed_seconds": 33.789583957986906,
+      "max_action_prefix_delta": 0.0,
+      "max_state_prefix_delta": 0.0,
+      "end_scripted_carton_bottom_above_rim_m": -0.13861228509393297,
+      "max_scripted_carton_bottom_above_rim_m": -0.13759092343516105,
+      "end_scripted_bilateral_contact": true,
+      "contact_steps_in_segment": 80,
+      "min_post_script_target_xy_distance_m": 0.11216450782185845
+    },
+    {
+      "task": "milk",
+      "instruction": "Put the milk in the basket.",
+      "model": "smolvla",
+      "seed": 2,
+      "index": 0,
+      "max_steps": 800,
+      "n_action_steps": 50,
+      "control_mode": "relative",
+      "pilot": false,
+      "parameter_dtypes": {
+        "torch.bfloat16": 474,
+        "torch.float32": 26
+      },
+      "study": "clearance_calibration",
+      "mask": "none",
+      "intervention": "clearance",
+      "intervention_trigger_step": 182,
+      "intervention_steps": 80,
+      "script_steps_planned": 80,
+      "initial_goal": false,
+      "status": "completed",
+      "success": false,
+      "steps": 800,
+      "elapsed_seconds": 24.468331124982797,
+      "max_action_prefix_delta": 0.0,
+      "max_state_prefix_delta": 0.0,
+      "end_scripted_carton_bottom_above_rim_m": 0.019704711425355126,
+      "max_scripted_carton_bottom_above_rim_m": 0.019705967314801454,
+      "end_scripted_bilateral_contact": true,
+      "contact_steps_in_segment": 80,
+      "min_post_script_target_xy_distance_m": 0.10338948449516874
+    },
+    {
+      "task": "milk",
+      "instruction": "Put the milk in the basket.",
+      "model": "smolvla",
+      "seed": 3,
+      "index": 0,
+      "max_steps": 800,
+      "n_action_steps": 50,
+      "control_mode": "relative",
+      "pilot": false,
+      "parameter_dtypes": {
+        "torch.bfloat16": 474,
+        "torch.float32": 26
+      },
+      "study": "clearance_calibration",
+      "mask": "none",
+      "intervention": "sham",
+      "intervention_trigger_step": 184,
+      "intervention_steps": 80,
+      "script_steps_planned": 80,
+      "initial_goal": false,
+      "status": "completed",
+      "success": false,
+      "steps": 800,
+      "elapsed_seconds": 24.64152545898105,
+      "max_action_prefix_delta": 0.0,
+      "max_state_prefix_delta": 0.0,
+      "end_scripted_carton_bottom_above_rim_m": -0.13834146165653582,
+      "max_scripted_carton_bottom_above_rim_m": -0.1370081695624642,
+      "end_scripted_bilateral_contact": true,
+      "contact_steps_in_segment": 80,
+      "min_post_script_target_xy_distance_m": 0.10857940617925495
+    },
+    {
+      "task": "milk",
+      "instruction": "Put the milk in the basket.",
+      "model": "smolvla",
+      "seed": 3,
+      "index": 0,
+      "max_steps": 800,
+      "n_action_steps": 50,
+      "control_mode": "relative",
+      "pilot": false,
+      "parameter_dtypes": {
+        "torch.bfloat16": 474,
+        "torch.float32": 26
+      },
+      "study": "clearance_calibration",
+      "mask": "none",
+      "intervention": "clearance",
+      "intervention_trigger_step": 184,
+      "intervention_steps": 80,
+      "script_steps_planned": 80,
+      "initial_goal": false,
+      "status": "completed",
+      "success": false,
+      "steps": 800,
+      "elapsed_seconds": 24.783195541996974,
+      "max_action_prefix_delta": 0.0,
+      "max_state_prefix_delta": 0.0,
+      "end_scripted_carton_bottom_above_rim_m": 0.019684736220350163,
+      "max_scripted_carton_bottom_above_rim_m": 0.019684736220350163,
+      "end_scripted_bilateral_contact": true,
+      "contact_steps_in_segment": 80,
+      "min_post_script_target_xy_distance_m": 0.10402046424510125
+    },
+    {
+      "task": "milk",
+      "instruction": "Put the milk in the basket.",
+      "model": "smolvla",
+      "seed": 4,
+      "index": 0,
+      "max_steps": 800,
+      "n_action_steps": 50,
+      "control_mode": "relative",
+      "pilot": false,
+      "parameter_dtypes": {
+        "torch.bfloat16": 474,
+        "torch.float32": 26
+      },
+      "study": "clearance_calibration",
+      "mask": "none",
+      "intervention": "sham",
+      "intervention_trigger_step": 182,
+      "intervention_steps": 80,
+      "script_steps_planned": 80,
+      "initial_goal": false,
+      "status": "completed",
+      "success": false,
+      "steps": 800,
+      "elapsed_seconds": 24.60767279099673,
+      "max_action_prefix_delta": 0.0,
+      "max_state_prefix_delta": 0.0,
+      "end_scripted_carton_bottom_above_rim_m": -0.13758525968176705,
+      "max_scripted_carton_bottom_above_rim_m": -0.1369081619303641,
+      "end_scripted_bilateral_contact": true,
+      "contact_steps_in_segment": 80,
+      "min_post_script_target_xy_distance_m": 0.1193464757421657
+    },
+    {
+      "task": "milk",
+      "instruction": "Put the milk in the basket.",
+      "model": "smolvla",
+      "seed": 4,
+      "index": 0,
+      "max_steps": 800,
+      "n_action_steps": 50,
+      "control_mode": "relative",
+      "pilot": false,
+      "parameter_dtypes": {
+        "torch.bfloat16": 474,
+        "torch.float32": 26
+      },
+      "study": "clearance_calibration",
+      "mask": "none",
+      "intervention": "clearance",
+      "intervention_trigger_step": 182,
+      "intervention_steps": 80,
+      "script_steps_planned": 80,
+      "initial_goal": false,
+      "status": "completed",
+      "success": false,
+      "steps": 800,
+      "elapsed_seconds": 25.281505207996815,
+      "max_action_prefix_delta": 0.0,
+      "max_state_prefix_delta": 0.0,
+      "end_scripted_carton_bottom_above_rim_m": 0.019583402213495638,
+      "max_scripted_carton_bottom_above_rim_m": 0.019722287395025684,
+      "end_scripted_bilateral_contact": true,
+      "contact_steps_in_segment": 80,
+      "min_post_script_target_xy_distance_m": 0.10886261889349957
+    },
+    {
+      "task": "milk",
+      "instruction": "Put the milk in the basket.",
+      "model": "smolvla",
+      "seed": 5,
+      "index": 0,
+      "max_steps": 800,
+      "n_action_steps": 50,
+      "control_mode": "relative",
+      "pilot": false,
+      "parameter_dtypes": {
+        "torch.bfloat16": 474,
+        "torch.float32": 26
+      },
+      "study": "clearance_calibration",
+      "mask": "none",
+      "intervention": "sham",
+      "intervention_trigger_step": null,
+      "intervention_steps": 0,
+      "script_steps_planned": 80,
+      "initial_goal": false,
+      "status": "completed",
+      "success": false,
+      "steps": 800,
+      "elapsed_seconds": 25.24403570801951,
+      "max_action_prefix_delta": 0.0,
+      "max_state_prefix_delta": 0.0,
+      "end_scripted_carton_bottom_above_rim_m": null,
+      "max_scripted_carton_bottom_above_rim_m": null,
+      "end_scripted_bilateral_contact": null,
+      "contact_steps_in_segment": 0,
+      "min_post_script_target_xy_distance_m": 0.37907922481608897
+    },
+    {
+      "task": "milk",
+      "instruction": "Put the milk in the basket.",
+      "model": "smolvla",
+      "seed": 5,
+      "index": 0,
+      "max_steps": 800,
+      "n_action_steps": 50,
+      "control_mode": "relative",
+      "pilot": false,
+      "parameter_dtypes": {
+        "torch.bfloat16": 474,
+        "torch.float32": 26
+      },
+      "study": "clearance_calibration",
+      "mask": "none",
+      "intervention": "clearance",
+      "intervention_trigger_step": null,
+      "intervention_steps": 0,
+      "script_steps_planned": 80,
+      "initial_goal": false,
+      "status": "completed",
+      "success": false,
+      "steps": 800,
+      "elapsed_seconds": 24.907050082983915,
+      "max_action_prefix_delta": 0.0,
+      "max_state_prefix_delta": 0.0,
+      "end_scripted_carton_bottom_above_rim_m": null,
+      "max_scripted_carton_bottom_above_rim_m": null,
+      "end_scripted_bilateral_contact": null,
+      "contact_steps_in_segment": 0,
+      "min_post_script_target_xy_distance_m": 0.37907922481608897
+    },
+    {
+      "task": "milk",
+      "instruction": "Put the milk in the basket.",
+      "model": "smolvla",
+      "seed": 6,
+      "index": 0,
+      "max_steps": 800,
+      "n_action_steps": 50,
+      "control_mode": "relative",
+      "pilot": false,
+      "parameter_dtypes": {
+        "torch.bfloat16": 474,
+        "torch.float32": 26
+      },
+      "study": "clearance_calibration",
+      "mask": "none",
+      "intervention": "sham",
+      "intervention_trigger_step": null,
+      "intervention_steps": 0,
+      "script_steps_planned": 80,
+      "initial_goal": false,
+      "status": "completed",
+      "success": false,
+      "steps": 800,
+      "elapsed_seconds": 25.086202499980573,
+      "max_action_prefix_delta": 0.0,
+      "max_state_prefix_delta": 0.0,
+      "end_scripted_carton_bottom_above_rim_m": null,
+      "max_scripted_carton_bottom_above_rim_m": null,
+      "end_scripted_bilateral_contact": null,
+      "contact_steps_in_segment": 0,
+      "min_post_script_target_xy_distance_m": 0.3804606794413175
+    },
+    {
+      "task": "milk",
+      "instruction": "Put the milk in the basket.",
+      "model": "smolvla",
+      "seed": 6,
+      "index": 0,
+      "max_steps": 800,
+      "n_action_steps": 50,
+      "control_mode": "relative",
+      "pilot": false,
+      "parameter_dtypes": {
+        "torch.bfloat16": 474,
+        "torch.float32": 26
+      },
+      "study": "clearance_calibration",
+      "mask": "none",
+      "intervention": "clearance",
+      "intervention_trigger_step": null,
+      "intervention_steps": 0,
+      "script_steps_planned": 80,
+      "initial_goal": false,
+      "status": "completed",
+      "success": false,
+      "steps": 800,
+      "elapsed_seconds": 25.130733124999097,
+      "max_action_prefix_delta": 0.0,
+      "max_state_prefix_delta": 0.0,
+      "end_scripted_carton_bottom_above_rim_m": null,
+      "max_scripted_carton_bottom_above_rim_m": null,
+      "end_scripted_bilateral_contact": null,
+      "contact_steps_in_segment": 0,
+      "min_post_script_target_xy_distance_m": 0.3804606794413175
+    },
+    {
+      "task": "milk",
+      "instruction": "Put the milk in the basket.",
+      "model": "smolvla",
+      "seed": 7,
+      "index": 0,
+      "max_steps": 800,
+      "n_action_steps": 50,
+      "control_mode": "relative",
+      "pilot": false,
+      "parameter_dtypes": {
+        "torch.bfloat16": 474,
+        "torch.float32": 26
+      },
+      "study": "clearance_calibration",
+      "mask": "none",
+      "intervention": "sham",
+      "intervention_trigger_step": 238,
+      "intervention_steps": 80,
+      "script_steps_planned": 80,
+      "initial_goal": false,
+      "status": "completed",
+      "success": false,
+      "steps": 800,
+      "elapsed_seconds": 25.839533374994062,
+      "max_action_prefix_delta": 0.0,
+      "max_state_prefix_delta": 0.0,
+      "end_scripted_carton_bottom_above_rim_m": -0.13598213965288575,
+      "max_scripted_carton_bottom_above_rim_m": -0.1352532477275925,
+      "end_scripted_bilateral_contact": true,
+      "contact_steps_in_segment": 80,
+      "min_post_script_target_xy_distance_m": 0.11585876432230893
+    },
+    {
+      "task": "milk",
+      "instruction": "Put the milk in the basket.",
+      "model": "smolvla",
+      "seed": 7,
+      "index": 0,
+      "max_steps": 800,
+      "n_action_steps": 50,
+      "control_mode": "relative",
+      "pilot": false,
+      "parameter_dtypes": {
+        "torch.bfloat16": 474,
+        "torch.float32": 26
+      },
+      "study": "clearance_calibration",
+      "mask": "none",
+      "intervention": "clearance",
+      "intervention_trigger_step": 238,
+      "intervention_steps": 80,
+      "script_steps_planned": 80,
+      "initial_goal": false,
+      "status": "completed",
+      "success": false,
+      "steps": 800,
+      "elapsed_seconds": 25.265413250017446,
+      "max_action_prefix_delta": 0.0,
+      "max_state_prefix_delta": 0.0,
+      "end_scripted_carton_bottom_above_rim_m": 0.01972774612673811,
+      "max_scripted_carton_bottom_above_rim_m": 0.01972774612673811,
+      "end_scripted_bilateral_contact": true,
+      "contact_steps_in_segment": 80,
+      "min_post_script_target_xy_distance_m": 0.11098097987270326
+    },
+    {
+      "task": "milk",
+      "instruction": "Put the milk in the basket.",
+      "model": "smolvla",
+      "seed": 8,
+      "index": 0,
+      "max_steps": 800,
+      "n_action_steps": 50,
+      "control_mode": "relative",
+      "pilot": false,
+      "parameter_dtypes": {
+        "torch.bfloat16": 474,
+        "torch.float32": 26
+      },
+      "study": "clearance_calibration",
+      "mask": "none",
+      "intervention": "sham",
+      "intervention_trigger_step": null,
+      "intervention_steps": 0,
+      "script_steps_planned": 80,
+      "initial_goal": false,
+      "status": "completed",
+      "success": false,
+      "steps": 800,
+      "elapsed_seconds": 25.557510500017088,
+      "max_action_prefix_delta": 0.0,
+      "max_state_prefix_delta": 0.0,
+      "end_scripted_carton_bottom_above_rim_m": null,
+      "max_scripted_carton_bottom_above_rim_m": null,
+      "end_scripted_bilateral_contact": null,
+      "contact_steps_in_segment": 0,
+      "min_post_script_target_xy_distance_m": 0.36663203969466884
+    },
+    {
+      "task": "milk",
+      "instruction": "Put the milk in the basket.",
+      "model": "smolvla",
+      "seed": 8,
+      "index": 0,
+      "max_steps": 800,
+      "n_action_steps": 50,
+      "control_mode": "relative",
+      "pilot": false,
+      "parameter_dtypes": {
+        "torch.bfloat16": 474,
+        "torch.float32": 26
+      },
+      "study": "clearance_calibration",
+      "mask": "none",
+      "intervention": "clearance",
+      "intervention_trigger_step": null,
+      "intervention_steps": 0,
+      "script_steps_planned": 80,
+      "initial_goal": false,
+      "status": "completed",
+      "success": false,
+      "steps": 800,
+      "elapsed_seconds": 25.594855249975808,
+      "max_action_prefix_delta": 0.0,
+      "max_state_prefix_delta": 0.0,
+      "end_scripted_carton_bottom_above_rim_m": null,
+      "max_scripted_carton_bottom_above_rim_m": null,
+      "end_scripted_bilateral_contact": null,
+      "contact_steps_in_segment": 0,
+      "min_post_script_target_xy_distance_m": 0.36663203969466884
+    },
+    {
+      "task": "milk",
+      "instruction": "Put the milk in the basket.",
+      "model": "smolvla",
+      "seed": 9,
+      "index": 0,
+      "max_steps": 800,
+      "n_action_steps": 50,
+      "control_mode": "relative",
+      "pilot": false,
+      "parameter_dtypes": {
+        "torch.bfloat16": 474,
+        "torch.float32": 26
+      },
+      "study": "clearance_calibration",
+      "mask": "none",
+      "intervention": "sham",
+      "intervention_trigger_step": 182,
+      "intervention_steps": 80,
+      "script_steps_planned": 80,
+      "initial_goal": false,
+      "status": "completed",
+      "success": false,
+      "steps": 800,
+      "elapsed_seconds": 25.22930425000959,
+      "max_action_prefix_delta": 0.0,
+      "max_state_prefix_delta": 0.0,
+      "end_scripted_carton_bottom_above_rim_m": -0.1365674489298102,
+      "max_scripted_carton_bottom_above_rim_m": -0.13527302436200345,
+      "end_scripted_bilateral_contact": true,
+      "contact_steps_in_segment": 80,
+      "min_post_script_target_xy_distance_m": 0.10945031210822433
+    },
+    {
+      "task": "milk",
+      "instruction": "Put the milk in the basket.",
+      "model": "smolvla",
+      "seed": 9,
+      "index": 0,
+      "max_steps": 800,
+      "n_action_steps": 50,
+      "control_mode": "relative",
+      "pilot": false,
+      "parameter_dtypes": {
+        "torch.bfloat16": 474,
+        "torch.float32": 26
+      },
+      "study": "clearance_calibration",
+      "mask": "none",
+      "intervention": "clearance",
+      "intervention_trigger_step": 182,
+      "intervention_steps": 80,
+      "script_steps_planned": 80,
+      "initial_goal": false,
+      "status": "completed",
+      "success": false,
+      "steps": 800,
+      "elapsed_seconds": 31.007638042006874,
+      "max_action_prefix_delta": 0.0,
+      "max_state_prefix_delta": 0.0,
+      "end_scripted_carton_bottom_above_rim_m": 0.019692604000148717,
+      "max_scripted_carton_bottom_above_rim_m": 0.01969315549692563,
+      "end_scripted_bilateral_contact": true,
+      "contact_steps_in_segment": 80,
+      "min_post_script_target_xy_distance_m": 0.11079384013514795
+    }
+  ],
+  "files": [
+    {
+      "path": "phase2/clearance_calibration/results/clearance_calibration/sham/smolvla/milk/chunk_default/index_0/seed_0/result.json",
+      "bytes": 589,
+      "sha256": "354ee581473b5846731d8cacb13f7601b47adee473271daf43810971983c2991"
+    },
+    {
+      "path": "phase2/clearance_calibration/results/clearance_calibration/sham/smolvla/milk/chunk_default/index_0/seed_0/timings.json",
+      "bytes": 392875,
+      "sha256": "60d7cdf15a48a2de594a606772d3db48208250b7e28e176d3c775564ac060444"
+    },
+    {
+      "path": "phase2/clearance_calibration/results/clearance_calibration/sham/smolvla/milk/chunk_default/index_0/seed_0/trajectory.npz",
+      "bytes": 542552,
+      "sha256": "2d2fbfd40982d31967c2dca0938024793e87015af501b3f0b53f3ccd9dacd2f6"
+    },
+    {
+      "path": "phase2/clearance_calibration/results/clearance_calibration/sham/smolvla/milk/chunk_default/index_0/seed_0/stage_metrics.json",
+      "bytes": 712,
+      "sha256": "3d63d5ca8e9b6671ac4d32f152a42f44865e2df47492b8d55075beb682857ef0"
+    },
+    {
+      "path": "phase2/clearance_calibration/results/clearance_calibration/sham/smolvla/milk/chunk_default/index_0/seed_0/rollout.mp4",
+      "bytes": 1345680,
+      "sha256": "c0d1d28728ae14b77d9ee65b6cc063a3577d114a599cf9b7a232de7dda13f86b"
+    },
+    {
+      "path": "phase2/clearance_calibration/results/clearance_calibration/clearance/smolvla/milk/chunk_default/index_0/seed_0/result.json",
+      "bytes": 595,
+      "sha256": "6d05ce714dc144b5aa88a39df8152786b04af78c0b88b9ee379d85d3080a20d0"
+    },
+    {
+      "path": "phase2/clearance_calibration/results/clearance_calibration/clearance/smolvla/milk/chunk_default/index_0/seed_0/timings.json",
+      "bytes": 393698,
+      "sha256": "8a72a74240085c9d7b9339d64036f74ebf499e87a4af0af06e5d8ff0652f0348"
+    },
+    {
+      "path": "phase2/clearance_calibration/results/clearance_calibration/clearance/smolvla/milk/chunk_default/index_0/seed_0/trajectory.npz",
+      "bytes": 513219,
+      "sha256": "094d875305e43410eff39cc5404d8ad348c9a1cedc7c390a3f16cb834734a554"
+    },
+    {
+      "path": "phase2/clearance_calibration/results/clearance_calibration/clearance/smolvla/milk/chunk_default/index_0/seed_0/stage_metrics.json",
+      "bytes": 712,
+      "sha256": "b46b5bba493527d522631e77eec6cea20bf834f47c2bfb081bdaf0cdf0b2f12f"
+    },
+    {
+      "path": "phase2/clearance_calibration/results/clearance_calibration/clearance/smolvla/milk/chunk_default/index_0/seed_0/rollout.mp4",
+      "bytes": 1398262,
+      "sha256": "d015a56420de67f8657049bc2c13c9d465ef40fae553754aed0e13bf1cf43624"
+    },
+    {
+      "path": "phase2/clearance_calibration/results/clearance_calibration/sham/smolvla/milk/chunk_default/index_0/seed_1/result.json",
+      "bytes": 590,
+      "sha256": "12de63b5941060d508e630881e8fa57fe3207730fefce59677586218363ff2a0"
+    },
+    {
+      "path": "phase2/clearance_calibration/results/clearance_calibration/sham/smolvla/milk/chunk_default/index_0/seed_1/timings.json",
+      "bytes": 395209,
+      "sha256": "b99921af16f70b23f04834368e567d21baacc42dc0ae68b0fe065b7a85e2e754"
+    },
+    {
+      "path": "phase2/clearance_calibration/results/clearance_calibration/sham/smolvla/milk/chunk_default/index_0/seed_1/trajectory.npz",
+      "bytes": 513232,
+      "sha256": "3c3a2d2152205379115c08a55144b18e4e0075ac19011826fab5cb153eb187c5"
+    },
+    {
+      "path": "phase2/clearance_calibration/results/clearance_calibration/sham/smolvla/milk/chunk_default/index_0/seed_1/stage_metrics.json",
+      "bytes": 695,
+      "sha256": "50fd64cab1185912831cdd65a4b92e82445be8bc39e8823009932e165983bbb0"
+    },
+    {
+      "path": "phase2/clearance_calibration/results/clearance_calibration/sham/smolvla/milk/chunk_default/index_0/seed_1/rollout.mp4",
+      "bytes": 1503543,
+      "sha256": "f52d3ca25676ccfcec5416e6b97d47a2d79ef9d7e8e9ae6a0dd7bcecedeb19cc"
+    },
+    {
+      "path": "phase2/clearance_calibration/results/clearance_calibration/clearance/smolvla/milk/chunk_default/index_0/seed_1/result.json",
+      "bytes": 595,
+      "sha256": "d7e7af5624a7f6ce7a30e7eca7ca787388bc22b30fcbe95bec536de7a65085bf"
+    },
+    {
+      "path": "phase2/clearance_calibration/results/clearance_calibration/clearance/smolvla/milk/chunk_default/index_0/seed_1/timings.json",
+      "bytes": 395220,
+      "sha256": "74b4bdb34a01e9972aad88a83215a5122e70d300f91363266a24e162716755d5"
+    },
+    {
+      "path": "phase2/clearance_calibration/results/clearance_calibration/clearance/smolvla/milk/chunk_default/index_0/seed_1/trajectory.npz",
+      "bytes": 513232,
+      "sha256": "3c3a2d2152205379115c08a55144b18e4e0075ac19011826fab5cb153eb187c5"
+    },
+    {
+      "path": "phase2/clearance_calibration/results/clearance_calibration/clearance/smolvla/milk/chunk_default/index_0/seed_1/stage_metrics.json",
+      "bytes": 695,
+      "sha256": "50fd64cab1185912831cdd65a4b92e82445be8bc39e8823009932e165983bbb0"
+    },
+    {
+      "path": "phase2/clearance_calibration/results/clearance_calibration/clearance/smolvla/milk/chunk_default/index_0/seed_1/rollout.mp4",
+      "bytes": 1503543,
+      "sha256": "f52d3ca25676ccfcec5416e6b97d47a2d79ef9d7e8e9ae6a0dd7bcecedeb19cc"
+    },
+    {
+      "path": "phase2/clearance_calibration/results/clearance_calibration/sham/smolvla/milk/chunk_default/index_0/seed_2/result.json",
+      "bytes": 590,
+      "sha256": "106fbfa50fb7d276172c91e1fb75d2457b367ecf9551f9e5b2985017a591009b"
+    },
+    {
+      "path": "phase2/clearance_calibration/results/clearance_calibration/sham/smolvla/milk/chunk_default/index_0/seed_2/timings.json",
+      "bytes": 392687,
+      "sha256": "4f16675606ef3d574985f9d56db25f3ff06b72ca335bbd5b7c44c8be3e0b364d"
+    },
+    {
+      "path": "phase2/clearance_calibration/results/clearance_calibration/sham/smolvla/milk/chunk_default/index_0/seed_2/trajectory.npz",
+      "bytes": 512131,
+      "sha256": "dd9eb697306c588a8bfe105d6b4ba762a430fb1163c11fbc1c070060a5f910f3"
+    },
+    {
+      "path": "phase2/clearance_calibration/results/clearance_calibration/sham/smolvla/milk/chunk_default/index_0/seed_2/stage_metrics.json",
+      "bytes": 709,
+      "sha256": "90cbd003701c8db4eb345ec20b963c9c46a44d233ce94cab9273c9e45d584bdd"
+    },
+    {
+      "path": "phase2/clearance_calibration/results/clearance_calibration/sham/smolvla/milk/chunk_default/index_0/seed_2/rollout.mp4",
+      "bytes": 1319668,
+      "sha256": "9c751f22eaf38bb16546a60def968dac9007254499074ee01bc10b24ce7e22c9"
+    },
+    {
+      "path": "phase2/clearance_calibration/results/clearance_calibration/clearance/smolvla/milk/chunk_default/index_0/seed_2/result.json",
+      "bytes": 595,
+      "sha256": "0a07dc1834f33871b69af0bb3dea4323fe5e63d4482e7ce99df8378499034952"
+    },
+    {
+      "path": "phase2/clearance_calibration/results/clearance_calibration/clearance/smolvla/milk/chunk_default/index_0/seed_2/timings.json",
+      "bytes": 392332,
+      "sha256": "0f812a52a7fdd206f323db36a29d090000cc579e724ef46c3ed8d2ad4da7812f"
+    },
+    {
+      "path": "phase2/clearance_calibration/results/clearance_calibration/clearance/smolvla/milk/chunk_default/index_0/seed_2/trajectory.npz",
+      "bytes": 511117,
+      "sha256": "78f58f76e49942f93dc681b1709de0373d839a9abffdd59cf120c98f0d78826d"
+    },
+    {
+      "path": "phase2/clearance_calibration/results/clearance_calibration/clearance/smolvla/milk/chunk_default/index_0/seed_2/stage_metrics.json",
+      "bytes": 709,
+      "sha256": "4037266c5a26cd981362a5d0c4bd59e173b70c26ab32d4eb95d42db36c1a3805"
+    },
+    {
+      "path": "phase2/clearance_calibration/results/clearance_calibration/clearance/smolvla/milk/chunk_default/index_0/seed_2/rollout.mp4",
+      "bytes": 1385291,
+      "sha256": "04c2c703c8da759f76a3d5d03e0ea98a37b617970e4dc55e3ab6f275b4347130"
+    },
+    {
+      "path": "phase2/clearance_calibration/results/clearance_calibration/sham/smolvla/milk/chunk_default/index_0/seed_3/result.json",
+      "bytes": 589,
+      "sha256": "37fc090a92b872044954319213701fa28ddad097855f2a7ddb77fea7cdc74e95"
+    },
+    {
+      "path": "phase2/clearance_calibration/results/clearance_calibration/sham/smolvla/milk/chunk_default/index_0/seed_3/timings.json",
+      "bytes": 393529,
+      "sha256": "943c87610c4d6bdc0410d113a88f8918cc538171c2c4ee8b0f3431cfd2187f30"
+    },
+    {
+      "path": "phase2/clearance_calibration/results/clearance_calibration/sham/smolvla/milk/chunk_default/index_0/seed_3/trajectory.npz",
+      "bytes": 538931,
+      "sha256": "7e2563541ed09b05b54c8c582681867c13258593bb3005ca414c706ab0495599"
+    },
+    {
+      "path": "phase2/clearance_calibration/results/clearance_calibration/sham/smolvla/milk/chunk_default/index_0/seed_3/stage_metrics.json",
+      "bytes": 710,
+      "sha256": "aaaa0f1d82e45badbec02b33e42dbae9ae280feeb5b5d0127f725f3a450e46c6"
+    },
+    {
+      "path": "phase2/clearance_calibration/results/clearance_calibration/sham/smolvla/milk/chunk_default/index_0/seed_3/rollout.mp4",
+      "bytes": 1251916,
+      "sha256": "7324fabbd154565ff88228fb0c8e6a8a2247aed61a8518adc48cbb95bb6a6321"
+    },
+    {
+      "path": "phase2/clearance_calibration/results/clearance_calibration/clearance/smolvla/milk/chunk_default/index_0/seed_3/result.json",
+      "bytes": 595,
+      "sha256": "2749df7d525f4fad8c99186b3df4562362ee12d709ea568ede1fbef83ecf6d4d"
+    },
+    {
+      "path": "phase2/clearance_calibration/results/clearance_calibration/clearance/smolvla/milk/chunk_default/index_0/seed_3/timings.json",
+      "bytes": 393828,
+      "sha256": "31bc5df964928b35ad2403f3c8295f8f982b0d389671fc57d3a5bbf349b3bd1a"
+    },
+    {
+      "path": "phase2/clearance_calibration/results/clearance_calibration/clearance/smolvla/milk/chunk_default/index_0/seed_3/trajectory.npz",
+      "bytes": 536743,
+      "sha256": "5b6a19704c9561b8e0f33b6a76186edda3abfaac41b3430543f7558e83751247"
+    },
+    {
+      "path": "phase2/clearance_calibration/results/clearance_calibration/clearance/smolvla/milk/chunk_default/index_0/seed_3/stage_metrics.json",
+      "bytes": 712,
+      "sha256": "69bcdc173352f594eabf61054cd8c86a6581ff64274c74f965693083e2041388"
+    },
+    {
+      "path": "phase2/clearance_calibration/results/clearance_calibration/clearance/smolvla/milk/chunk_default/index_0/seed_3/rollout.mp4",
+      "bytes": 1357655,
+      "sha256": "6e1a351c9e516d3d5bfc94229500ecdbb5983af5f6635df3a58003eb9d0a2f97"
+    },
+    {
+      "path": "phase2/clearance_calibration/results/clearance_calibration/sham/smolvla/milk/chunk_default/index_0/seed_4/result.json",
+      "bytes": 589,
+      "sha256": "6ba0b3ab043b88edd2108104af5149aab8147887b7845d2ecf2716961b4769f1"
+    },
+    {
+      "path": "phase2/clearance_calibration/results/clearance_calibration/sham/smolvla/milk/chunk_default/index_0/seed_4/timings.json",
+      "bytes": 393636,
+      "sha256": "ae2144529dcbd0b0df288d789a999a051a3083e9716215aae19f0a35ec73ad59"
+    },
+    {
+      "path": "phase2/clearance_calibration/results/clearance_calibration/sham/smolvla/milk/chunk_default/index_0/seed_4/trajectory.npz",
+      "bytes": 512544,
+      "sha256": "2b56d29ca4f7d0d824d676713a7ba3d848c41480132c60e356ff4de7a49c448c"
+    },
+    {
+      "path": "phase2/clearance_calibration/results/clearance_calibration/sham/smolvla/milk/chunk_default/index_0/seed_4/stage_metrics.json",
+      "bytes": 707,
+      "sha256": "760041c9d68998ca451ec1ebbda2582996ac5c933dfca9c47e50e0543e2b908d"
+    },
+    {
+      "path": "phase2/clearance_calibration/results/clearance_calibration/sham/smolvla/milk/chunk_default/index_0/seed_4/rollout.mp4",
+      "bytes": 1320850,
+      "sha256": "5b34dc308723be1c73dba5c1b5e4f63d85b987267e104fa002c8cd9819c811e2"
+    },
+    {
+      "path": "phase2/clearance_calibration/results/clearance_calibration/clearance/smolvla/milk/chunk_default/index_0/seed_4/result.json",
+      "bytes": 595,
+      "sha256": "014e7589880aa0f7ae48992bf47aff3b91cc3c78e6e048a69144b734746b59cc"
+    },
+    {
+      "path": "phase2/clearance_calibration/results/clearance_calibration/clearance/smolvla/milk/chunk_default/index_0/seed_4/timings.json",
+      "bytes": 393489,
+      "sha256": "12d62ffd2f4c025b1326e5f737819384c8ce9134a76cff3290595db1960b294a"
+    },
+    {
+      "path": "phase2/clearance_calibration/results/clearance_calibration/clearance/smolvla/milk/chunk_default/index_0/seed_4/trajectory.npz",
+      "bytes": 515003,
+      "sha256": "e63e6aa463b3a98eb0525a411ce23eb1cd3c75277c38ed85a7315ab84ee92337"
+    },
+    {
+      "path": "phase2/clearance_calibration/results/clearance_calibration/clearance/smolvla/milk/chunk_default/index_0/seed_4/stage_metrics.json",
+      "bytes": 707,
+      "sha256": "b075b02d641c01939bf2432bba88394da9761a64b977279de507e44a50a4918a"
+    },
+    {
+      "path": "phase2/clearance_calibration/results/clearance_calibration/clearance/smolvla/milk/chunk_default/index_0/seed_4/rollout.mp4",
+      "bytes": 1364647,
+      "sha256": "b3d0a47f782ad690710d79d8745b7cbd06832409f666ec4111ac7243cf3f7367"
+    },
+    {
+      "path": "phase2/clearance_calibration/results/clearance_calibration/sham/smolvla/milk/chunk_default/index_0/seed_5/result.json",
+      "bytes": 589,
+      "sha256": "9d04682f8517b9cbca956e833d419e9bea125ecdfc0b25e7313533f7d1e1bd2b"
+    },
+    {
+      "path": "phase2/clearance_calibration/results/clearance_calibration/sham/smolvla/milk/chunk_default/index_0/seed_5/timings.json",
+      "bytes": 391059,
+      "sha256": "db3666398e089f1370d1a7a70714ad012ae82698fd02a7913e8c4ca9b5a9f73b"
+    },
+    {
+      "path": "phase2/clearance_calibration/results/clearance_calibration/sham/smolvla/milk/chunk_default/index_0/seed_5/trajectory.npz",
+      "bytes": 504633,
+      "sha256": "c78eab852b25ada6caafaf76768dfb5634c79695db827cb65666ab3e3ccd5bad"
+    },
+    {
+      "path": "phase2/clearance_calibration/results/clearance_calibration/sham/smolvla/milk/chunk_default/index_0/seed_5/stage_metrics.json",
+      "bytes": 694,
+      "sha256": "39cfdad1e2a9311afcb54cd93b33c529b5863b14cb8484121cf26e4633eac8e8"
+    },
+    {
+      "path": "phase2/clearance_calibration/results/clearance_calibration/sham/smolvla/milk/chunk_default/index_0/seed_5/rollout.mp4",
+      "bytes": 1395480,
+      "sha256": "8360072d6eccf0b4fbdf487bf9e0d78a2b3ea7d6e23920836c7aff5ca465fba8"
+    },
+    {
+      "path": "phase2/clearance_calibration/results/clearance_calibration/clearance/smolvla/milk/chunk_default/index_0/seed_5/result.json",
+      "bytes": 595,
+      "sha256": "c1c5c0bd4d2afcbc6d9a0b0115c06a6214f5cf39290e5394e2da6901dbe22a87"
+    },
+    {
+      "path": "phase2/clearance_calibration/results/clearance_calibration/clearance/smolvla/milk/chunk_default/index_0/seed_5/timings.json",
+      "bytes": 391047,
+      "sha256": "b5031e980da186ed931bdd5bc19bb8482b4d122edf884dbe5a39260682c11eb3"
+    },
+    {
+      "path": "phase2/clearance_calibration/results/clearance_calibration/clearance/smolvla/milk/chunk_default/index_0/seed_5/trajectory.npz",
+      "bytes": 504633,
+      "sha256": "c78eab852b25ada6caafaf76768dfb5634c79695db827cb65666ab3e3ccd5bad"
+    },
+    {
+      "path": "phase2/clearance_calibration/results/clearance_calibration/clearance/smolvla/milk/chunk_default/index_0/seed_5/stage_metrics.json",
+      "bytes": 694,
+      "sha256": "39cfdad1e2a9311afcb54cd93b33c529b5863b14cb8484121cf26e4633eac8e8"
+    },
+    {
+      "path": "phase2/clearance_calibration/results/clearance_calibration/clearance/smolvla/milk/chunk_default/index_0/seed_5/rollout.mp4",
+      "bytes": 1395480,
+      "sha256": "8360072d6eccf0b4fbdf487bf9e0d78a2b3ea7d6e23920836c7aff5ca465fba8"
+    },
+    {
+      "path": "phase2/clearance_calibration/results/clearance_calibration/sham/smolvla/milk/chunk_default/index_0/seed_6/result.json",
+      "bytes": 590,
+      "sha256": "73962f86c2df2468892af3230031dbf1abc5ff54b65d7b3ee9afdf729b369329"
+    },
+    {
+      "path": "phase2/clearance_calibration/results/clearance_calibration/sham/smolvla/milk/chunk_default/index_0/seed_6/timings.json",
+      "bytes": 392496,
+      "sha256": "5ceac6372e762d687155b67210f29524ead05a2db27d941ed617bd6a3b6302dd"
+    },
+    {
+      "path": "phase2/clearance_calibration/results/clearance_calibration/sham/smolvla/milk/chunk_default/index_0/seed_6/trajectory.npz",
+      "bytes": 506652,
+      "sha256": "8ffd5f14dbc9f3539a354201effdb965174e8f0eb26bb761b87f20b6d05480db"
+    },
+    {
+      "path": "phase2/clearance_calibration/results/clearance_calibration/sham/smolvla/milk/chunk_default/index_0/seed_6/stage_metrics.json",
+      "bytes": 695,
+      "sha256": "fd8c831bed602df05b0b8799a7096af2f79146253b21f4bc61da0e438c8b6498"
+    },
+    {
+      "path": "phase2/clearance_calibration/results/clearance_calibration/sham/smolvla/milk/chunk_default/index_0/seed_6/rollout.mp4",
+      "bytes": 1582350,
+      "sha256": "3750c5c56d57a42d638ba662f0380eb3d75e46ac9a5611e078f618bebe6219fa"
+    },
+    {
+      "path": "phase2/clearance_calibration/results/clearance_calibration/clearance/smolvla/milk/chunk_default/index_0/seed_6/result.json",
+      "bytes": 595,
+      "sha256": "24650b1ca76302fef2de9179ae87e89e49712be77f7cd98ee1ee94091d934bac"
+    },
+    {
+      "path": "phase2/clearance_calibration/results/clearance_calibration/clearance/smolvla/milk/chunk_default/index_0/seed_6/timings.json",
+      "bytes": 392516,
+      "sha256": "3cb477f2efaa452c00e7ddcc484f04244b3077de35a6f06439c236fde3be83d1"
+    },
+    {
+      "path": "phase2/clearance_calibration/results/clearance_calibration/clearance/smolvla/milk/chunk_default/index_0/seed_6/trajectory.npz",
+      "bytes": 506652,
+      "sha256": "8ffd5f14dbc9f3539a354201effdb965174e8f0eb26bb761b87f20b6d05480db"
+    },
+    {
+      "path": "phase2/clearance_calibration/results/clearance_calibration/clearance/smolvla/milk/chunk_default/index_0/seed_6/stage_metrics.json",
+      "bytes": 695,
+      "sha256": "fd8c831bed602df05b0b8799a7096af2f79146253b21f4bc61da0e438c8b6498"
+    },
+    {
+      "path": "phase2/clearance_calibration/results/clearance_calibration/clearance/smolvla/milk/chunk_default/index_0/seed_6/rollout.mp4",
+      "bytes": 1582350,
+      "sha256": "3750c5c56d57a42d638ba662f0380eb3d75e46ac9a5611e078f618bebe6219fa"
+    },
+    {
+      "path": "phase2/clearance_calibration/results/clearance_calibration/sham/smolvla/milk/chunk_default/index_0/seed_7/result.json",
+      "bytes": 590,
+      "sha256": "d5ee03a1a4c121eb83862ead9d237a6aacbb48bc3c680ce63e1ca092896291d5"
+    },
+    {
+      "path": "phase2/clearance_calibration/results/clearance_calibration/sham/smolvla/milk/chunk_default/index_0/seed_7/timings.json",
+      "bytes": 393232,
+      "sha256": "26e1ed9f2663d1f38fa47a16b2e1cdc9def4f57293974484aa829c5a497ddc32"
+    },
+    {
+      "path": "phase2/clearance_calibration/results/clearance_calibration/sham/smolvla/milk/chunk_default/index_0/seed_7/trajectory.npz",
+      "bytes": 515268,
+      "sha256": "ab145a12a1dfdd7c71eaf62be897e8d25d54f299543bd5e962d1a91d25ddde3d"
+    },
+    {
+      "path": "phase2/clearance_calibration/results/clearance_calibration/sham/smolvla/milk/chunk_default/index_0/seed_7/stage_metrics.json",
+      "bytes": 709,
+      "sha256": "a1897a0d80b15e66ddcb95538b3a2915b719ea1732dcb48a8e322ba1fcecbe20"
+    },
+    {
+      "path": "phase2/clearance_calibration/results/clearance_calibration/sham/smolvla/milk/chunk_default/index_0/seed_7/rollout.mp4",
+      "bytes": 1289045,
+      "sha256": "5eb6c76192cab10efc89f9524cac7ce69828e0cd93b32be3c168032a8b5b409d"
+    },
+    {
+      "path": "phase2/clearance_calibration/results/clearance_calibration/clearance/smolvla/milk/chunk_default/index_0/seed_7/result.json",
+      "bytes": 595,
+      "sha256": "2c9dc852705428cbe3cb4c60ba7cc9d1963980f1c132207f9c8453c5c05de179"
+    },
+    {
+      "path": "phase2/clearance_calibration/results/clearance_calibration/clearance/smolvla/milk/chunk_default/index_0/seed_7/timings.json",
+      "bytes": 394264,
+      "sha256": "4ea9293d2381ffee7749517d4e5cf4bf7bd338c3010c08365f9dacd3952d24a2"
+    },
+    {
+      "path": "phase2/clearance_calibration/results/clearance_calibration/clearance/smolvla/milk/chunk_default/index_0/seed_7/trajectory.npz",
+      "bytes": 518712,
+      "sha256": "657e5ff3d6de4fdbdb523cc07159f00fa71173b7082e2c01e58b143956230d75"
+    },
+    {
+      "path": "phase2/clearance_calibration/results/clearance_calibration/clearance/smolvla/milk/chunk_default/index_0/seed_7/stage_metrics.json",
+      "bytes": 711,
+      "sha256": "f9232297599237ef7f5b7e27ab79001a631c4bd2e066081e762f87c517538896"
+    },
+    {
+      "path": "phase2/clearance_calibration/results/clearance_calibration/clearance/smolvla/milk/chunk_default/index_0/seed_7/rollout.mp4",
+      "bytes": 1365318,
+      "sha256": "ae3500a743fa84b82ea7ae98861a28c229888ae85cafbfbc735c0e496db9aa4f"
+    },
+    {
+      "path": "phase2/clearance_calibration/results/clearance_calibration/sham/smolvla/milk/chunk_default/index_0/seed_8/result.json",
+      "bytes": 590,
+      "sha256": "666e0865c7c766c08c2cece0860835c5f82855ad13d627c48b24e19c253926fd"
+    },
+    {
+      "path": "phase2/clearance_calibration/results/clearance_calibration/sham/smolvla/milk/chunk_default/index_0/seed_8/timings.json",
+      "bytes": 394643,
+      "sha256": "524be226c23d76f749d54fbcaf5148ba88b842b2efe544bfdc1f1f8d1df36e71"
+    },
+    {
+      "path": "phase2/clearance_calibration/results/clearance_calibration/sham/smolvla/milk/chunk_default/index_0/seed_8/trajectory.npz",
+      "bytes": 504930,
+      "sha256": "d37c71a83c391315155b91089a83270f3fb5120b1e741677bebaa70733b77378"
+    },
+    {
+      "path": "phase2/clearance_calibration/results/clearance_calibration/sham/smolvla/milk/chunk_default/index_0/seed_8/stage_metrics.json",
+      "bytes": 697,
+      "sha256": "6f0226bdf722a4f819ce6b8a5c4c25c7de1cd440d57ae05f92493f09e1b28023"
+    },
+    {
+      "path": "phase2/clearance_calibration/results/clearance_calibration/sham/smolvla/milk/chunk_default/index_0/seed_8/rollout.mp4",
+      "bytes": 1355568,
+      "sha256": "fe0892fc5f585f382d42163cd79713b633204b636d2dde7527ea272ada9c4fe9"
+    },
+    {
+      "path": "phase2/clearance_calibration/results/clearance_calibration/clearance/smolvla/milk/chunk_default/index_0/seed_8/result.json",
+      "bytes": 595,
+      "sha256": "a12409f30bbb514195fc262d5289884c593853b063dfd76bd25874544e4edbb9"
+    },
+    {
+      "path": "phase2/clearance_calibration/results/clearance_calibration/clearance/smolvla/milk/chunk_default/index_0/seed_8/timings.json",
+      "bytes": 394605,
+      "sha256": "74ba11fa34f86a15813bcef3d4fd9f5b12c7a05cd01e72662f20796011b04ce3"
+    },
+    {
+      "path": "phase2/clearance_calibration/results/clearance_calibration/clearance/smolvla/milk/chunk_default/index_0/seed_8/trajectory.npz",
+      "bytes": 504930,
+      "sha256": "d37c71a83c391315155b91089a83270f3fb5120b1e741677bebaa70733b77378"
+    },
+    {
+      "path": "phase2/clearance_calibration/results/clearance_calibration/clearance/smolvla/milk/chunk_default/index_0/seed_8/stage_metrics.json",
+      "bytes": 697,
+      "sha256": "6f0226bdf722a4f819ce6b8a5c4c25c7de1cd440d57ae05f92493f09e1b28023"
+    },
+    {
+      "path": "phase2/clearance_calibration/results/clearance_calibration/clearance/smolvla/milk/chunk_default/index_0/seed_8/rollout.mp4",
+      "bytes": 1355568,
+      "sha256": "fe0892fc5f585f382d42163cd79713b633204b636d2dde7527ea272ada9c4fe9"
+    },
+    {
+      "path": "phase2/clearance_calibration/results/clearance_calibration/sham/smolvla/milk/chunk_default/index_0/seed_9/result.json",
+      "bytes": 589,
+      "sha256": "566df1b9c6d8cb64075cdc60dd2cc828f8e533fb45a1f602a16d344a325ef855"
+    },
+    {
+      "path": "phase2/clearance_calibration/results/clearance_calibration/sham/smolvla/milk/chunk_default/index_0/seed_9/timings.json",
+      "bytes": 393400,
+      "sha256": "85d246c67295a6f4b5cc385e7ccc75ebdca87ed95d506418dec861c447e1124d"
+    },
+    {
+      "path": "phase2/clearance_calibration/results/clearance_calibration/sham/smolvla/milk/chunk_default/index_0/seed_9/trajectory.npz",
+      "bytes": 537186,
+      "sha256": "94426746ae0f0b6755dfb9195bd137b00d56eb00f2c3e1ed801b4ecd8201d38c"
+    },
+    {
+      "path": "phase2/clearance_calibration/results/clearance_calibration/sham/smolvla/milk/chunk_default/index_0/seed_9/stage_metrics.json",
+      "bytes": 713,
+      "sha256": "98ede8272810c5f061e6513a676a2eff8d6e265dbb502d5386cac263c176dc78"
+    },
+    {
+      "path": "phase2/clearance_calibration/results/clearance_calibration/sham/smolvla/milk/chunk_default/index_0/seed_9/rollout.mp4",
+      "bytes": 1276034,
+      "sha256": "74abceaa3cbbee1a43b5585da63c22e0cdc1a0d67079a752c27239080c441182"
+    },
+    {
+      "path": "phase2/clearance_calibration/results/clearance_calibration/clearance/smolvla/milk/chunk_default/index_0/seed_9/result.json",
+      "bytes": 595,
+      "sha256": "0ffc928ad340ff7f840a9a88ce03a30ba640a155203db89c6fe5621032b247fb"
+    },
+    {
+      "path": "phase2/clearance_calibration/results/clearance_calibration/clearance/smolvla/milk/chunk_default/index_0/seed_9/timings.json",
+      "bytes": 393537,
+      "sha256": "c02e3faa8b3368036891b6eae3df364b3a8177118845ae0d86feb259ddbbefb8"
+    },
+    {
+      "path": "phase2/clearance_calibration/results/clearance_calibration/clearance/smolvla/milk/chunk_default/index_0/seed_9/trajectory.npz",
+      "bytes": 515504,
+      "sha256": "1fae45124a5e34f93cb420103fc5d125c981f018a0f414c5bc19cff56b880813"
+    },
+    {
+      "path": "phase2/clearance_calibration/results/clearance_calibration/clearance/smolvla/milk/chunk_default/index_0/seed_9/stage_metrics.json",
+      "bytes": 713,
+      "sha256": "e267b971471bb842742674e6dac8e97f10c1222c502078c0a8eee86352d68eee"
+    },
+    {
+      "path": "phase2/clearance_calibration/results/clearance_calibration/clearance/smolvla/milk/chunk_default/index_0/seed_9/rollout.mp4",
+      "bytes": 1420415,
+      "sha256": "225d9dd19bcd8b765445b57b260515a181483a33a91c84a8ca99a6031264d8e9"
+    }
+  ],
+  "protocol_sha256": "f12f50c1130b33b894b51abae4af7aa14b34cdfcd80f231d7ea5630266fd2c86"
+}

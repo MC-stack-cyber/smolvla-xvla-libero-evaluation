@@ -1,0 +1,24 @@
+{
+  "task": "milk",
+  "instruction": "Put the milk in the basket.",
+  "model": "xvla",
+  "seed": 4,
+  "index": 0,
+  "max_steps": 800,
+  "n_action_steps": 10,
+  "control_mode": "absolute",
+  "pilot": false,
+  "parameter_dtypes": {
+    "torch.float32": 901
+  },
+  "study": "matched_frequency",
+  "mask": "none",
+  "intervention": "none",
+  "intervention_trigger_step": null,
+  "intervention_steps": 0,
+  "initial_goal": false,
+  "status": "completed",
+  "success": true,
+  "steps": 113,
+  "elapsed_seconds": 24.824764124990907
+}

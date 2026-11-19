@@ -1,0 +1,15 @@
+{
+  "task": "wine_bottle",
+  "instruction": "Put the wine bottle on top of the cabinet.",
+  "model": "smolvla",
+  "seed": 5,
+  "index": 0,
+  "max_steps": 800,
+  "n_action_steps": 50,
+  "control_mode": "relative",
+  "pilot": false,
+  "status": "completed",
+  "success": true,
+  "steps": 106,
+  "elapsed_seconds": 7.7443081669916864
+}

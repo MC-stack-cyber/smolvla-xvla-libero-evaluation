@@ -1,0 +1,128 @@
+{
+  "prefixes": [
+    {
+      "seed": 0,
+      "max_action_delta": 0.0,
+      "max_state_delta": 0.0
+    },
+    {
+      "seed": 1,
+      "max_action_delta": 0.0,
+      "max_state_delta": 0.0
+    },
+    {
+      "seed": 2,
+      "max_action_delta": 0.0,
+      "max_state_delta": 0.0
+    },
+    {
+      "seed": 3,
+      "max_action_delta": 0.0,
+      "max_state_delta": 0.0
+    },
+    {
+      "seed": 4,
+      "max_action_delta": 0.0,
+      "max_state_delta": 0.0
+    },
+    {
+      "seed": 5,
+      "max_action_delta": 0.0,
+      "max_state_delta": 0.0
+    },
+    {
+      "seed": 6,
+      "max_action_delta": 0.0,
+      "max_state_delta": 0.0
+    },
+    {
+      "seed": 7,
+      "max_action_delta": 0.0,
+      "max_state_delta": 0.0
+    },
+    {
+      "seed": 8,
+      "max_action_delta": 0.0,
+      "max_state_delta": 0.0
+    },
+    {
+      "seed": 9,
+      "max_action_delta": 0.0,
+      "max_state_delta": 0.0
+    }
+  ],
+  "physical_deltas": [
+    {
+      "condition": "sham",
+      "seed": 0,
+      "eef_delta_cm": 0.2011641179717527,
+      "object_delta_cm": 0.24149581840410272
+    },
+    {
+      "condition": "lift",
+      "seed": 0,
+      "eef_delta_cm": 11.880698840804794,
+      "object_delta_cm": 11.918874504495747
+    },
+    {
+      "condition": "sham",
+      "seed": 2,
+      "eef_delta_cm": 0.10638621307440532,
+      "object_delta_cm": 0.22270927296726972
+    },
+    {
+      "condition": "lift",
+      "seed": 2,
+      "eef_delta_cm": 11.87169408057539,
+      "object_delta_cm": 11.98549248125278
+    },
+    {
+      "condition": "sham",
+      "seed": 3,
+      "eef_delta_cm": 0.11886004946128903,
+      "object_delta_cm": 0.16985006286059923
+    },
+    {
+      "condition": "lift",
+      "seed": 3,
+      "eef_delta_cm": 11.876363017491997,
+      "object_delta_cm": 11.924697580696275
+    },
+    {
+      "condition": "sham",
+      "seed": 4,
+      "eef_delta_cm": 0.12275864005794057,
+      "object_delta_cm": 0.1829543925855326
+    },
+    {
+      "condition": "lift",
+      "seed": 4,
+      "eef_delta_cm": 11.872824989113816,
+      "object_delta_cm": 11.919353547501267
+    },
+    {
+      "condition": "sham",
+      "seed": 7,
+      "eef_delta_cm": 0.14600840335760035,
+      "object_delta_cm": 0.17151618242952082
+    },
+    {
+      "condition": "lift",
+      "seed": 7,
+      "eef_delta_cm": 11.874623133287887,
+      "object_delta_cm": 11.912268334016163
+    },
+    {
+      "condition": "sham",
+      "seed": 9,
+      "eef_delta_cm": 0.18242623224263843,
+      "object_delta_cm": 0.22139506256849684
+    },
+    {
+      "condition": "lift",
+      "seed": 9,
+      "eef_delta_cm": 11.881743108936371,
+      "object_delta_cm": 11.899372366839955
+    }
+  ]
+}

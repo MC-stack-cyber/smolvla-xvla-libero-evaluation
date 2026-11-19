@@ -1,0 +1,51 @@
+{
+  "status": "completed",
+  "tasks": {
+    "wine_bottle": {
+      "scene": "A",
+      "instruction": "Put the wine bottle on top of the cabinet."
+    },
+    "black_bowl": {
+      "scene": "A",
+      "instruction": "Put the black bowl on the stove."
+    },
+    "milk": {
+      "scene": "B",
+      "instruction": "Put the milk in the basket."
+    }
+  },
+  "seeds": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "init_state_index": 0,
+  "max_steps": 800,
+  "models": [
+    "lerobot/smolvla_libero",
+    "lerobot/xvla-libero"
+  ],
+  "ablation": {
+    "model": "lerobot/smolvla_libero",
+    "n_action_steps": [
+      10
+    ],
+    "baseline_n_action_steps": 50
+  },
+  "success_rule": "LIBERO check_success; never infer from images",
+  "notes": [
+    "Run model-specific preprocessors and action control conventions.",
+    "Existing Linux runs are historical references; rerun matched baselines on Mac.",
+    "Run one pilot per model before formal evaluation.",
+    "No training until aligned successful demonstrations exist.",
+    "Predeclared after 5-step timing pilot: compare n_action_steps 10 vs default 50; omit 1 and 5 to limit Mac compute/heat. No outcome-based setting selection."
+  ],
+  "completed_at": "2026-11-03T17:13:16.450655+00:00"
+}

@@ -1,0 +1,23 @@
+{
+  "initial": {
+    "object_xyz": [
+      -0.19796152076934587,
+      -0.041338174878662814,
+      0.898860691959308
+    ],
+    "eef_xyz": [
+      -0.2037690047317586,
+      0.004141852243125493,
+      1.1844490990965375
+    ],
+    "bilateral_contact": false,
+    "eef_object_distance": 0.2892453941347248
+  },
+  "summary": {
+    "approach_10cm": true,
+    "bilateral_contact_3_steps": true,
+    "lift_5cm_with_recent_contact": true,
+    "max_object_rise_m": 0.3207202542601931,
+    "max_object_rise_recent_contact_m": 0.3207202542601931
+  }
+}

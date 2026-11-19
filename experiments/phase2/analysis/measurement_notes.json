@@ -1,0 +1,7 @@
+{
+  "time": "2026-11-04T01:37:00.053446+00:00",
+  "policy_protocol_changed": false,
+  "measurement_interpretation": "The preregistered approach_10cm distance proxy is retained in every raw record, but is not treated as a prerequisite to grasp or as a nested funnel stage. Gripper eef_site to object origin can exceed10cm when gripping a tall bottle by its neck.",
+  "validation_example": "New-state wine: XVLA sustained contact9/9 and success9/9 but approach distance threshold3/9. This is a geometric limitation of the proxy, not evidence that approach failed.",
+  "reporting": "Primary stage tables/plots show bilateral contact, lifting and original Goal. Distance remains available for descriptive analysis. No outcomes, thresholds or policy conditions were changed."
+}

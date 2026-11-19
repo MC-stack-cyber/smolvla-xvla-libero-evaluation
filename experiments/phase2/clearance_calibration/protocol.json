@@ -1,0 +1,31 @@
+{
+  "created_at": "2026-11-04T03:11:38.970044+00:00",
+  "expected_episodes": 20,
+  "reason": "Engineering calibration after the fixed40-step clearance manipulation failed to reach its physical target (seed0 ended1.07cm below rim). Retain original40-step10episodes unchanged; add a separate exploratory matched80-step study. Duration selected by physical target-achievement check, not by downstream task success.",
+  "study": "clearance_calibration",
+  "conditions": [
+    "sham",
+    "clearance"
+  ],
+  "model": "smolvla",
+  "task": "milk",
+  "index": 0,
+  "seeds": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "trigger": "same first3consecutive bilateral contacts beforestep700",
+  "script_steps": 80,
+  "clearance": "same collision-bbox feedback, target carton bottom2cm above rim, relative_z clip(error/.05,0,.25), close gripper, x/y/rotation delta0",
+  "sham": "80 steps closed gripper, zero translation/rotation delta",
+  "remaining_budget": "All scripted steps count toward800; reset queue aftersegment forbothconditions",
+  "analysis": "Report all conditions. Verify end-of-script physical clearance and bilateral contact; compare matched prefixes beforetrigger. No causal conclusion about adequate clearance if target not physically achieved. No more outcome-based duration/margin search."
+}

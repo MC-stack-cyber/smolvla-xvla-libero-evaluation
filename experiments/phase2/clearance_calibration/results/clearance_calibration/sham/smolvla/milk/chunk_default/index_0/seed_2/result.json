@@ -1,0 +1,26 @@
+{
+  "task": "milk",
+  "instruction": "Put the milk in the basket.",
+  "model": "smolvla",
+  "seed": 2,
+  "index": 0,
+  "max_steps": 800,
+  "n_action_steps": 50,
+  "control_mode": "relative",
+  "pilot": false,
+  "parameter_dtypes": {
+    "torch.bfloat16": 474,
+    "torch.float32": 26
+  },
+  "study": "clearance_calibration",
+  "mask": "none",
+  "intervention": "sham",
+  "intervention_trigger_step": 182,
+  "intervention_steps": 80,
+  "script_steps_planned": 80,
+  "initial_goal": false,
+  "status": "completed",
+  "success": false,
+  "steps": 800,
+  "elapsed_seconds": 33.789583957986906
+}

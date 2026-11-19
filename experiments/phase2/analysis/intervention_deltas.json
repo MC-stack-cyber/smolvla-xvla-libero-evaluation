@@ -1,0 +1,110 @@
+[
+  {
+    "seed": 0,
+    "condition": "sham",
+    "success": false,
+    "trigger": 183,
+    "max_eef_rise_m": 0.002011641179717527,
+    "max_object_rise_m": 0.0024149581840410272,
+    "contact_steps_in_segment": 40
+  },
+  {
+    "seed": 0,
+    "condition": "lift",
+    "success": false,
+    "trigger": 183,
+    "max_eef_rise_m": 0.11880698840804793,
+    "max_object_rise_m": 0.11918874504495747,
+    "contact_steps_in_segment": 40
+  },
+  {
+    "seed": 2,
+    "condition": "sham",
+    "success": false,
+    "trigger": 182,
+    "max_eef_rise_m": 0.0010638621307440532,
+    "max_object_rise_m": 0.0022270927296726972,
+    "contact_steps_in_segment": 40
+  },
+  {
+    "seed": 2,
+    "condition": "lift",
+    "success": false,
+    "trigger": 182,
+    "max_eef_rise_m": 0.1187169408057539,
+    "max_object_rise_m": 0.1198549248125278,
+    "contact_steps_in_segment": 40
+  },
+  {
+    "seed": 3,
+    "condition": "sham",
+    "success": false,
+    "trigger": 184,
+    "max_eef_rise_m": 0.0011886004946128903,
+    "max_object_rise_m": 0.0016985006286059923,
+    "contact_steps_in_segment": 40
+  },
+  {
+    "seed": 3,
+    "condition": "lift",
+    "success": false,
+    "trigger": 184,
+    "max_eef_rise_m": 0.11876363017491998,
+    "max_object_rise_m": 0.11924697580696275,
+    "contact_steps_in_segment": 40
+  },
+  {
+    "seed": 4,
+    "condition": "sham",
+    "success": false,
+    "trigger": 182,
+    "max_eef_rise_m": 0.0012275864005794057,
+    "max_object_rise_m": 0.0018295439258553259,
+    "contact_steps_in_segment": 40
+  },
+  {
+    "seed": 4,
+    "condition": "lift",
+    "success": false,
+    "trigger": 182,
+    "max_eef_rise_m": 0.11872824989113817,
+    "max_object_rise_m": 0.11919353547501266,
+    "contact_steps_in_segment": 40
+  },
+  {
+    "seed": 7,
+    "condition": "sham",
+    "success": false,
+    "trigger": 238,
+    "max_eef_rise_m": 0.0014600840335760035,
+    "max_object_rise_m": 0.0017151618242952082,
+    "contact_steps_in_segment": 40
+  },
+  {
+    "seed": 7,
+    "condition": "lift",
+    "success": false,
+    "trigger": 238,
+    "max_eef_rise_m": 0.11874623133287887,
+    "max_object_rise_m": 0.11912268334016163,
+    "contact_steps_in_segment": 40
+  },
+  {
+    "seed": 9,
+    "condition": "sham",
+    "success": false,
+    "trigger": 182,
+    "max_eef_rise_m": 0.0018242623224263843,
+    "max_object_rise_m": 0.0022139506256849684,
+    "contact_steps_in_segment": 40
+  },
+  {
+    "seed": 9,
+    "condition": "lift",
+    "success": false,
+    "trigger": 182,
+    "max_eef_rise_m": 0.11881743108936371,
+    "max_object_rise_m": 0.11899372366839955,
+    "contact_steps_in_segment": 40
+  }
+]

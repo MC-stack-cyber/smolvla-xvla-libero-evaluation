@@ -1,0 +1,1187 @@
+{
+  "created_at": "2026-11-04T00:22:39.658828+00:00",
+  "queue": [
+    {
+      "study": "intervention",
+      "model": "smolvla",
+      "task": "milk",
+      "seed": 0,
+      "index": 0,
+      "chunk": null,
+      "mask": "none",
+      "intervention": "sham"
+    },
+    {
+      "study": "intervention",
+      "model": "smolvla",
+      "task": "milk",
+      "seed": 0,
+      "index": 0,
+      "chunk": null,
+      "mask": "none",
+      "intervention": "lift"
+    },
+    {
+      "study": "intervention",
+      "model": "smolvla",
+      "task": "milk",
+      "seed": 1,
+      "index": 0,
+      "chunk": null,
+      "mask": "none",
+      "intervention": "sham"
+    },
+    {
+      "study": "intervention",
+      "model": "smolvla",
+      "task": "milk",
+      "seed": 1,
+      "index": 0,
+      "chunk": null,
+      "mask": "none",
+      "intervention": "lift"
+    },
+    {
+      "study": "intervention",
+      "model": "smolvla",
+      "task": "milk",
+      "seed": 2,
+      "index": 0,
+      "chunk": null,
+      "mask": "none",
+      "intervention": "sham"
+    },
+    {
+      "study": "intervention",
+      "model": "smolvla",
+      "task": "milk",
+      "seed": 2,
+      "index": 0,
+      "chunk": null,
+      "mask": "none",
+      "intervention": "lift"
+    },
+    {
+      "study": "intervention",
+      "model": "smolvla",
+      "task": "milk",
+      "seed": 3,
+      "index": 0,
+      "chunk": null,
+      "mask": "none",
+      "intervention": "sham"
+    },
+    {
+      "study": "intervention",
+      "model": "smolvla",
+      "task": "milk",
+      "seed": 3,
+      "index": 0,
+      "chunk": null,
+      "mask": "none",
+      "intervention": "lift"
+    },
+    {
+      "study": "intervention",
+      "model": "smolvla",
+      "task": "milk",
+      "seed": 4,
+      "index": 0,
+      "chunk": null,
+      "mask": "none",
+      "intervention": "sham"
+    },
+    {
+      "study": "intervention",
+      "model": "smolvla",
+      "task": "milk",
+      "seed": 4,
+      "index": 0,
+      "chunk": null,
+      "mask": "none",
+      "intervention": "lift"
+    },
+    {
+      "study": "intervention",
+      "model": "smolvla",
+      "task": "milk",
+      "seed": 5,
+      "index": 0,
+      "chunk": null,
+      "mask": "none",
+      "intervention": "sham"
+    },
+    {
+      "study": "intervention",
+      "model": "smolvla",
+      "task": "milk",
+      "seed": 5,
+      "index": 0,
+      "chunk": null,
+      "mask": "none",
+      "intervention": "lift"
+    },
+    {
+      "study": "intervention",
+      "model": "smolvla",
+      "task": "milk",
+      "seed": 6,
+      "index": 0,
+      "chunk": null,
+      "mask": "none",
+      "intervention": "sham"
+    },
+    {
+      "study": "intervention",
+      "model": "smolvla",
+      "task": "milk",
+      "seed": 6,
+      "index": 0,
+      "chunk": null,
+      "mask": "none",
+      "intervention": "lift"
+    },
+    {
+      "study": "intervention",
+      "model": "smolvla",
+      "task": "milk",
+      "seed": 7,
+      "index": 0,
+      "chunk": null,
+      "mask": "none",
+      "intervention": "sham"
+    },
+    {
+      "study": "intervention",
+      "model": "smolvla",
+      "task": "milk",
+      "seed": 7,
+      "index": 0,
+      "chunk": null,
+      "mask": "none",
+      "intervention": "lift"
+    },
+    {
+      "study": "intervention",
+      "model": "smolvla",
+      "task": "milk",
+      "seed": 8,
+      "index": 0,
+      "chunk": null,
+      "mask": "none",
+      "intervention": "sham"
+    },
+    {
+      "study": "intervention",
+      "model": "smolvla",
+      "task": "milk",
+      "seed": 8,
+      "index": 0,
+      "chunk": null,
+      "mask": "none",
+      "intervention": "lift"
+    },
+    {
+      "study": "intervention",
+      "model": "smolvla",
+      "task": "milk",
+      "seed": 9,
+      "index": 0,
+      "chunk": null,
+      "mask": "none",
+      "intervention": "sham"
+    },
+    {
+      "study": "intervention",
+      "model": "smolvla",
+      "task": "milk",
+      "seed": 9,
+      "index": 0,
+      "chunk": null,
+      "mask": "none",
+      "intervention": "lift"
+    },
+    {
+      "study": "generalization",
+      "model": "smolvla",
+      "task": "wine_bottle",
+      "seed": 0,
+      "index": 1,
+      "chunk": null,
+      "mask": "none",
+      "intervention": "none"
+    },
+    {
+      "study": "generalization",
+      "model": "xvla",
+      "task": "wine_bottle",
+      "seed": 0,
+      "index": 1,
+      "chunk": null,
+      "mask": "none",
+      "intervention": "none"
+    },
+    {
+      "study": "generalization",
+      "model": "smolvla",
+      "task": "wine_bottle",
+      "seed": 1,
+      "index": 1,
+      "chunk": null,
+      "mask": "none",
+      "intervention": "none"
+    },
+    {
+      "study": "generalization",
+      "model": "xvla",
+      "task": "wine_bottle",
+      "seed": 1,
+      "index": 1,
+      "chunk": null,
+      "mask": "none",
+      "intervention": "none"
+    },
+    {
+      "study": "generalization",
+      "model": "smolvla",
+      "task": "wine_bottle",
+      "seed": 2,
+      "index": 1,
+      "chunk": null,
+      "mask": "none",
+      "intervention": "none"
+    },
+    {
+      "study": "generalization",
+      "model": "xvla",
+      "task": "wine_bottle",
+      "seed": 2,
+      "index": 1,
+      "chunk": null,
+      "mask": "none",
+      "intervention": "none"
+    },
+    {
+      "study": "generalization",
+      "model": "smolvla",
+      "task": "wine_bottle",
+      "seed": 0,
+      "index": 2,
+      "chunk": null,
+      "mask": "none",
+      "intervention": "none"
+    },
+    {
+      "study": "generalization",
+      "model": "xvla",
+      "task": "wine_bottle",
+      "seed": 0,
+      "index": 2,
+      "chunk": null,
+      "mask": "none",
+      "intervention": "none"
+    },
+    {
+      "study": "generalization",
+      "model": "smolvla",
+      "task": "wine_bottle",
+      "seed": 1,
+      "index": 2,
+      "chunk": null,
+      "mask": "none",
+      "intervention": "none"
+    },
+    {
+      "study": "generalization",
+      "model": "xvla",
+      "task": "wine_bottle",
+      "seed": 1,
+      "index": 2,
+      "chunk": null,
+      "mask": "none",
+      "intervention": "none"
+    },
+    {
+      "study": "generalization",
+      "model": "smolvla",
+      "task": "wine_bottle",
+      "seed": 2,
+      "index": 2,
+      "chunk": null,
+      "mask": "none",
+      "intervention": "none"
+    },
+    {
+      "study": "generalization",
+      "model": "xvla",
+      "task": "wine_bottle",
+      "seed": 2,
+      "index": 2,
+      "chunk": null,
+      "mask": "none",
+      "intervention": "none"
+    },
+    {
+      "study": "generalization",
+      "model": "smolvla",
+      "task": "wine_bottle",
+      "seed": 0,
+      "index": 3,
+      "chunk": null,
+      "mask": "none",
+      "intervention": "none"
+    },
+    {
+      "study": "generalization",
+      "model": "xvla",
+      "task": "wine_bottle",
+      "seed": 0,
+      "index": 3,
+      "chunk": null,
+      "mask": "none",
+      "intervention": "none"
+    },
+    {
+      "study": "generalization",
+      "model": "smolvla",
+      "task": "wine_bottle",
+      "seed": 1,
+      "index": 3,
+      "chunk": null,
+      "mask": "none",
+      "intervention": "none"
+    },
+    {
+      "study": "generalization",
+      "model": "xvla",
+      "task": "wine_bottle",
+      "seed": 1,
+      "index": 3,
+      "chunk": null,
+      "mask": "none",
+      "intervention": "none"
+    },
+    {
+      "study": "generalization",
+      "model": "smolvla",
+      "task": "wine_bottle",
+      "seed": 2,
+      "index": 3,
+      "chunk": null,
+      "mask": "none",
+      "intervention": "none"
+    },
+    {
+      "study": "generalization",
+      "model": "xvla",
+      "task": "wine_bottle",
+      "seed": 2,
+      "index": 3,
+      "chunk": null,
+      "mask": "none",
+      "intervention": "none"
+    },
+    {
+      "study": "generalization",
+      "model": "smolvla",
+      "task": "black_bowl",
+      "seed": 0,
+      "index": 1,
+      "chunk": null,
+      "mask": "none",
+      "intervention": "none"
+    },
+    {
+      "study": "generalization",
+      "model": "xvla",
+      "task": "black_bowl",
+      "seed": 0,
+      "index": 1,
+      "chunk": null,
+      "mask": "none",
+      "intervention": "none"
+    },
+    {
+      "study": "generalization",
+      "model": "smolvla",
+      "task": "black_bowl",
+      "seed": 1,
+      "index": 1,
+      "chunk": null,
+      "mask": "none",
+      "intervention": "none"
+    },
+    {
+      "study": "generalization",
+      "model": "xvla",
+      "task": "black_bowl",
+      "seed": 1,
+      "index": 1,
+      "chunk": null,
+      "mask": "none",
+      "intervention": "none"
+    },
+    {
+      "study": "generalization",
+      "model": "smolvla",
+      "task": "black_bowl",
+      "seed": 2,
+      "index": 1,
+      "chunk": null,
+      "mask": "none",
+      "intervention": "none"
+    },
+    {
+      "study": "generalization",
+      "model": "xvla",
+      "task": "black_bowl",
+      "seed": 2,
+      "index": 1,
+      "chunk": null,
+      "mask": "none",
+      "intervention": "none"
+    },
+    {
+      "study": "generalization",
+      "model": "smolvla",
+      "task": "black_bowl",
+      "seed": 0,
+      "index": 2,
+      "chunk": null,
+      "mask": "none",
+      "intervention": "none"
+    },
+    {
+      "study": "generalization",
+      "model": "xvla",
+      "task": "black_bowl",
+      "seed": 0,
+      "index": 2,
+      "chunk": null,
+      "mask": "none",
+      "intervention": "none"
+    },
+    {
+      "study": "generalization",
+      "model": "smolvla",
+      "task": "black_bowl",
+      "seed": 1,
+      "index": 2,
+      "chunk": null,
+      "mask": "none",
+      "intervention": "none"
+    },
+    {
+      "study": "generalization",
+      "model": "xvla",
+      "task": "black_bowl",
+      "seed": 1,
+      "index": 2,
+      "chunk": null,
+      "mask": "none",
+      "intervention": "none"
+    },
+    {
+      "study": "generalization",
+      "model": "smolvla",
+      "task": "black_bowl",
+      "seed": 2,
+      "index": 2,
+      "chunk": null,
+      "mask": "none",
+      "intervention": "none"
+    },
+    {
+      "study": "generalization",
+      "model": "xvla",
+      "task": "black_bowl",
+      "seed": 2,
+      "index": 2,
+      "chunk": null,
+      "mask": "none",
+      "intervention": "none"
+    },
+    {
+      "study": "generalization",
+      "model": "smolvla",
+      "task": "black_bowl",
+      "seed": 0,
+      "index": 3,
+      "chunk": null,
+      "mask": "none",
+      "intervention": "none"
+    },
+    {
+      "study": "generalization",
+      "model": "xvla",
+      "task": "black_bowl",
+      "seed": 0,
+      "index": 3,
+      "chunk": null,
+      "mask": "none",
+      "intervention": "none"
+    },
+    {
+      "study": "generalization",
+      "model": "smolvla",
+      "task": "black_bowl",
+      "seed": 1,
+      "index": 3,
+      "chunk": null,
+      "mask": "none",
+      "intervention": "none"
+    },
+    {
+      "study": "generalization",
+      "model": "xvla",
+      "task": "black_bowl",
+      "seed": 1,
+      "index": 3,
+      "chunk": null,
+      "mask": "none",
+      "intervention": "none"
+    },
+    {
+      "study": "generalization",
+      "model": "smolvla",
+      "task": "black_bowl",
+      "seed": 2,
+      "index": 3,
+      "chunk": null,
+      "mask": "none",
+      "intervention": "none"
+    },
+    {
+      "study": "generalization",
+      "model": "xvla",
+      "task": "black_bowl",
+      "seed": 2,
+      "index": 3,
+      "chunk": null,
+      "mask": "none",
+      "intervention": "none"
+    },
+    {
+      "study": "generalization",
+      "model": "smolvla",
+      "task": "milk",
+      "seed": 0,
+      "index": 1,
+      "chunk": null,
+      "mask": "none",
+      "intervention": "none"
+    },
+    {
+      "study": "generalization",
+      "model": "xvla",
+      "task": "milk",
+      "seed": 0,
+      "index": 1,
+      "chunk": null,
+      "mask": "none",
+      "intervention": "none"
+    },
+    {
+      "study": "generalization",
+      "model": "smolvla",
+      "task": "milk",
+      "seed": 1,
+      "index": 1,
+      "chunk": null,
+      "mask": "none",
+      "intervention": "none"
+    },
+    {
+      "study": "generalization",
+      "model": "xvla",
+      "task": "milk",
+      "seed": 1,
+      "index": 1,
+      "chunk": null,
+      "mask": "none",
+      "intervention": "none"
+    },
+    {
+      "study": "generalization",
+      "model": "smolvla",
+      "task": "milk",
+      "seed": 2,
+      "index": 1,
+      "chunk": null,
+      "mask": "none",
+      "intervention": "none"
+    },
+    {
+      "study": "generalization",
+      "model": "xvla",
+      "task": "milk",
+      "seed": 2,
+      "index": 1,
+      "chunk": null,
+      "mask": "none",
+      "intervention": "none"
+    },
+    {
+      "study": "generalization",
+      "model": "smolvla",
+      "task": "milk",
+      "seed": 0,
+      "index": 2,
+      "chunk": null,
+      "mask": "none",
+      "intervention": "none"
+    },
+    {
+      "study": "generalization",
+      "model": "xvla",
+      "task": "milk",
+      "seed": 0,
+      "index": 2,
+      "chunk": null,
+      "mask": "none",
+      "intervention": "none"
+    },
+    {
+      "study": "generalization",
+      "model": "smolvla",
+      "task": "milk",
+      "seed": 1,
+      "index": 2,
+      "chunk": null,
+      "mask": "none",
+      "intervention": "none"
+    },
+    {
+      "study": "generalization",
+      "model": "xvla",
+      "task": "milk",
+      "seed": 1,
+      "index": 2,
+      "chunk": null,
+      "mask": "none",
+      "intervention": "none"
+    },
+    {
+      "study": "generalization",
+      "model": "smolvla",
+      "task": "milk",
+      "seed": 2,
+      "index": 2,
+      "chunk": null,
+      "mask": "none",
+      "intervention": "none"
+    },
+    {
+      "study": "generalization",
+      "model": "xvla",
+      "task": "milk",
+      "seed": 2,
+      "index": 2,
+      "chunk": null,
+      "mask": "none",
+      "intervention": "none"
+    },
+    {
+      "study": "generalization",
+      "model": "smolvla",
+      "task": "milk",
+      "seed": 0,
+      "index": 3,
+      "chunk": null,
+      "mask": "none",
+      "intervention": "none"
+    },
+    {
+      "study": "generalization",
+      "model": "xvla",
+      "task": "milk",
+      "seed": 0,
+      "index": 3,
+      "chunk": null,
+      "mask": "none",
+      "intervention": "none"
+    },
+    {
+      "study": "generalization",
+      "model": "smolvla",
+      "task": "milk",
+      "seed": 1,
+      "index": 3,
+      "chunk": null,
+      "mask": "none",
+      "intervention": "none"
+    },
+    {
+      "study": "generalization",
+      "model": "xvla",
+      "task": "milk",
+      "seed": 1,
+      "index": 3,
+      "chunk": null,
+      "mask": "none",
+      "intervention": "none"
+    },
+    {
+      "study": "generalization",
+      "model": "smolvla",
+      "task": "milk",
+      "seed": 2,
+      "index": 3,
+      "chunk": null,
+      "mask": "none",
+      "intervention": "none"
+    },
+    {
+      "study": "generalization",
+      "model": "xvla",
+      "task": "milk",
+      "seed": 2,
+      "index": 3,
+      "chunk": null,
+      "mask": "none",
+      "intervention": "none"
+    },
+    {
+      "study": "matched_frequency",
+      "model": "xvla",
+      "task": "wine_bottle",
+      "seed": 0,
+      "index": 0,
+      "chunk": 10,
+      "mask": "none",
+      "intervention": "none"
+    },
+    {
+      "study": "matched_frequency",
+      "model": "xvla",
+      "task": "wine_bottle",
+      "seed": 1,
+      "index": 0,
+      "chunk": 10,
+      "mask": "none",
+      "intervention": "none"
+    },
+    {
+      "study": "matched_frequency",
+      "model": "xvla",
+      "task": "wine_bottle",
+      "seed": 2,
+      "index": 0,
+      "chunk": 10,
+      "mask": "none",
+      "intervention": "none"
+    },
+    {
+      "study": "matched_frequency",
+      "model": "xvla",
+      "task": "wine_bottle",
+      "seed": 3,
+      "index": 0,
+      "chunk": 10,
+      "mask": "none",
+      "intervention": "none"
+    },
+    {
+      "study": "matched_frequency",
+      "model": "xvla",
+      "task": "wine_bottle",
+      "seed": 4,
+      "index": 0,
+      "chunk": 10,
+      "mask": "none",
+      "intervention": "none"
+    },
+    {
+      "study": "matched_frequency",
+      "model": "xvla",
+      "task": "wine_bottle",
+      "seed": 5,
+      "index": 0,
+      "chunk": 10,
+      "mask": "none",
+      "intervention": "none"
+    },
+    {
+      "study": "matched_frequency",
+      "model": "xvla",
+      "task": "wine_bottle",
+      "seed": 6,
+      "index": 0,
+      "chunk": 10,
+      "mask": "none",
+      "intervention": "none"
+    },
+    {
+      "study": "matched_frequency",
+      "model": "xvla",
+      "task": "wine_bottle",
+      "seed": 7,
+      "index": 0,
+      "chunk": 10,
+      "mask": "none",
+      "intervention": "none"
+    },
+    {
+      "study": "matched_frequency",
+      "model": "xvla",
+      "task": "wine_bottle",
+      "seed": 8,
+      "index": 0,
+      "chunk": 10,
+      "mask": "none",
+      "intervention": "none"
+    },
+    {
+      "study": "matched_frequency",
+      "model": "xvla",
+      "task": "wine_bottle",
+      "seed": 9,
+      "index": 0,
+      "chunk": 10,
+      "mask": "none",
+      "intervention": "none"
+    },
+    {
+      "study": "matched_frequency",
+      "model": "xvla",
+      "task": "black_bowl",
+      "seed": 0,
+      "index": 0,
+      "chunk": 10,
+      "mask": "none",
+      "intervention": "none"
+    },
+    {
+      "study": "matched_frequency",
+      "model": "xvla",
+      "task": "black_bowl",
+      "seed": 1,
+      "index": 0,
+      "chunk": 10,
+      "mask": "none",
+      "intervention": "none"
+    },
+    {
+      "study": "matched_frequency",
+      "model": "xvla",
+      "task": "black_bowl",
+      "seed": 2,
+      "index": 0,
+      "chunk": 10,
+      "mask": "none",
+      "intervention": "none"
+    },
+    {
+      "study": "matched_frequency",
+      "model": "xvla",
+      "task": "black_bowl",
+      "seed": 3,
+      "index": 0,
+      "chunk": 10,
+      "mask": "none",
+      "intervention": "none"
+    },
+    {
+      "study": "matched_frequency",
+      "model": "xvla",
+      "task": "black_bowl",
+      "seed": 4,
+      "index": 0,
+      "chunk": 10,
+      "mask": "none",
+      "intervention": "none"
+    },
+    {
+      "study": "matched_frequency",
+      "model": "xvla",
+      "task": "black_bowl",
+      "seed": 5,
+      "index": 0,
+      "chunk": 10,
+      "mask": "none",
+      "intervention": "none"
+    },
+    {
+      "study": "matched_frequency",
+      "model": "xvla",
+      "task": "black_bowl",
+      "seed": 6,
+      "index": 0,
+      "chunk": 10,
+      "mask": "none",
+      "intervention": "none"
+    },
+    {
+      "study": "matched_frequency",
+      "model": "xvla",
+      "task": "black_bowl",
+      "seed": 7,
+      "index": 0,
+      "chunk": 10,
+      "mask": "none",
+      "intervention": "none"
+    },
+    {
+      "study": "matched_frequency",
+      "model": "xvla",
+      "task": "black_bowl",
+      "seed": 8,
+      "index": 0,
+      "chunk": 10,
+      "mask": "none",
+      "intervention": "none"
+    },
+    {
+      "study": "matched_frequency",
+      "model": "xvla",
+      "task": "black_bowl",
+      "seed": 9,
+      "index": 0,
+      "chunk": 10,
+      "mask": "none",
+      "intervention": "none"
+    },
+    {
+      "study": "matched_frequency",
+      "model": "xvla",
+      "task": "milk",
+      "seed": 0,
+      "index": 0,
+      "chunk": 10,
+      "mask": "none",
+      "intervention": "none"
+    },
+    {
+      "study": "matched_frequency",
+      "model": "xvla",
+      "task": "milk",
+      "seed": 1,
+      "index": 0,
+      "chunk": 10,
+      "mask": "none",
+      "intervention": "none"
+    },
+    {
+      "study": "matched_frequency",
+      "model": "xvla",
+      "task": "milk",
+      "seed": 2,
+      "index": 0,
+      "chunk": 10,
+      "mask": "none",
+      "intervention": "none"
+    },
+    {
+      "study": "matched_frequency",
+      "model": "xvla",
+      "task": "milk",
+      "seed": 3,
+      "index": 0,
+      "chunk": 10,
+      "mask": "none",
+      "intervention": "none"
+    },
+    {
+      "study": "matched_frequency",
+      "model": "xvla",
+      "task": "milk",
+      "seed": 4,
+      "index": 0,
+      "chunk": 10,
+      "mask": "none",
+      "intervention": "none"
+    },
+    {
+      "study": "matched_frequency",
+      "model": "xvla",
+      "task": "milk",
+      "seed": 5,
+      "index": 0,
+      "chunk": 10,
+      "mask": "none",
+      "intervention": "none"
+    },
+    {
+      "study": "matched_frequency",
+      "model": "xvla",
+      "task": "milk",
+      "seed": 6,
+      "index": 0,
+      "chunk": 10,
+      "mask": "none",
+      "intervention": "none"
+    },
+    {
+      "study": "matched_frequency",
+      "model": "xvla",
+      "task": "milk",
+      "seed": 7,
+      "index": 0,
+      "chunk": 10,
+      "mask": "none",
+      "intervention": "none"
+    },
+    {
+      "study": "matched_frequency",
+      "model": "xvla",
+      "task": "milk",
+      "seed": 8,
+      "index": 0,
+      "chunk": 10,
+      "mask": "none",
+      "intervention": "none"
+    },
+    {
+      "study": "matched_frequency",
+      "model": "xvla",
+      "task": "milk",
+      "seed": 9,
+      "index": 0,
+      "chunk": 10,
+      "mask": "none",
+      "intervention": "none"
+    },
+    {
+      "study": "camera_mask",
+      "model": "smolvla",
+      "task": "milk",
+      "seed": 0,
+      "index": 0,
+      "chunk": null,
+      "mask": "external",
+      "intervention": "none"
+    },
+    {
+      "study": "camera_mask",
+      "model": "smolvla",
+      "task": "milk",
+      "seed": 1,
+      "index": 0,
+      "chunk": null,
+      "mask": "external",
+      "intervention": "none"
+    },
+    {
+      "study": "camera_mask",
+      "model": "smolvla",
+      "task": "milk",
+      "seed": 2,
+      "index": 0,
+      "chunk": null,
+      "mask": "external",
+      "intervention": "none"
+    },
+    {
+      "study": "camera_mask",
+      "model": "smolvla",
+      "task": "milk",
+      "seed": 0,
+      "index": 0,
+      "chunk": null,
+      "mask": "wrist",
+      "intervention": "none"
+    },
+    {
+      "study": "camera_mask",
+      "model": "smolvla",
+      "task": "milk",
+      "seed": 1,
+      "index": 0,
+      "chunk": null,
+      "mask": "wrist",
+      "intervention": "none"
+    },
+    {
+      "study": "camera_mask",
+      "model": "smolvla",
+      "task": "milk",
+      "seed": 2,
+      "index": 0,
+      "chunk": null,
+      "mask": "wrist",
+      "intervention": "none"
+    },
+    {
+      "study": "camera_mask",
+      "model": "xvla",
+      "task": "milk",
+      "seed": 0,
+      "index": 0,
+      "chunk": null,
+      "mask": "external",
+      "intervention": "none"
+    },
+    {
+      "study": "camera_mask",
+      "model": "xvla",
+      "task": "milk",
+      "seed": 1,
+      "index": 0,
+      "chunk": null,
+      "mask": "external",
+      "intervention": "none"
+    },
+    {
+      "study": "camera_mask",
+      "model": "xvla",
+      "task": "milk",
+      "seed": 2,
+      "index": 0,
+      "chunk": null,
+      "mask": "external",
+      "intervention": "none"
+    },
+    {
+      "study": "camera_mask",
+      "model": "xvla",
+      "task": "milk",
+      "seed": 0,
+      "index": 0,
+      "chunk": null,
+      "mask": "wrist",
+      "intervention": "none"
+    },
+    {
+      "study": "camera_mask",
+      "model": "xvla",
+      "task": "milk",
+      "seed": 1,
+      "index": 0,
+      "chunk": null,
+      "mask": "wrist",
+      "intervention": "none"
+    },
+    {
+      "study": "camera_mask",
+      "model": "xvla",
+      "task": "milk",
+      "seed": 2,
+      "index": 0,
+      "chunk": null,
+      "mask": "wrist",
+      "intervention": "none"
+    }
+  ],
+  "expected_new_episodes": 116,
+  "max_steps": 800,
+  "cooldown_seconds": 30,
+  "baseline_reference": "../results (90 completed original episodes; never overwritten)",
+  "intervention": {
+    "trigger": "first 3 consecutive steps with bilateral fingerpad contact, before step700",
+    "lift": "40 simulated steps (2 seconds), keep gripper closed, hold rotation and x/y; relative z command clips (target-current)/0.05 to [0,0.25], target eef_z at trigger +0.12m",
+    "sham": "same40steps holding current x/y/z and rotation with gripper closed",
+    "both": "reset policy action queue after scripted segment; intervention steps count toward800; keep untriggered episodes in intention-to-treat totals"
+  },
+  "metrics": {
+    "approach": "eef-object centre distance <0.10m",
+    "contact": "bilateral fingerpad contact for3consecutive steps (contact proxy, not proof of secure grasp)",
+    "lift": "object centre rise >=0.05m with bilateral contact in last5steps",
+    "success": "original LIBERO check_success, immediate termination"
+  },
+  "camera_mask": "black pixels for one camera for full episode; fixed state kept; out-of-distribution sensitivity, not isolated encoder quality",
+  "limits": [
+    "No new training. Cannot isolate architecture, training-data, precision or action-representation causal contributions.",
+    "Default controls relative vs absolute retained; matched frequency compares10steps on both models, not same action representation.",
+    "Three extra initial states, three seeds each; seeds nested within state are not independent scenes."
+  ]
+}

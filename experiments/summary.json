@@ -1,0 +1,113 @@
+{
+  "groups": [
+    {
+      "model": "smolvla",
+      "task": "black_bowl",
+      "n_action_steps": 10,
+      "index": 0,
+      "n": 10,
+      "successes": 6,
+      "success_rate": 0.6,
+      "wilson_95_low": 0.3126695474501864,
+      "wilson_95_high": 0.8318224187964902,
+      "average_seconds": 38.54302971249854
+    },
+    {
+      "model": "smolvla",
+      "task": "black_bowl",
+      "n_action_steps": 50,
+      "index": 0,
+      "n": 10,
+      "successes": 2,
+      "success_rate": 0.2,
+      "wilson_95_low": 0.056680947980693314,
+      "wilson_95_high": 0.5098431532792765,
+      "average_seconds": 22.291910941700916
+    },
+    {
+      "model": "smolvla",
+      "task": "milk",
+      "n_action_steps": 10,
+      "index": 0,
+      "n": 10,
+      "successes": 0,
+      "success_rate": 0.0,
+      "wilson_95_low": 0,
+      "wilson_95_high": 0.2775401687666166,
+      "average_seconds": 53.93974430429953
+    },
+    {
+      "model": "smolvla",
+      "task": "milk",
+      "n_action_steps": 50,
+      "index": 0,
+      "n": 10,
+      "successes": 0,
+      "success_rate": 0.0,
+      "wilson_95_low": 0,
+      "wilson_95_high": 0.2775401687666166,
+      "average_seconds": 25.29162975840154
+    },
+    {
+      "model": "smolvla",
+      "task": "wine_bottle",
+      "n_action_steps": 10,
+      "index": 0,
+      "n": 10,
+      "successes": 8,
+      "success_rate": 0.8,
+      "wilson_95_low": 0.49015684672072335,
+      "wilson_95_high": 0.9433190520193067,
+      "average_seconds": 18.635890141702838
+    },
+    {
+      "model": "smolvla",
+      "task": "wine_bottle",
+      "n_action_steps": 50,
+      "index": 0,
+      "n": 10,
+      "successes": 8,
+      "success_rate": 0.8,
+      "wilson_95_low": 0.49015684672072335,
+      "wilson_95_high": 0.9433190520193067,
+      "average_seconds": 10.953988599999866
+    },
+    {
+      "model": "xvla",
+      "task": "black_bowl",
+      "n_action_steps": 30,
+      "index": 0,
+      "n": 10,
+      "successes": 10,
+      "success_rate": 1.0,
+      "wilson_95_low": 0.7224598312333834,
+      "wilson_95_high": 1,
+      "average_seconds": 15.39177332920226
+    },
+    {
+      "model": "xvla",
+      "task": "milk",
+      "n_action_steps": 30,
+      "index": 0,
+      "n": 10,
+      "successes": 10,
+      "success_rate": 1.0,
+      "wilson_95_low": 0.7224598312333834,
+      "wilson_95_high": 1,
+      "average_seconds": 17.16158795409865
+    },
+    {
+      "model": "xvla",
+      "task": "wine_bottle",
+      "n_action_steps": 30,
+      "index": 0,
+      "n": 10,
+      "successes": 9,
+      "success_rate": 0.9,
+      "wilson_95_low": 0.5958436145024278,
+      "wilson_95_high": 0.9821242504842788,
+      "average_seconds": 19.11464611239935
+    }
+  ],
+  "incomplete": []
+}

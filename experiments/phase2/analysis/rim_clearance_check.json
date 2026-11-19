@@ -1,0 +1,51 @@
+[
+  {
+    "model": "smolvla",
+    "seed": 2,
+    "source": "phase2/results/intervention/lift/smolvla/milk/chunk_default/index_0/seed_2/result.json",
+    "max_carton_bottom_above_basket_rim_m": -0.02059246378881996,
+    "end_carton_bottom_above_rim_m": -0.02059246378881996
+  },
+  {
+    "model": "smolvla",
+    "seed": 4,
+    "source": "phase2/results/intervention/lift/smolvla/milk/chunk_default/index_0/seed_4/result.json",
+    "max_carton_bottom_above_basket_rim_m": -0.019676116633979834,
+    "end_carton_bottom_above_rim_m": -0.019676116633979834
+  },
+  {
+    "model": "smolvla",
+    "seed": 3,
+    "source": "phase2/results/intervention/lift/smolvla/milk/chunk_default/index_0/seed_3/result.json",
+    "max_carton_bottom_above_basket_rim_m": -0.02021544855087043,
+    "end_carton_bottom_above_rim_m": -0.02021544855087043
+  },
+  {
+    "model": "smolvla",
+    "seed": 9,
+    "source": "phase2/results/intervention/lift/smolvla/milk/chunk_default/index_0/seed_9/result.json",
+    "max_carton_bottom_above_basket_rim_m": -0.019275002765941962,
+    "end_carton_bottom_above_rim_m": -0.019275002765941962
+  },
+  {
+    "model": "smolvla",
+    "seed": 0,
+    "source": "phase2/results/intervention/lift/smolvla/milk/chunk_default/index_0/seed_0/result.json",
+    "max_carton_bottom_above_basket_rim_m": -0.01987406070041664,
+    "end_carton_bottom_above_rim_m": -0.01987406070041664
+  },
+  {
+    "model": "smolvla",
+    "seed": 7,
+    "source": "phase2/results/intervention/lift/smolvla/milk/chunk_default/index_0/seed_7/result.json",
+    "max_carton_bottom_above_basket_rim_m": -0.01802362076382502,
+    "end_carton_bottom_above_rim_m": -0.01802362076382502
+  },
+  {
+    "model": "xvla",
+    "seed": 0,
+    "source": "results/xvla/milk/chunk_default/index_0/seed_0/result.json",
+    "max_carton_bottom_above_basket_rim_m": 0.04552017893095062,
+    "end_carton_bottom_above_rim_m": -0.07938298848448266
+  }
+]

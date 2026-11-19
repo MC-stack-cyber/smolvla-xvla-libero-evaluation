@@ -1,0 +1,29 @@
+{
+  "initial": {
+    "object_xyz": [
+      0.030082233951159408,
+      -0.09712825483274265,
+      0.5065098417573904
+    ],
+    "eef_xyz": [
+      -0.059796506293463045,
+      0.011378098988298785,
+      0.6751380677643726
+    ],
+    "bilateral_contact": false,
+    "eef_object_distance": 0.2197437038318941,
+    "basket_xyz": [
+      0.00884748054913035,
+      0.2587893972201314,
+      0.43219202665002765
+    ],
+    "object_basket_xy_distance": 0.3565505431139822
+  },
+  "summary": {
+    "approach_10cm": true,
+    "bilateral_contact_3_steps": true,
+    "lift_5cm_with_recent_contact": true,
+    "max_object_rise_m": 0.19808743338726742,
+    "max_object_rise_recent_contact_m": 0.19808743338726742
+  }
+}

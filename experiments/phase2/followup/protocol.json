@@ -1,0 +1,26 @@
+{
+  "created_at": "2026-11-04T00:54:33.120471+00:00",
+  "expected_episodes": 10,
+  "reason": "Exploratory follow-up after physical geometry check: fixed12cm left carton bottom below rim by1.8–2.1cm in all6 triggered seeds. Do not reinterpret original null as adequate-clearance null.",
+  "study": "geometry_followup",
+  "model": "smolvla",
+  "task": "milk",
+  "index": 0,
+  "seeds": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "trigger": "same first3consecutive bilateral contacts beforestep700",
+  "intervention": "40 steps closed gripper, x/y/rotation delta0; relative z clip((basket_collision_bbox_top+0.02-carton_collision_bbox_bottom)/0.05,0,0.25). Bounds use exact box corners and conservative mesh-local AABB corners transformed to world.",
+  "control": "reuse main-study sham40steps, identical prefixes checked perseed",
+  "max_steps": 800,
+  "limits": "Designed after original12cm outcome; report as exploratory follow-up, not a preregistered original condition. Do not tune margin or duration after seeing its outcomes."
+}

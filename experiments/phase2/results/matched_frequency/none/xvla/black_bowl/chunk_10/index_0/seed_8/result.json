@@ -1,0 +1,24 @@
+{
+  "task": "black_bowl",
+  "instruction": "Put the black bowl on the stove.",
+  "model": "xvla",
+  "seed": 8,
+  "index": 0,
+  "max_steps": 800,
+  "n_action_steps": 10,
+  "control_mode": "absolute",
+  "pilot": false,
+  "parameter_dtypes": {
+    "torch.float32": 901
+  },
+  "study": "matched_frequency",
+  "mask": "none",
+  "intervention": "none",
+  "intervention_trigger_step": null,
+  "intervention_steps": 0,
+  "initial_goal": false,
+  "status": "completed",
+  "success": true,
+  "steps": 93,
+  "elapsed_seconds": 22.3240849589929
+}

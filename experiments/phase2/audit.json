@@ -1,0 +1,3011 @@
+{
+  "passed": true,
+  "expected": 116,
+  "found": 116,
+  "errors": [],
+  "intervention_prefix_pairs": [
+    {
+      "seed": 0,
+      "trigger_steps": [
+        183,
+        183
+      ],
+      "prefix_steps": 183,
+      "max_action_difference": 0.0,
+      "max_state_difference": 0.0
+    },
+    {
+      "seed": 1,
+      "trigger_steps": [
+        null,
+        null
+      ],
+      "prefix_steps": 800,
+      "max_action_difference": 0.0,
+      "max_state_difference": 0.0
+    },
+    {
+      "seed": 2,
+      "trigger_steps": [
+        182,
+        182
+      ],
+      "prefix_steps": 182,
+      "max_action_difference": 0.0,
+      "max_state_difference": 0.0
+    },
+    {
+      "seed": 3,
+      "trigger_steps": [
+        184,
+        184
+      ],
+      "prefix_steps": 184,
+      "max_action_difference": 0.0,
+      "max_state_difference": 0.0
+    },
+    {
+      "seed": 4,
+      "trigger_steps": [
+        182,
+        182
+      ],
+      "prefix_steps": 182,
+      "max_action_difference": 0.0,
+      "max_state_difference": 0.0
+    },
+    {
+      "seed": 5,
+      "trigger_steps": [
+        null,
+        null
+      ],
+      "prefix_steps": 800,
+      "max_action_difference": 0.0,
+      "max_state_difference": 0.0
+    },
+    {
+      "seed": 6,
+      "trigger_steps": [
+        null,
+        null
+      ],
+      "prefix_steps": 800,
+      "max_action_difference": 0.0,
+      "max_state_difference": 0.0
+    },
+    {
+      "seed": 7,
+      "trigger_steps": [
+        238,
+        238
+      ],
+      "prefix_steps": 238,
+      "max_action_difference": 0.0,
+      "max_state_difference": 0.0
+    },
+    {
+      "seed": 8,
+      "trigger_steps": [
+        null,
+        null
+      ],
+      "prefix_steps": 800,
+      "max_action_difference": 0.0,
+      "max_state_difference": 0.0
+    },
+    {
+      "seed": 9,
+      "trigger_steps": [
+        182,
+        182
+      ],
+      "prefix_steps": 182,
+      "max_action_difference": 0.0,
+      "max_state_difference": 0.0
+    }
+  ],
+  "protocol_sha256": "43b6e0937dbc6a644ca0aacbaa9e067c8fd907216b8001a2c9dc62c192329800",
+  "files": [
+    {
+      "path": "phase2/results/camera_mask/external/smolvla/milk/chunk_default/index_0/seed_0/result.json",
+      "bytes": 554,
+      "sha256": "f1f4c40d78d8f36e4699211895e4b6d7726daa93c33685ca82a4447436b8aff2"
+    },
+    {
+      "path": "phase2/results/camera_mask/external/smolvla/milk/chunk_default/index_0/seed_0/trajectory.npz",
+      "bytes": 489151,
+      "sha256": "49cd873873a53bd7bedea24e3d74879ad92d163159cd753bed03bd98a77f6b31"
+    },
+    {
+      "path": "phase2/results/camera_mask/external/smolvla/milk/chunk_default/index_0/seed_0/timings.json",
+      "bytes": 352953,
+      "sha256": "aa01c09c243049d70a6ffad9a6bd41c32991334ece4cb60f07e0232e162b1ed7"
+    },
+    {
+      "path": "phase2/results/camera_mask/external/smolvla/milk/chunk_default/index_0/seed_0/rollout.mp4",
+      "bytes": 848470,
+      "sha256": "465137a871cda66c22251415b2f144068ab036bc89d95febaaf023c3f95ff55f"
+    },
+    {
+      "path": "phase2/results/camera_mask/external/smolvla/milk/chunk_default/index_0/seed_0/stage_metrics.json",
+      "bytes": 699,
+      "sha256": "b21b55ecb81c55085d99b5f0cbd433bd2a30688cb3a4c4d1f47726a7b4e21e7b"
+    },
+    {
+      "path": "phase2/results/camera_mask/external/smolvla/milk/chunk_default/index_0/seed_1/result.json",
+      "bytes": 554,
+      "sha256": "2896157a93b760f27a58a9e5c7796fd79ba15c46f3b6886b40fdda0564879d96"
+    },
+    {
+      "path": "phase2/results/camera_mask/external/smolvla/milk/chunk_default/index_0/seed_1/trajectory.npz",
+      "bytes": 484704,
+      "sha256": "f59e81b77d04d8eba704d88143b9ec0a70bf1674ac41fab3a9aeb5441bec279e"
+    },
+    {
+      "path": "phase2/results/camera_mask/external/smolvla/milk/chunk_default/index_0/seed_1/timings.json",
+      "bytes": 353792,
+      "sha256": "afdb5021f3a2bde4935cd037719ccb51030279c3e8f087a5dd2d0055cdde3623"
+    },
+    {
+      "path": "phase2/results/camera_mask/external/smolvla/milk/chunk_default/index_0/seed_1/rollout.mp4",
+      "bytes": 879248,
+      "sha256": "2dd4d9aef3a8adcb8f6ede51abad7239a391af3deb99d5f0d69cb9a7f3f2592a"
+    },
+    {
+      "path": "phase2/results/camera_mask/external/smolvla/milk/chunk_default/index_0/seed_1/stage_metrics.json",
+      "bytes": 698,
+      "sha256": "4d5efc9d12e5da40444f5bf34742d34860f3bd677a256f36a4f86d5e4ea92cee"
+    },
+    {
+      "path": "phase2/results/camera_mask/external/smolvla/milk/chunk_default/index_0/seed_2/result.json",
+      "bytes": 553,
+      "sha256": "50dfdcb53965c1e1c360a9149042507ccd440dfe68c69b3ed14a68b7639d47ac"
+    },
+    {
+      "path": "phase2/results/camera_mask/external/smolvla/milk/chunk_default/index_0/seed_2/trajectory.npz",
+      "bytes": 487002,
+      "sha256": "fa674e6035c4e9ea552876d19fa39cbb5c611ec8577a380e95ef5a54e96668c3"
+    },
+    {
+      "path": "phase2/results/camera_mask/external/smolvla/milk/chunk_default/index_0/seed_2/timings.json",
+      "bytes": 351326,
+      "sha256": "056e79d9d5e7d171ec2bb5ef43c73283567af6a9f33223998fb49f2ecab895ac"
+    },
+    {
+      "path": "phase2/results/camera_mask/external/smolvla/milk/chunk_default/index_0/seed_2/rollout.mp4",
+      "bytes": 822665,
+      "sha256": "fddc80aa1a5f56fbc0b86d7727577b86e521f842a773269ba368b3b421887b93"
+    },
+    {
+      "path": "phase2/results/camera_mask/external/smolvla/milk/chunk_default/index_0/seed_2/stage_metrics.json",
+      "bytes": 696,
+      "sha256": "521270ba65611c4bb024831042d02346f8d3a259c201f64e8010d8c07227c6b6"
+    },
+    {
+      "path": "phase2/results/camera_mask/external/xvla/milk/chunk_default/index_0/seed_0/result.json",
+      "bytes": 524,
+      "sha256": "5c5260ac49fe1578e35a6377882d3487d4b6c8a2447ca7f575fee42be37b3149"
+    },
+    {
+      "path": "phase2/results/camera_mask/external/xvla/milk/chunk_default/index_0/seed_0/trajectory.npz",
+      "bytes": 480942,
+      "sha256": "95c10b839bf2106f3f1e0d1d4224bbf684b6561a4b8c44ae020fe7ed595c4527"
+    },
+    {
+      "path": "phase2/results/camera_mask/external/xvla/milk/chunk_default/index_0/seed_0/timings.json",
+      "bytes": 354136,
+      "sha256": "8926cdd8d3f58b0bc25e13087a7781ab191fa83ef5829aa13f904abc47b3a998"
+    },
+    {
+      "path": "phase2/results/camera_mask/external/xvla/milk/chunk_default/index_0/seed_0/rollout.mp4",
+      "bytes": 370732,
+      "sha256": "8f9f635a40c1d5f2e0e8687856fda2f3b20f69a5d24483a22f0fd479760a7cac"
+    },
+    {
+      "path": "phase2/results/camera_mask/external/xvla/milk/chunk_default/index_0/seed_0/stage_metrics.json",
+      "bytes": 699,
+      "sha256": "b21b55ecb81c55085d99b5f0cbd433bd2a30688cb3a4c4d1f47726a7b4e21e7b"
+    },
+    {
+      "path": "phase2/results/camera_mask/external/xvla/milk/chunk_default/index_0/seed_1/result.json",
+      "bytes": 524,
+      "sha256": "ff0e3b91db61e7cd3db44e4c37b038b0c72780c827abb0a758f89ad49b6371fc"
+    },
+    {
+      "path": "phase2/results/camera_mask/external/xvla/milk/chunk_default/index_0/seed_1/trajectory.npz",
+      "bytes": 480782,
+      "sha256": "5728d03d49bbb7dc05e5b2723b2821b8cfc9e9d7fe2405358fe8a8042663fc8b"
+    },
+    {
+      "path": "phase2/results/camera_mask/external/xvla/milk/chunk_default/index_0/seed_1/timings.json",
+      "bytes": 354858,
+      "sha256": "025a95e8546931c0133f24e0d0b60e3840d8395733b550d2ba2960f8e356592a"
+    },
+    {
+      "path": "phase2/results/camera_mask/external/xvla/milk/chunk_default/index_0/seed_1/rollout.mp4",
+      "bytes": 363463,
+      "sha256": "3236415cde81eee9545fbfcbbb1636b35abeb5b85c1bb4ea97dd2e06e41e0173"
+    },
+    {
+      "path": "phase2/results/camera_mask/external/xvla/milk/chunk_default/index_0/seed_1/stage_metrics.json",
+      "bytes": 698,
+      "sha256": "4d5efc9d12e5da40444f5bf34742d34860f3bd677a256f36a4f86d5e4ea92cee"
+    },
+    {
+      "path": "phase2/results/camera_mask/external/xvla/milk/chunk_default/index_0/seed_2/result.json",
+      "bytes": 525,
+      "sha256": "4cb5a8ac6e5500da55366a046668c5772487c006c8da8abd5834dfe5b4a5c6ae"
+    },
+    {
+      "path": "phase2/results/camera_mask/external/xvla/milk/chunk_default/index_0/seed_2/trajectory.npz",
+      "bytes": 481164,
+      "sha256": "deb58700278dcb38cf31f8a27eb940057793bdf8a2c06f257a1eedddc6e779e6"
+    },
+    {
+      "path": "phase2/results/camera_mask/external/xvla/milk/chunk_default/index_0/seed_2/timings.json",
+      "bytes": 352559,
+      "sha256": "42515e2b02c639a1fce8ba044f1ce4dacb5871a9373b300ce4e4f3706bbd601f"
+    },
+    {
+      "path": "phase2/results/camera_mask/external/xvla/milk/chunk_default/index_0/seed_2/rollout.mp4",
+      "bytes": 373992,
+      "sha256": "9c92a47ceb1ffe736ce4b5ac3e579ca92b86e5af69a20a0dea95a7daeba9d095"
+    },
+    {
+      "path": "phase2/results/camera_mask/external/xvla/milk/chunk_default/index_0/seed_2/stage_metrics.json",
+      "bytes": 696,
+      "sha256": "521270ba65611c4bb024831042d02346f8d3a259c201f64e8010d8c07227c6b6"
+    },
+    {
+      "path": "phase2/results/camera_mask/wrist/smolvla/milk/chunk_default/index_0/seed_0/result.json",
+      "bytes": 550,
+      "sha256": "3b0d06f5227cc7c0e2d9737a650eba44334eb314446cc3b109c37ec7a8272369"
+    },
+    {
+      "path": "phase2/results/camera_mask/wrist/smolvla/milk/chunk_default/index_0/seed_0/trajectory.npz",
+      "bytes": 510540,
+      "sha256": "acd7138a7e4012e59644964592b03cbe0ff3a93f49bf48f6685ca7b241d9bd9e"
+    },
+    {
+      "path": "phase2/results/camera_mask/wrist/smolvla/milk/chunk_default/index_0/seed_0/timings.json",
+      "bytes": 351581,
+      "sha256": "3e4259d9c4b067a90d0fd23192266d09290818462465c44c4dfd002544e3f631"
+    },
+    {
+      "path": "phase2/results/camera_mask/wrist/smolvla/milk/chunk_default/index_0/seed_0/rollout.mp4",
+      "bytes": 1609192,
+      "sha256": "2d24262067b7fd88fbd6add722d88dcd4048e20956493cd08e33ab07f9c05cac"
+    },
+    {
+      "path": "phase2/results/camera_mask/wrist/smolvla/milk/chunk_default/index_0/seed_0/stage_metrics.json",
+      "bytes": 699,
+      "sha256": "b21b55ecb81c55085d99b5f0cbd433bd2a30688cb3a4c4d1f47726a7b4e21e7b"
+    },
+    {
+      "path": "phase2/results/camera_mask/wrist/smolvla/milk/chunk_default/index_0/seed_1/result.json",
+      "bytes": 550,
+      "sha256": "fcd2435975f8e7aa9a6c71bf5357f6d4a06c96c250b9d81f0db4ab69eaffe2a2"
+    },
+    {
+      "path": "phase2/results/camera_mask/wrist/smolvla/milk/chunk_default/index_0/seed_1/trajectory.npz",
+      "bytes": 510026,
+      "sha256": "08a136150303c423de4ad59b351eaaa34c33e2141f682a9e8a0c2753ae52812b"
+    },
+    {
+      "path": "phase2/results/camera_mask/wrist/smolvla/milk/chunk_default/index_0/seed_1/timings.json",
+      "bytes": 352391,
+      "sha256": "4fa61aeb475618d7a14954b3647d29d7246267c53f31af296941b8a18e74bcb5"
+    },
+    {
+      "path": "phase2/results/camera_mask/wrist/smolvla/milk/chunk_default/index_0/seed_1/rollout.mp4",
+      "bytes": 1563035,
+      "sha256": "fbbb9d67c7699bb511ab9f6993953f6a780af0b96a6a83438cc3e56f3d02deee"
+    },
+    {
+      "path": "phase2/results/camera_mask/wrist/smolvla/milk/chunk_default/index_0/seed_1/stage_metrics.json",
+      "bytes": 698,
+      "sha256": "4d5efc9d12e5da40444f5bf34742d34860f3bd677a256f36a4f86d5e4ea92cee"
+    },
+    {
+      "path": "phase2/results/camera_mask/wrist/smolvla/milk/chunk_default/index_0/seed_2/result.json",
+      "bytes": 551,
+      "sha256": "74ccf2dc4d109c865144486d0f07e862b400ddeb31bdd098aedaf19fa4bc8ea2"
+    },
+    {
+      "path": "phase2/results/camera_mask/wrist/smolvla/milk/chunk_default/index_0/seed_2/trajectory.npz",
+      "bytes": 503039,
+      "sha256": "d63813075753a2a0eac4a6cbed3ed816ed8e17e0c969f62ed14bab65434df3eb"
+    },
+    {
+      "path": "phase2/results/camera_mask/wrist/smolvla/milk/chunk_default/index_0/seed_2/timings.json",
+      "bytes": 351016,
+      "sha256": "8cb23582ff48a6e1fa90d865ab3137f920ab7b5090e329fbded450eeb9e9efb3"
+    },
+    {
+      "path": "phase2/results/camera_mask/wrist/smolvla/milk/chunk_default/index_0/seed_2/rollout.mp4",
+      "bytes": 1217074,
+      "sha256": "d34a07a6df0b2f685baaa6f18b5bfa345bbd5269c4bd6a887147c3d658a18c0f"
+    },
+    {
+      "path": "phase2/results/camera_mask/wrist/smolvla/milk/chunk_default/index_0/seed_2/stage_metrics.json",
+      "bytes": 696,
+      "sha256": "521270ba65611c4bb024831042d02346f8d3a259c201f64e8010d8c07227c6b6"
+    },
+    {
+      "path": "phase2/results/camera_mask/wrist/xvla/milk/chunk_default/index_0/seed_0/result.json",
+      "bytes": 521,
+      "sha256": "d08e2042ee3b55b5b70ce5ecfc0be23f1bb9507964926c75b677bd588d2a0d4e"
+    },
+    {
+      "path": "phase2/results/camera_mask/wrist/xvla/milk/chunk_default/index_0/seed_0/trajectory.npz",
+      "bytes": 481195,
+      "sha256": "e6bf6164ec3b3a1f334a516131cb863a4a308326d267efd31b95e53df0fe2c4f"
+    },
+    {
+      "path": "phase2/results/camera_mask/wrist/xvla/milk/chunk_default/index_0/seed_0/timings.json",
+      "bytes": 352774,
+      "sha256": "9fd0a0952949c6b4c4a627d15028c1e9e9718234db48b97da520214251f8a0ff"
+    },
+    {
+      "path": "phase2/results/camera_mask/wrist/xvla/milk/chunk_default/index_0/seed_0/rollout.mp4",
+      "bytes": 803320,
+      "sha256": "05a84792f78749f54f0e34228b05c76363c80631f40395fa3f058280794dd357"
+    },
+    {
+      "path": "phase2/results/camera_mask/wrist/xvla/milk/chunk_default/index_0/seed_0/stage_metrics.json",
+      "bytes": 698,
+      "sha256": "496da5d556771e0bcc62f848e82705dfc0bc1a00fd9dbb6ca7c3185ecc899b6b"
+    },
+    {
+      "path": "phase2/results/camera_mask/wrist/xvla/milk/chunk_default/index_0/seed_1/result.json",
+      "bytes": 522,
+      "sha256": "25f8ba92321aaa8627a498ab2437bdaccf5be4d02dfb0d230e90b241e5c0f5ca"
+    },
+    {
+      "path": "phase2/results/camera_mask/wrist/xvla/milk/chunk_default/index_0/seed_1/trajectory.npz",
+      "bytes": 480819,
+      "sha256": "166685302b17e797ac61edf973ab76acd080cabef14f51632cfdf9a545556f57"
+    },
+    {
+      "path": "phase2/results/camera_mask/wrist/xvla/milk/chunk_default/index_0/seed_1/timings.json",
+      "bytes": 353529,
+      "sha256": "2241be3742390fdc533ba8b167c05f931e9a4ebfdc90cd07f4a77aaeff2fda87"
+    },
+    {
+      "path": "phase2/results/camera_mask/wrist/xvla/milk/chunk_default/index_0/seed_1/rollout.mp4",
+      "bytes": 805205,
+      "sha256": "de6caa5035d01ce985af60a64d13232ce5612728b558e93dc197dddca2818fc0"
+    },
+    {
+      "path": "phase2/results/camera_mask/wrist/xvla/milk/chunk_default/index_0/seed_1/stage_metrics.json",
+      "bytes": 697,
+      "sha256": "f16d48002ef2d82df521abb47f2d7a3fbbba57c78e34c463424c76d1bdbe9ac9"
+    },
+    {
+      "path": "phase2/results/camera_mask/wrist/xvla/milk/chunk_default/index_0/seed_2/result.json",
+      "bytes": 521,
+      "sha256": "cb9290fbbde474f86ef20fe23f34da941b20e41403c106efc792a4ab14ff72a7"
+    },
+    {
+      "path": "phase2/results/camera_mask/wrist/xvla/milk/chunk_default/index_0/seed_2/trajectory.npz",
+      "bytes": 480887,
+      "sha256": "784adc03eb708f6bb862bd5198dfe5313754580c7cc74da9f24503f43ea3ed3d"
+    },
+    {
+      "path": "phase2/results/camera_mask/wrist/xvla/milk/chunk_default/index_0/seed_2/timings.json",
+      "bytes": 351157,
+      "sha256": "1dfed0b479d28befcc22322a880e4d402e11301f360402cac22ef683c0aab1d2"
+    },
+    {
+      "path": "phase2/results/camera_mask/wrist/xvla/milk/chunk_default/index_0/seed_2/rollout.mp4",
+      "bytes": 805064,
+      "sha256": "20f3a051e4c09c7b3b4f31cdc289a2b8cd6e1a8e19e4bbf6dd25f9e6bfc4ad0c"
+    },
+    {
+      "path": "phase2/results/camera_mask/wrist/xvla/milk/chunk_default/index_0/seed_2/stage_metrics.json",
+      "bytes": 695,
+      "sha256": "ce7e37527b316a3199dca99cdd5ac76534833d1265e13f8993d182ec94867491"
+    },
+    {
+      "path": "phase2/results/generalization/none/smolvla/black_bowl/chunk_default/index_1/seed_0/result.json",
+      "bytes": 564,
+      "sha256": "420081687ceb419cedd9f05ba39a3bcaf2841d05d4cc30e140ade2c9c0591e2a"
+    },
+    {
+      "path": "phase2/results/generalization/none/smolvla/black_bowl/chunk_default/index_1/seed_0/trajectory.npz",
+      "bytes": 330950,
+      "sha256": "de423939dba2d808d6ef336fe222c23ad93c9fc6aac2e56a9feef51dfa688414"
+    },
+    {
+      "path": "phase2/results/generalization/none/smolvla/black_bowl/chunk_default/index_1/seed_0/timings.json",
+      "bytes": 248783,
+      "sha256": "c95227b57d8615d9a45e8a49bce7abc6d886da75fbaf774aab39a817dca0ac1d"
+    },
+    {
+      "path": "phase2/results/generalization/none/smolvla/black_bowl/chunk_default/index_1/seed_0/rollout.mp4",
+      "bytes": 808871,
+      "sha256": "cf4e1ce60fe9de6c9e8bd70cf5261b12204d5d29958a042bc51ecc2ec5ac20d3"
+    },
+    {
+      "path": "phase2/results/generalization/none/smolvla/black_bowl/chunk_default/index_1/seed_0/stage_metrics.json",
+      "bytes": 533,
+      "sha256": "8905bf8dd8f34e6b2967400c1d29b9fb83015bee9aba7afd18d78a4ff83a837e"
+    },
+    {
+      "path": "phase2/results/generalization/none/smolvla/black_bowl/chunk_default/index_1/seed_1/result.json",
+      "bytes": 563,
+      "sha256": "1301dec5f53087ca3f7d7ca8bf989e11f113895e82897cd3a0e65853fb44b82d"
+    },
+    {
+      "path": "phase2/results/generalization/none/smolvla/black_bowl/chunk_default/index_1/seed_1/trajectory.npz",
+      "bytes": 333801,
+      "sha256": "6e716aa844bd78ee2f0bd5f2aa4a64630829b27a5e8b8cc608e83672f0c993b3"
+    },
+    {
+      "path": "phase2/results/generalization/none/smolvla/black_bowl/chunk_default/index_1/seed_1/timings.json",
+      "bytes": 248334,
+      "sha256": "a1e78a4ca6f70def3445162168ce9c62abc80ba7726d3033746782a72494d845"
+    },
+    {
+      "path": "phase2/results/generalization/none/smolvla/black_bowl/chunk_default/index_1/seed_1/rollout.mp4",
+      "bytes": 874982,
+      "sha256": "6f6349fa41cf15d8488b7ecc0d2e88a09319e876a7f4b2df5f1d5d5f3b368cec"
+    },
+    {
+      "path": "phase2/results/generalization/none/smolvla/black_bowl/chunk_default/index_1/seed_1/stage_metrics.json",
+      "bytes": 533,
+      "sha256": "16f9dbca96d256da92902d5a8f2756a2a4d912ab3c381c765cca4f57114055b6"
+    },
+    {
+      "path": "phase2/results/generalization/none/smolvla/black_bowl/chunk_default/index_1/seed_2/result.json",
+      "bytes": 564,
+      "sha256": "0543168006d205f66a3a4c62914efe1b7806c09de0e92e4a1ce2ffa4e5d42e0d"
+    },
+    {
+      "path": "phase2/results/generalization/none/smolvla/black_bowl/chunk_default/index_1/seed_2/trajectory.npz",
+      "bytes": 385031,
+      "sha256": "ddfb6d14a4acdba4574b72f1673207f9da1a2701e557b6dc55a7c7a62aaa3fc6"
+    },
+    {
+      "path": "phase2/results/generalization/none/smolvla/black_bowl/chunk_default/index_1/seed_2/timings.json",
+      "bytes": 248774,
+      "sha256": "ecaf1ca8592336e36103f0f5655de7cbbe4ed61380ed365b6e7a205db016bde3"
+    },
+    {
+      "path": "phase2/results/generalization/none/smolvla/black_bowl/chunk_default/index_1/seed_2/rollout.mp4",
+      "bytes": 817594,
+      "sha256": "852689654c837fea275afb7a59825d99f4438802a6caad07ad9746e5dc471c5e"
+    },
+    {
+      "path": "phase2/results/generalization/none/smolvla/black_bowl/chunk_default/index_1/seed_2/stage_metrics.json",
+      "bytes": 533,
+      "sha256": "486a904d70f0f619b2cc264901529b10269b3226b69d585b38cde37a29761764"
+    },
+    {
+      "path": "phase2/results/generalization/none/smolvla/black_bowl/chunk_default/index_2/seed_0/result.json",
+      "bytes": 564,
+      "sha256": "5a8cfe442881cf959d9bc957a01f2b18160413268dca86fde937f079ec1f4d8d"
+    },
+    {
+      "path": "phase2/results/generalization/none/smolvla/black_bowl/chunk_default/index_2/seed_0/trajectory.npz",
+      "bytes": 333952,
+      "sha256": "f8a43d7601759e865fad7ce107f621c8bcb2a56dc049a0a108b3993abefdd79f"
+    },
+    {
+      "path": "phase2/results/generalization/none/smolvla/black_bowl/chunk_default/index_2/seed_0/timings.json",
+      "bytes": 247924,
+      "sha256": "ad25935052881307c3e065416f9a62c571ce45eb5ac1c58a38cf49710ff1e022"
+    },
+    {
+      "path": "phase2/results/generalization/none/smolvla/black_bowl/chunk_default/index_2/seed_0/rollout.mp4",
+      "bytes": 851308,
+      "sha256": "cb69e8925062e4beae6fa7c2f00171246c744eec8af2d483a05ea47f24a9309f"
+    },
+    {
+      "path": "phase2/results/generalization/none/smolvla/black_bowl/chunk_default/index_2/seed_0/stage_metrics.json",
+      "bytes": 531,
+      "sha256": "fe34636439c34faf14c5d48b952e340e3472e2ad080471373d2cd26ac0b34d3f"
+    },
+    {
+      "path": "phase2/results/generalization/none/smolvla/black_bowl/chunk_default/index_2/seed_1/result.json",
+      "bytes": 564,
+      "sha256": "68dfc197800e407355ec59d9c6f69dcd3522e155946378a4c784dbec5df8d72e"
+    },
+    {
+      "path": "phase2/results/generalization/none/smolvla/black_bowl/chunk_default/index_2/seed_1/trajectory.npz",
+      "bytes": 370185,
+      "sha256": "bd2c99b7ab49f2f9a4df7c6f717dcddb9ec154698e71846a285cbd3748788271"
+    },
+    {
+      "path": "phase2/results/generalization/none/smolvla/black_bowl/chunk_default/index_2/seed_1/timings.json",
+      "bytes": 247804,
+      "sha256": "ab72dd77c634669b978989856a3d0b4ef0015e4b0bf5bfbfc4fc75069ec6132f"
+    },
+    {
+      "path": "phase2/results/generalization/none/smolvla/black_bowl/chunk_default/index_2/seed_1/rollout.mp4",
+      "bytes": 816317,
+      "sha256": "492a77bba1e4b55f7d7ba51d7aed47b19d8f0eff9fb9148eb4d3c6824afe5cdf"
+    },
+    {
+      "path": "phase2/results/generalization/none/smolvla/black_bowl/chunk_default/index_2/seed_1/stage_metrics.json",
+      "bytes": 547,
+      "sha256": "7fc36e4cfbc67236e8bf5bb8a3bde5dc391be4e660668220585778107384e2b2"
+    },
+    {
+      "path": "phase2/results/generalization/none/smolvla/black_bowl/chunk_default/index_2/seed_2/result.json",
+      "bytes": 564,
+      "sha256": "2383ca9c658658bdc16cd98c1b0ace6ea4ca4a956a99fb0b17dd7bbbae5e28a4"
+    },
+    {
+      "path": "phase2/results/generalization/none/smolvla/black_bowl/chunk_default/index_2/seed_2/trajectory.npz",
+      "bytes": 378582,
+      "sha256": "fcf2a8f0cafd1902619b49ebbbc0327ab5c95cdcb5bcbd48c8b29e4d54e33ad4"
+    },
+    {
+      "path": "phase2/results/generalization/none/smolvla/black_bowl/chunk_default/index_2/seed_2/timings.json",
+      "bytes": 247671,
+      "sha256": "208bb0f70b09dcf76bcc96450d4399556a7b20f4864f8b52a905f6f4e8ff0f0a"
+    },
+    {
+      "path": "phase2/results/generalization/none/smolvla/black_bowl/chunk_default/index_2/seed_2/rollout.mp4",
+      "bytes": 838643,
+      "sha256": "18f62f0e798d86e24a058239aa595368d3444053b2f86c7223f5c07dbdd546c7"
+    },
+    {
+      "path": "phase2/results/generalization/none/smolvla/black_bowl/chunk_default/index_2/seed_2/stage_metrics.json",
+      "bytes": 547,
+      "sha256": "0a90325a5a6c3e4cc48919b35af4b76ad50eae61661c14b01641479c4c06bd32"
+    },
+    {
+      "path": "phase2/results/generalization/none/smolvla/black_bowl/chunk_default/index_3/seed_0/result.json",
+      "bytes": 563,
+      "sha256": "bb2cc06ac462e8e718cc30f81f349bcbb08f7d4c34ff9117b556d16c3d847c30"
+    },
+    {
+      "path": "phase2/results/generalization/none/smolvla/black_bowl/chunk_default/index_3/seed_0/trajectory.npz",
+      "bytes": 334497,
+      "sha256": "a4f89e1b4890301b81e3eaa3239a6e979769d6a7126016d42feca7dfa06d0d38"
+    },
+    {
+      "path": "phase2/results/generalization/none/smolvla/black_bowl/chunk_default/index_3/seed_0/timings.json",
+      "bytes": 248433,
+      "sha256": "f4514f0fe47d26dae8a1a53825e5af46159dcc8701a206151fd9848e47e1f22d"
+    },
+    {
+      "path": "phase2/results/generalization/none/smolvla/black_bowl/chunk_default/index_3/seed_0/rollout.mp4",
+      "bytes": 861388,
+      "sha256": "fbb0c469425ed92219328cadf30e6e8a8f67825ef3299fa666144a8078cd521f"
+    },
+    {
+      "path": "phase2/results/generalization/none/smolvla/black_bowl/chunk_default/index_3/seed_0/stage_metrics.json",
+      "bytes": 536,
+      "sha256": "461e99f3c81e0a774c8db2448c257d1c11b0051592d06a1906197df00f5c0b33"
+    },
+    {
+      "path": "phase2/results/generalization/none/smolvla/black_bowl/chunk_default/index_3/seed_1/result.json",
+      "bytes": 563,
+      "sha256": "a1b59b9f4f5f54b3191e6647f6dba501518333d34ec72d24b28936f852871fb7"
+    },
+    {
+      "path": "phase2/results/generalization/none/smolvla/black_bowl/chunk_default/index_3/seed_1/trajectory.npz",
+      "bytes": 388470,
+      "sha256": "46c43c01b2ad9a5060bb079348f2056b994d586a98133d5640bfcdefe6e3dcb5"
+    },
+    {
+      "path": "phase2/results/generalization/none/smolvla/black_bowl/chunk_default/index_3/seed_1/timings.json",
+      "bytes": 250460,
+      "sha256": "69c61e241cd2ba882c1ac4e864216c12badfd25b550a7af1072f3e0410695fc8"
+    },
+    {
+      "path": "phase2/results/generalization/none/smolvla/black_bowl/chunk_default/index_3/seed_1/rollout.mp4",
+      "bytes": 1056770,
+      "sha256": "adba34c6b9716d57e6cb495780e5d2300bcc0026a83f7cd9342d9d60d9485dbc"
+    },
+    {
+      "path": "phase2/results/generalization/none/smolvla/black_bowl/chunk_default/index_3/seed_1/stage_metrics.json",
+      "bytes": 552,
+      "sha256": "a271e638d2f809e869f8105d896ebca8d2818a30f00dc752f4027e30fe87cde7"
+    },
+    {
+      "path": "phase2/results/generalization/none/smolvla/black_bowl/chunk_default/index_3/seed_2/result.json",
+      "bytes": 564,
+      "sha256": "bbe2960ced08bf7c0fe6e20bc73dcccabba2a16d5b97c1a2cae4de80e2f7889f"
+    },
+    {
+      "path": "phase2/results/generalization/none/smolvla/black_bowl/chunk_default/index_3/seed_2/trajectory.npz",
+      "bytes": 369960,
+      "sha256": "afa62a3413432cad5d023c77eae214a0c23547044c6531be00ed21c77dcb3c54"
+    },
+    {
+      "path": "phase2/results/generalization/none/smolvla/black_bowl/chunk_default/index_3/seed_2/timings.json",
+      "bytes": 247803,
+      "sha256": "a5d4f0c5e15dd1c1fdd67d32fa56505699e1926cb1e2cdc18144ef2f74ddfc90"
+    },
+    {
+      "path": "phase2/results/generalization/none/smolvla/black_bowl/chunk_default/index_3/seed_2/rollout.mp4",
+      "bytes": 646597,
+      "sha256": "1558fec0ccaf6acca86faf26679e7697f56d87ded16ac3a21a7acd0fc5a207fa"
+    },
+    {
+      "path": "phase2/results/generalization/none/smolvla/black_bowl/chunk_default/index_3/seed_2/stage_metrics.json",
+      "bytes": 552,
+      "sha256": "5594965686d18b376cbc98faeaa42c821d233f1f23f943ce1aaeb3c180574bf8"
+    },
+    {
+      "path": "phase2/results/generalization/none/smolvla/milk/chunk_default/index_1/seed_0/result.json",
+      "bytes": 552,
+      "sha256": "d6b3ab65b770fc1cb0ba17b18eda8d2b29780ae31f945217416b806839d93bd1"
+    },
+    {
+      "path": "phase2/results/generalization/none/smolvla/milk/chunk_default/index_1/seed_0/trajectory.npz",
+      "bytes": 527940,
+      "sha256": "b363867115113728e7596726410bb736676d7fa31add737f187d4455d09ab5a8"
+    },
+    {
+      "path": "phase2/results/generalization/none/smolvla/milk/chunk_default/index_1/seed_0/timings.json",
+      "bytes": 350817,
+      "sha256": "bf9ae9e79b3ebe86459543017c752577c509db21e2d8d98f825a48e1ea500482"
+    },
+    {
+      "path": "phase2/results/generalization/none/smolvla/milk/chunk_default/index_1/seed_0/rollout.mp4",
+      "bytes": 1681321,
+      "sha256": "9e1e3beeccbeb1421bd2d8da68ef5eeca92be3b37104357369582339f90c1ac2"
+    },
+    {
+      "path": "phase2/results/generalization/none/smolvla/milk/chunk_default/index_1/seed_0/stage_metrics.json",
+      "bytes": 693,
+      "sha256": "1da05dbdc2f72534fad9376b7266c4c253ec012d708f227ff88805c22abfffa4"
+    },
+    {
+      "path": "phase2/results/generalization/none/smolvla/milk/chunk_default/index_1/seed_1/result.json",
+      "bytes": 553,
+      "sha256": "d3b4c646f7f1685a241653a02c14ea81b0ee35a0248744f664d1eee8c9cb21eb"
+    },
+    {
+      "path": "phase2/results/generalization/none/smolvla/milk/chunk_default/index_1/seed_1/trajectory.npz",
+      "bytes": 504519,
+      "sha256": "d2635a2295d0f0128d392d44d1091780d9621a72ee5d60035122d13f2ea61313"
+    },
+    {
+      "path": "phase2/results/generalization/none/smolvla/milk/chunk_default/index_1/seed_1/timings.json",
+      "bytes": 350567,
+      "sha256": "64dd01a8442ab9f86bdd87ef2f38fca099e092ca3aa23bab875da0c3d58edff1"
+    },
+    {
+      "path": "phase2/results/generalization/none/smolvla/milk/chunk_default/index_1/seed_1/rollout.mp4",
+      "bytes": 1692133,
+      "sha256": "015c23b67a640cfb7033869af3369c724685880ffbbf2a5b2d3be039cf697adf"
+    },
+    {
+      "path": "phase2/results/generalization/none/smolvla/milk/chunk_default/index_1/seed_1/stage_metrics.json",
+      "bytes": 691,
+      "sha256": "20b5e88f4509a35add52b95a1421bdaad98ac3e67cf2b580ea735a7720899fbc"
+    },
+    {
+      "path": "phase2/results/generalization/none/smolvla/milk/chunk_default/index_1/seed_2/result.json",
+      "bytes": 552,
+      "sha256": "f8bf9549253dc39d0597108d5c285f04d88e5edc64de59d30a756d464b77c52e"
+    },
+    {
+      "path": "phase2/results/generalization/none/smolvla/milk/chunk_default/index_1/seed_2/trajectory.npz",
+      "bytes": 507173,
+      "sha256": "949f09d475a1ee39eb7c6345e2c4c5492b8401a55403c625ddbf346d98f4ef4e"
+    },
+    {
+      "path": "phase2/results/generalization/none/smolvla/milk/chunk_default/index_1/seed_2/timings.json",
+      "bytes": 352515,
+      "sha256": "4e7beceb9d35e9eff2ebe80f39edae27236a47d361e16b9f61511cb7711456bb"
+    },
+    {
+      "path": "phase2/results/generalization/none/smolvla/milk/chunk_default/index_1/seed_2/rollout.mp4",
+      "bytes": 1463432,
+      "sha256": "abba0f29d1479190b85b5dd18300c997ae168562210de0917327be75d1064b29"
+    },
+    {
+      "path": "phase2/results/generalization/none/smolvla/milk/chunk_default/index_1/seed_2/stage_metrics.json",
+      "bytes": 707,
+      "sha256": "3ac463025dfc5bf796446dbe789200bb4a7d03963623507a496604e94290992c"
+    },
+    {
+      "path": "phase2/results/generalization/none/smolvla/milk/chunk_default/index_2/seed_0/result.json",
+      "bytes": 552,
+      "sha256": "f1caa2f3010955bb4aa2f7d9ed7fb4e4c1bc9ef4391936049aac441d40e41606"
+    },
+    {
+      "path": "phase2/results/generalization/none/smolvla/milk/chunk_default/index_2/seed_0/trajectory.npz",
+      "bytes": 514376,
+      "sha256": "c89619300a9721fa36f3d1244a6de7d7c7db2880f7b6fe1dbeebeb0a43436acc"
+    },
+    {
+      "path": "phase2/results/generalization/none/smolvla/milk/chunk_default/index_2/seed_0/timings.json",
+      "bytes": 352845,
+      "sha256": "eb66030b0ac99b657688a6949d6fc397f57230a53220d333e3cf0e198f71c167"
+    },
+    {
+      "path": "phase2/results/generalization/none/smolvla/milk/chunk_default/index_2/seed_0/rollout.mp4",
+      "bytes": 1429145,
+      "sha256": "853d5b5236e2a6e5daa65beb5a20dad880a5a3380676b6daeaf16bcfe9ef9ac3"
+    },
+    {
+      "path": "phase2/results/generalization/none/smolvla/milk/chunk_default/index_2/seed_0/stage_metrics.json",
+      "bytes": 710,
+      "sha256": "53b65ec9eadd0de25e7c52c6dd674f54d80e8838b6ae5c6f7457b7acdf38a61d"
+    },
+    {
+      "path": "phase2/results/generalization/none/smolvla/milk/chunk_default/index_2/seed_1/result.json",
+      "bytes": 553,
+      "sha256": "1d57d0a4736bfced65ecdc6311739c92a7f11b852d455728b77db734b917b2e7"
+    },
+    {
+      "path": "phase2/results/generalization/none/smolvla/milk/chunk_default/index_2/seed_1/trajectory.npz",
+      "bytes": 498764,
+      "sha256": "33ddc77a13cd1df9f5d5d4a15437a9e6b12860f15567039c6fabd8a575925f8f"
+    },
+    {
+      "path": "phase2/results/generalization/none/smolvla/milk/chunk_default/index_2/seed_1/timings.json",
+      "bytes": 353379,
+      "sha256": "b106f531fffb58f7e42b98c7cb79a02a2971d431b621fd03931737cfd770c67e"
+    },
+    {
+      "path": "phase2/results/generalization/none/smolvla/milk/chunk_default/index_2/seed_1/rollout.mp4",
+      "bytes": 1247252,
+      "sha256": "4f08643d7c5262222781a71aff2e962607970533ba21d48345415d7ee673ff35"
+    },
+    {
+      "path": "phase2/results/generalization/none/smolvla/milk/chunk_default/index_2/seed_1/stage_metrics.json",
+      "bytes": 697,
+      "sha256": "253fc5430b1ee862f80ca72cfd4b4dfbbf9e4ab6d6270b4740ff41607f9cc665"
+    },
+    {
+      "path": "phase2/results/generalization/none/smolvla/milk/chunk_default/index_2/seed_2/result.json",
+      "bytes": 553,
+      "sha256": "7955d7cde2f4316f2b3a36dae8a18f6044ffac394246e0c88a6c4740f18a77bc"
+    },
+    {
+      "path": "phase2/results/generalization/none/smolvla/milk/chunk_default/index_2/seed_2/trajectory.npz",
+      "bytes": 501437,
+      "sha256": "d5709f949e9de5c5bd2d62d7fd5ba4f8f3d8b929bae2242aa508b91471b6fe85"
+    },
+    {
+      "path": "phase2/results/generalization/none/smolvla/milk/chunk_default/index_2/seed_2/timings.json",
+      "bytes": 353543,
+      "sha256": "bd7941af0478b6a98f6a65a2bab2cde4321265246cb6ae93e39fe55ece6e76c7"
+    },
+    {
+      "path": "phase2/results/generalization/none/smolvla/milk/chunk_default/index_2/seed_2/rollout.mp4",
+      "bytes": 1373733,
+      "sha256": "98c923c8fcfe34c9b38b4e0d14ce54f6c794ae562d6f1cf21e3f42f72cec80a0"
+    },
+    {
+      "path": "phase2/results/generalization/none/smolvla/milk/chunk_default/index_2/seed_2/stage_metrics.json",
+      "bytes": 695,
+      "sha256": "2f53690ac8d0f3871de469383878e8aa6dac60b016c7853a4cfa918c6aa23bbe"
+    },
+    {
+      "path": "phase2/results/generalization/none/smolvla/milk/chunk_default/index_3/seed_0/result.json",
+      "bytes": 553,
+      "sha256": "0cdeda7b90b9965dba896bb9c2dbe294f29e063c9dcafe55581b0abc3cb99d7a"
+    },
+    {
+      "path": "phase2/results/generalization/none/smolvla/milk/chunk_default/index_3/seed_0/trajectory.npz",
+      "bytes": 500630,
+      "sha256": "4f0f9e89c030f65cf586dad9418ff53003d4eed8610c74f2e945bb96bba5929b"
+    },
+    {
+      "path": "phase2/results/generalization/none/smolvla/milk/chunk_default/index_3/seed_0/timings.json",
+      "bytes": 351748,
+      "sha256": "e8e1f19eaac98ede1de68429c5cdb19f257f238e1f3ecfbc30ed3651a9a1d617"
+    },
+    {
+      "path": "phase2/results/generalization/none/smolvla/milk/chunk_default/index_3/seed_0/rollout.mp4",
+      "bytes": 1111165,
+      "sha256": "731b647930fd58f2013fd54b7ef00293be59d92f1fc491eb287d086907e7bda2"
+    },
+    {
+      "path": "phase2/results/generalization/none/smolvla/milk/chunk_default/index_3/seed_0/stage_metrics.json",
+      "bytes": 695,
+      "sha256": "d3d5e49219f7f49b365c559da5df72b633a9a9e73d55c3fee41a66e84ad8e357"
+    },
+    {
+      "path": "phase2/results/generalization/none/smolvla/milk/chunk_default/index_3/seed_1/result.json",
+      "bytes": 552,
+      "sha256": "1a11320b6288011ab74ab30bc5b2e3d47472b65758d27343a114e93e76bdd717"
+    },
+    {
+      "path": "phase2/results/generalization/none/smolvla/milk/chunk_default/index_3/seed_1/trajectory.npz",
+      "bytes": 499093,
+      "sha256": "23e36d9974f30e74395740c8287f590d22454e13c712154020884c1486fc0d6a"
+    },
+    {
+      "path": "phase2/results/generalization/none/smolvla/milk/chunk_default/index_3/seed_1/timings.json",
+      "bytes": 353179,
+      "sha256": "5bcc72ed73c2f6e33016330e16f60ef48e9c33c66ed485782572c8cb92780ec6"
+    },
+    {
+      "path": "phase2/results/generalization/none/smolvla/milk/chunk_default/index_3/seed_1/rollout.mp4",
+      "bytes": 1171097,
+      "sha256": "ce85ad614feeb9b17f97f0245683445f05517e030614487c4238de1486cec92b"
+    },
+    {
+      "path": "phase2/results/generalization/none/smolvla/milk/chunk_default/index_3/seed_1/stage_metrics.json",
+      "bytes": 695,
+      "sha256": "565bdc4576bb598bea653ea03cbd4fb91375ccd40104504158ae50b60ec9308f"
+    },
+    {
+      "path": "phase2/results/generalization/none/smolvla/milk/chunk_default/index_3/seed_2/result.json",
+      "bytes": 552,
+      "sha256": "fc19e01a7ab133f20d66a88de003cfd18e6074b09395108ae1dff2e39339f62c"
+    },
+    {
+      "path": "phase2/results/generalization/none/smolvla/milk/chunk_default/index_3/seed_2/trajectory.npz",
+      "bytes": 495480,
+      "sha256": "202d354da61e1b44fea027cbaba7eb58b24a8eda0a4672388b268fdc21400130"
+    },
+    {
+      "path": "phase2/results/generalization/none/smolvla/milk/chunk_default/index_3/seed_2/timings.json",
+      "bytes": 351619,
+      "sha256": "ec669b7678fc267086daf503e86cd1eb1293c778ac8388c6876721ee9fe182dd"
+    },
+    {
+      "path": "phase2/results/generalization/none/smolvla/milk/chunk_default/index_3/seed_2/rollout.mp4",
+      "bytes": 1235766,
+      "sha256": "c387f3f09ffb9993244fb479b6896eb469c1bba93e56a3c2cde93420cfe54c4a"
+    },
+    {
+      "path": "phase2/results/generalization/none/smolvla/milk/chunk_default/index_3/seed_2/stage_metrics.json",
+      "bytes": 700,
+      "sha256": "c8e0382edb4035ec8e2859cc1c01cb3d2360c5e6d1f7628523bc6564f4ac41fa"
+    },
+    {
+      "path": "phase2/results/generalization/none/smolvla/wine_bottle/chunk_default/index_1/seed_0/result.json",
+      "bytes": 575,
+      "sha256": "aabed078dbfbd5af8c7abf8305c6dfb6156a2c4c8c5c7dadf3a902223fcc5e57"
+    },
+    {
+      "path": "phase2/results/generalization/none/smolvla/wine_bottle/chunk_default/index_1/seed_0/trajectory.npz",
+      "bytes": 330780,
+      "sha256": "4b672d2210f58310b6ee87b0dd2fd5623a53022e74e5f8a5a326428fcb6a7d4e"
+    },
+    {
+      "path": "phase2/results/generalization/none/smolvla/wine_bottle/chunk_default/index_1/seed_0/timings.json",
+      "bytes": 248987,
+      "sha256": "2bfb0bec6afc3e7b8df3e3b7278dd8a034bd47aa7c13261200ba629cfb19007a"
+    },
+    {
+      "path": "phase2/results/generalization/none/smolvla/wine_bottle/chunk_default/index_1/seed_0/rollout.mp4",
+      "bytes": 540059,
+      "sha256": "07568e57a226e927705570bedf53ccd78e6ec515bc56d32c4fbc6a026d5cf176"
+    },
+    {
+      "path": "phase2/results/generalization/none/smolvla/wine_bottle/chunk_default/index_1/seed_0/stage_metrics.json",
+      "bytes": 533,
+      "sha256": "90bbe6d433cb64b567fb159d834999fd5b2b31c71736b657f988504b5ce89e70"
+    },
+    {
+      "path": "phase2/results/generalization/none/smolvla/wine_bottle/chunk_default/index_1/seed_1/result.json",
+      "bytes": 573,
+      "sha256": "3135af042afdbdc5964c078fc47669559cd833f734887c6726e013fc5b4801bd"
+    },
+    {
+      "path": "phase2/results/generalization/none/smolvla/wine_bottle/chunk_default/index_1/seed_1/trajectory.npz",
+      "bytes": 46107,
+      "sha256": "701b6e63765068982dab4de3009a0f6f6da8eb0715dbf49d6028b34ae8e8b3bc"
+    },
+    {
+      "path": "phase2/results/generalization/none/smolvla/wine_bottle/chunk_default/index_1/seed_1/timings.json",
+      "bytes": 31422,
+      "sha256": "be69acc8188b4c917c64b8c83395ee137b20e6e96ea9d9a93531cc854d02aac3"
+    },
+    {
+      "path": "phase2/results/generalization/none/smolvla/wine_bottle/chunk_default/index_1/seed_1/rollout.mp4",
+      "bytes": 125364,
+      "sha256": "89b1c3f47c1b1f8e50084f9ebec9208c3ccaa83466d3a2b546125bb25d1a4a70"
+    },
+    {
+      "path": "phase2/results/generalization/none/smolvla/wine_bottle/chunk_default/index_1/seed_1/stage_metrics.json",
+      "bytes": 546,
+      "sha256": "3f2a360d39dde756d35a6acf7d83e0f9235fbf79a6e6dd6691266b5c78c3f3b8"
+    },
+    {
+      "path": "phase2/results/generalization/none/smolvla/wine_bottle/chunk_default/index_1/seed_2/result.json",
+      "bytes": 572,
+      "sha256": "d92fa70fd22240e124ecb7c853cf6d7c33bf18d9bfc5046f9e1c63b6c3e3bbf6"
+    },
+    {
+      "path": "phase2/results/generalization/none/smolvla/wine_bottle/chunk_default/index_1/seed_2/trajectory.npz",
+      "bytes": 46179,
+      "sha256": "53d3431676e20d84c3fcff6b81d9c5e9f1e67275359fccacb763b5d7ca2de1c5"
+    },
+    {
+      "path": "phase2/results/generalization/none/smolvla/wine_bottle/chunk_default/index_1/seed_2/timings.json",
+      "bytes": 31435,
+      "sha256": "28d990f25de5328082a0b1f60b7157b983eb051f44b085fadfca2a16121ad5c6"
+    },
+    {
+      "path": "phase2/results/generalization/none/smolvla/wine_bottle/chunk_default/index_1/seed_2/rollout.mp4",
+      "bytes": 124631,
+      "sha256": "b8742f69f541ebf26390b65c0d64a4aac6f392d6206772966ff6ad77927c99e1"
+    },
+    {
+      "path": "phase2/results/generalization/none/smolvla/wine_bottle/chunk_default/index_1/seed_2/stage_metrics.json",
+      "bytes": 546,
+      "sha256": "9c4e8e973866a551f410eb7887a69451f72b4e897391d9340f268603018200b0"
+    },
+    {
+      "path": "phase2/results/generalization/none/smolvla/wine_bottle/chunk_default/index_2/seed_0/result.json",
+      "bytes": 573,
+      "sha256": "e3c9b310ba4f577bfdfe12f1d7c80cfef13fd29ad6142788fcbaa6b97c608fb2"
+    },
+    {
+      "path": "phase2/results/generalization/none/smolvla/wine_bottle/chunk_default/index_2/seed_0/trajectory.npz",
+      "bytes": 48638,
+      "sha256": "61155ed0b168b881936049b974515aa132b4b3319a240714bf686f5e24ef97be"
+    },
+    {
+      "path": "phase2/results/generalization/none/smolvla/wine_bottle/chunk_default/index_2/seed_0/timings.json",
+      "bytes": 33310,
+      "sha256": "c1715db9af214c0f14f0cc7602f087631e661a4825200346e4b0c05371b6c2b9"
+    },
+    {
+      "path": "phase2/results/generalization/none/smolvla/wine_bottle/chunk_default/index_2/seed_0/rollout.mp4",
+      "bytes": 133940,
+      "sha256": "7f2a17995206afe1e1b28a1eb41d2027f8eca1fff85cfe385d5a840cd15ba7a5"
+    },
+    {
+      "path": "phase2/results/generalization/none/smolvla/wine_bottle/chunk_default/index_2/seed_0/stage_metrics.json",
+      "bytes": 546,
+      "sha256": "e85129707df37df2105a43210d8fd89ab03b7c7609203c5ca49c3425e35ce14e"
+    },
+    {
+      "path": "phase2/results/generalization/none/smolvla/wine_bottle/chunk_default/index_2/seed_1/result.json",
+      "bytes": 573,
+      "sha256": "e3360ef04fec8c39c3f4144a50000dc4d833e6e1395480952bb1031267d33f32"
+    },
+    {
+      "path": "phase2/results/generalization/none/smolvla/wine_bottle/chunk_default/index_2/seed_1/trajectory.npz",
+      "bytes": 48665,
+      "sha256": "e8a33a2434451664a8e99c50d39646c8bf09a15ce0cb411a02c1040ed08c52fb"
+    },
+    {
+      "path": "phase2/results/generalization/none/smolvla/wine_bottle/chunk_default/index_2/seed_1/timings.json",
+      "bytes": 33319,
+      "sha256": "d4d6e8dada726527982cfc94c9c9b59f91be2387e43f9fea8b1575cc0e05eebb"
+    },
+    {
+      "path": "phase2/results/generalization/none/smolvla/wine_bottle/chunk_default/index_2/seed_1/rollout.mp4",
+      "bytes": 130139,
+      "sha256": "ea9ca1d765a68435e5fa719da4658822bf268ef31f6021cdee50a5b48395d467"
+    },
+    {
+      "path": "phase2/results/generalization/none/smolvla/wine_bottle/chunk_default/index_2/seed_1/stage_metrics.json",
+      "bytes": 544,
+      "sha256": "9749936aa7acfba5bc0314fd4ba0683b14f4ba50e118c764c7819e175cd7b9e0"
+    },
+    {
+      "path": "phase2/results/generalization/none/smolvla/wine_bottle/chunk_default/index_2/seed_2/result.json",
+      "bytes": 572,
+      "sha256": "34b5190d33d59b146165688219fd141541cd13efda51f2eb08ccd82bc04673be"
+    },
+    {
+      "path": "phase2/results/generalization/none/smolvla/wine_bottle/chunk_default/index_2/seed_2/trajectory.npz",
+      "bytes": 45001,
+      "sha256": "355ae190ccddf5c81ca81206c2b6b143d88ba182515dec20a234b6234851a1a1"
+    },
+    {
+      "path": "phase2/results/generalization/none/smolvla/wine_bottle/chunk_default/index_2/seed_2/timings.json",
+      "bytes": 30806,
+      "sha256": "26e792d2d2fd17664f90e0b360645ef9469695726062a558376a116978147a91"
+    },
+    {
+      "path": "phase2/results/generalization/none/smolvla/wine_bottle/chunk_default/index_2/seed_2/rollout.mp4",
+      "bytes": 124914,
+      "sha256": "05c904872c25418c87f21858e8293c47f389a5b1c32f1aac9c751af06977558e"
+    },
+    {
+      "path": "phase2/results/generalization/none/smolvla/wine_bottle/chunk_default/index_2/seed_2/stage_metrics.json",
+      "bytes": 546,
+      "sha256": "1d1e8f1c16499e36c63d060a8b106d18666cb464053a3d418845aa3df33db67c"
+    },
+    {
+      "path": "phase2/results/generalization/none/smolvla/wine_bottle/chunk_default/index_3/seed_0/result.json",
+      "bytes": 574,
+      "sha256": "eac7892937aef9c9ab564eca40be320829b936a5b8ec060b316e08fc104d1fdc"
+    },
+    {
+      "path": "phase2/results/generalization/none/smolvla/wine_bottle/chunk_default/index_3/seed_0/trajectory.npz",
+      "bytes": 330571,
+      "sha256": "27239833cfb9bfd183a5120b0658f1e5da7623e87479989d2aafd798caf39366"
+    },
+    {
+      "path": "phase2/results/generalization/none/smolvla/wine_bottle/chunk_default/index_3/seed_0/timings.json",
+      "bytes": 249044,
+      "sha256": "a5f12729b3dc085a01cb6bc51e208c110eaadf95401a786230e50fa49d99d86d"
+    },
+    {
+      "path": "phase2/results/generalization/none/smolvla/wine_bottle/chunk_default/index_3/seed_0/rollout.mp4",
+      "bytes": 588097,
+      "sha256": "ab798e447e005bd2d6304397c5f84243c46ce7764bb205eebeef44679aaa8f75"
+    },
+    {
+      "path": "phase2/results/generalization/none/smolvla/wine_bottle/chunk_default/index_3/seed_0/stage_metrics.json",
+      "bytes": 533,
+      "sha256": "4d8a8a88152509ca8956fb1841e484e17eec52d204b125305ff19c028df334c8"
+    },
+    {
+      "path": "phase2/results/generalization/none/smolvla/wine_bottle/chunk_default/index_3/seed_1/result.json",
+      "bytes": 573,
+      "sha256": "02f8fb709ad48a4576ec32608883f5f5f06f3e6c7308f1de97ecec02b199fc71"
+    },
+    {
+      "path": "phase2/results/generalization/none/smolvla/wine_bottle/chunk_default/index_3/seed_1/trajectory.npz",
+      "bytes": 45611,
+      "sha256": "83d5b62450b6d428131b931a19706b46470c4b9c528daabe703af298c38a99d3"
+    },
+    {
+      "path": "phase2/results/generalization/none/smolvla/wine_bottle/chunk_default/index_3/seed_1/timings.json",
+      "bytes": 31133,
+      "sha256": "153fc5197505aca92c634c2bcdfeac4ab44b22e45d8b16583a20f9d3e8e19600"
+    },
+    {
+      "path": "phase2/results/generalization/none/smolvla/wine_bottle/chunk_default/index_3/seed_1/rollout.mp4",
+      "bytes": 125235,
+      "sha256": "a76ff6f41a38cab567cec809782b283f0373e2bd1358520b9b949a5abacbee27"
+    },
+    {
+      "path": "phase2/results/generalization/none/smolvla/wine_bottle/chunk_default/index_3/seed_1/stage_metrics.json",
+      "bytes": 544,
+      "sha256": "995a855f599391c45ead063330c7862e15933eac372d178fec065e1ace5db4b5"
+    },
+    {
+      "path": "phase2/results/generalization/none/smolvla/wine_bottle/chunk_default/index_3/seed_2/result.json",
+      "bytes": 572,
+      "sha256": "9b5ab3936804f44785ddd4a3a1e9185a2b9f90b53136e3cf6bbca2359830ff7c"
+    },
+    {
+      "path": "phase2/results/generalization/none/smolvla/wine_bottle/chunk_default/index_3/seed_2/trajectory.npz",
+      "bytes": 46595,
+      "sha256": "219dde6ef2c34f4515bb91bff10be08bf09c112176f15435c2b1894a0dcc1a9c"
+    },
+    {
+      "path": "phase2/results/generalization/none/smolvla/wine_bottle/chunk_default/index_3/seed_2/timings.json",
+      "bytes": 31740,
+      "sha256": "5b41eb88c1bb92dabcc81c931197ccc7e9f314044ebf5f92f42b5dce433e8aed"
+    },
+    {
+      "path": "phase2/results/generalization/none/smolvla/wine_bottle/chunk_default/index_3/seed_2/rollout.mp4",
+      "bytes": 127594,
+      "sha256": "aa95e0c860cc8d5a6ca8980e3aa21f1fcd01372efaf3e1c48cb7b6789132de46"
+    },
+    {
+      "path": "phase2/results/generalization/none/smolvla/wine_bottle/chunk_default/index_3/seed_2/stage_metrics.json",
+      "bytes": 544,
+      "sha256": "1e0760c456658a988b485ffdb279c347d9fc4ace4d00541c05b6760db02897f7"
+    },
+    {
+      "path": "phase2/results/generalization/none/xvla/black_bowl/chunk_default/index_1/seed_0/result.json",
+      "bytes": 533,
+      "sha256": "34d63cd518791465e5386de102e96a5318578d667814a796360e1204e3eb6bda"
+    },
+    {
+      "path": "phase2/results/generalization/none/xvla/black_bowl/chunk_default/index_1/seed_0/trajectory.npz",
+      "bytes": 39014,
+      "sha256": "0722db465c5c7fd41cbfcc1a79c155ac0eec970b2000349490b5ee30d3940e72"
+    },
+    {
+      "path": "phase2/results/generalization/none/xvla/black_bowl/chunk_default/index_1/seed_0/timings.json",
+      "bytes": 26639,
+      "sha256": "485d1d63e76a3e677de801cd38e993b78a63776a62335a0584f62f3494462c07"
+    },
+    {
+      "path": "phase2/results/generalization/none/xvla/black_bowl/chunk_default/index_1/seed_0/rollout.mp4",
+      "bytes": 127617,
+      "sha256": "9d60af06efe7aa05f56b12b5719b89c5d016327d94a117f1c8f0936a1adf0c1c"
+    },
+    {
+      "path": "phase2/results/generalization/none/xvla/black_bowl/chunk_default/index_1/seed_0/stage_metrics.json",
+      "bytes": 548,
+      "sha256": "0058e650618b0e33d6e048476a4af25d8ee8423539c3e6e208c2cc0d96ed7ded"
+    },
+    {
+      "path": "phase2/results/generalization/none/xvla/black_bowl/chunk_default/index_1/seed_1/result.json",
+      "bytes": 533,
+      "sha256": "0f9d302975e9be4fcfc2bcd19a589d0aef1a19903d9a0800d620a32aaa32dce5"
+    },
+    {
+      "path": "phase2/results/generalization/none/xvla/black_bowl/chunk_default/index_1/seed_1/trajectory.npz",
+      "bytes": 41305,
+      "sha256": "12744e6dc0dabea1e5f15c00e2d9cebcd36584aff5670962b00322987ed440e0"
+    },
+    {
+      "path": "phase2/results/generalization/none/xvla/black_bowl/chunk_default/index_1/seed_1/timings.json",
+      "bytes": 28179,
+      "sha256": "64de5989cc1884296d683a00b1b56e22e1a46a1b70d170685e51745de477ae5a"
+    },
+    {
+      "path": "phase2/results/generalization/none/xvla/black_bowl/chunk_default/index_1/seed_1/rollout.mp4",
+      "bytes": 132612,
+      "sha256": "4ad5a942010e3eea30f5b8a403fd0cf03109eb08f5a9c30fe73e83266f365e1c"
+    },
+    {
+      "path": "phase2/results/generalization/none/xvla/black_bowl/chunk_default/index_1/seed_1/stage_metrics.json",
+      "bytes": 548,
+      "sha256": "b237d39376115b3416b8a31bc5caeda47ee0bfae182cc7c66b4f1f58d6aa25b3"
+    },
+    {
+      "path": "phase2/results/generalization/none/xvla/black_bowl/chunk_default/index_1/seed_2/result.json",
+      "bytes": 533,
+      "sha256": "fdd491623cb34e393d93b07178b9836b7654139cd3c602be8bf996bbe6df8ea0"
+    },
+    {
+      "path": "phase2/results/generalization/none/xvla/black_bowl/chunk_default/index_1/seed_2/trajectory.npz",
+      "bytes": 41229,
+      "sha256": "d2ce05ac2c7ce7643b1516a7f7b697a4fcd0dc018580e09ae93cefeb200f2690"
+    },
+    {
+      "path": "phase2/results/generalization/none/xvla/black_bowl/chunk_default/index_1/seed_2/timings.json",
+      "bytes": 28203,
+      "sha256": "d235ee2d8f789d6f22f9ff012ef72d9594ede38e9fca74a560264cf9ba28549e"
+    },
+    {
+      "path": "phase2/results/generalization/none/xvla/black_bowl/chunk_default/index_1/seed_2/rollout.mp4",
+      "bytes": 134066,
+      "sha256": "8ee034f6d7dc04fba46a1d1f04b8bd4b234ea366ae0b231f3a54ac279c969fc5"
+    },
+    {
+      "path": "phase2/results/generalization/none/xvla/black_bowl/chunk_default/index_1/seed_2/stage_metrics.json",
+      "bytes": 546,
+      "sha256": "b9b698456777d76bb3e938476e0e7f838ed3bcbfbb585985fc93dfb66d0fff77"
+    },
+    {
+      "path": "phase2/results/generalization/none/xvla/black_bowl/chunk_default/index_2/seed_0/result.json",
+      "bytes": 533,
+      "sha256": "8d9f7cf635a9374886d117456d8d5e06a81adaaa048790abd1ac6c61e6cdd018"
+    },
+    {
+      "path": "phase2/results/generalization/none/xvla/black_bowl/chunk_default/index_2/seed_0/trajectory.npz",
+      "bytes": 38096,
+      "sha256": "75b445a69bbfa22546c16635fab90a8786c807db5931a6f8f09dd83c02ecf740"
+    },
+    {
+      "path": "phase2/results/generalization/none/xvla/black_bowl/chunk_default/index_2/seed_0/timings.json",
+      "bytes": 26022,
+      "sha256": "0988a04251b4411459db3ab7a953b4664233a090757dacd27ff0f12e5c9fc3ee"
+    },
+    {
+      "path": "phase2/results/generalization/none/xvla/black_bowl/chunk_default/index_2/seed_0/rollout.mp4",
+      "bytes": 128033,
+      "sha256": "08a5c4b63ff1d98971d8b43e5fe83f051a49da8372b832758f743932c9d2f7e0"
+    },
+    {
+      "path": "phase2/results/generalization/none/xvla/black_bowl/chunk_default/index_2/seed_0/stage_metrics.json",
+      "bytes": 547,
+      "sha256": "60b116cd978a18682854f3b0961e624fdc458ae70ecfec91eda2c546fbf8a2e0"
+    },
+    {
+      "path": "phase2/results/generalization/none/xvla/black_bowl/chunk_default/index_2/seed_1/result.json",
+      "bytes": 533,
+      "sha256": "fab6e8b223a33d15a92b45a86d1984b14b5dc32253c73cb9073115ca6d1b1635"
+    },
+    {
+      "path": "phase2/results/generalization/none/xvla/black_bowl/chunk_default/index_2/seed_1/trajectory.npz",
+      "bytes": 39404,
+      "sha256": "f5def529663c60d77ac5912040dbb4adc75fd8aef704949fbb0eea9a4e7395cd"
+    },
+    {
+      "path": "phase2/results/generalization/none/xvla/black_bowl/chunk_default/index_2/seed_1/timings.json",
+      "bytes": 26948,
+      "sha256": "dddc58573d559be09678f0e0dd9379e210f7aebb0fd2a3cd867fceafe9e3250e"
+    },
+    {
+      "path": "phase2/results/generalization/none/xvla/black_bowl/chunk_default/index_2/seed_1/rollout.mp4",
+      "bytes": 133415,
+      "sha256": "fa88d18a258cfb5af1432cb98035f8aa3abf07e9047fbdbde50af2a08fb3e4ab"
+    },
+    {
+      "path": "phase2/results/generalization/none/xvla/black_bowl/chunk_default/index_2/seed_1/stage_metrics.json",
+      "bytes": 547,
+      "sha256": "6c4a217baece87e15d850c3f5f4e00d9a41ec364fc3f9b91e928a3d57cef4ec4"
+    },
+    {
+      "path": "phase2/results/generalization/none/xvla/black_bowl/chunk_default/index_2/seed_2/result.json",
+      "bytes": 533,
+      "sha256": "d62f214c605fc3a9584c686404206153b6f58166a1f20d5ac656b38c806de690"
+    },
+    {
+      "path": "phase2/results/generalization/none/xvla/black_bowl/chunk_default/index_2/seed_2/trajectory.npz",
+      "bytes": 40277,
+      "sha256": "dcf9ef9c80c30523bb2f4b077ba8ee50005e14f0882b4e1fa778aa033e17e285"
+    },
+    {
+      "path": "phase2/results/generalization/none/xvla/black_bowl/chunk_default/index_2/seed_2/timings.json",
+      "bytes": 27551,
+      "sha256": "ce69f32cdc8335fbffbf758e92a469f86f5946f5ceeecaa655568c62934d29bc"
+    },
+    {
+      "path": "phase2/results/generalization/none/xvla/black_bowl/chunk_default/index_2/seed_2/rollout.mp4",
+      "bytes": 135838,
+      "sha256": "4fe521a54fd3cd1cc9f7eaf8d04d3192ea0d3ccb2ba4a9d0a3c0080fc8593a7e"
+    },
+    {
+      "path": "phase2/results/generalization/none/xvla/black_bowl/chunk_default/index_2/seed_2/stage_metrics.json",
+      "bytes": 547,
+      "sha256": "ac3fac847b9319da2cba48f54435d32f7547b2da3529a5075dde89fdfb8cff07"
+    },
+    {
+      "path": "phase2/results/generalization/none/xvla/black_bowl/chunk_default/index_3/seed_0/result.json",
+      "bytes": 532,
+      "sha256": "7b20d17b16da689ce89275136cfad6a5d3bcd6b0742807fcf1dee3b367834468"
+    },
+    {
+      "path": "phase2/results/generalization/none/xvla/black_bowl/chunk_default/index_3/seed_0/trajectory.npz",
+      "bytes": 39376,
+      "sha256": "8c0edf7c569f23d44dd1528c5ed2a3d80e03e1d129919177f58e906396ddb441"
+    },
+    {
+      "path": "phase2/results/generalization/none/xvla/black_bowl/chunk_default/index_3/seed_0/timings.json",
+      "bytes": 27044,
+      "sha256": "c685eaedea9f658e170d5cb928bc270e302911680ce6608d145e2f450ea9a1c1"
+    },
+    {
+      "path": "phase2/results/generalization/none/xvla/black_bowl/chunk_default/index_3/seed_0/rollout.mp4",
+      "bytes": 130320,
+      "sha256": "5351872b645c8477318dc817ff2a131295c56b4e0c75b8ec05c1d96e7f085a48"
+    },
+    {
+      "path": "phase2/results/generalization/none/xvla/black_bowl/chunk_default/index_3/seed_0/stage_metrics.json",
+      "bytes": 550,
+      "sha256": "eb4f82ed4957e3b2eece3ff5bf51af6d8fa7a5fcb0e9ddeb1485e6753c7b9bf8"
+    },
+    {
+      "path": "phase2/results/generalization/none/xvla/black_bowl/chunk_default/index_3/seed_1/result.json",
+      "bytes": 533,
+      "sha256": "60dff32ce2d4dc712644905d646161494b5cd6031eef402106ecc8e7823d3088"
+    },
+    {
+      "path": "phase2/results/generalization/none/xvla/black_bowl/chunk_default/index_3/seed_1/trajectory.npz",
+      "bytes": 40214,
+      "sha256": "7dee84f328e903db9fc59c7370401c0be610183131d2e08446656a025b345dc6"
+    },
+    {
+      "path": "phase2/results/generalization/none/xvla/black_bowl/chunk_default/index_3/seed_1/timings.json",
+      "bytes": 27667,
+      "sha256": "25733787dff984c2bc579de680c0a8f81ad7efc22366f2e2cf580b73c911cdf7"
+    },
+    {
+      "path": "phase2/results/generalization/none/xvla/black_bowl/chunk_default/index_3/seed_1/rollout.mp4",
+      "bytes": 133207,
+      "sha256": "407b0e38b68aa5a715398dd78127b03b63933e7e8e3116237f3ff1d28342a731"
+    },
+    {
+      "path": "phase2/results/generalization/none/xvla/black_bowl/chunk_default/index_3/seed_1/stage_metrics.json",
+      "bytes": 552,
+      "sha256": "89cb8c11871eda30d781c3d63ba205aedd0e260dcdbfbaba0583393f02190077"
+    },
+    {
+      "path": "phase2/results/generalization/none/xvla/black_bowl/chunk_default/index_3/seed_2/result.json",
+      "bytes": 533,
+      "sha256": "7aa31e651e3ac6c75fc23854532c9d843e72d8c683700ee5725d454631c981bb"
+    },
+    {
+      "path": "phase2/results/generalization/none/xvla/black_bowl/chunk_default/index_3/seed_2/trajectory.npz",
+      "bytes": 40224,
+      "sha256": "2a9ef86f3e05f620d6d6868eedade4461d049c1ea6416166282c75efc440b882"
+    },
+    {
+      "path": "phase2/results/generalization/none/xvla/black_bowl/chunk_default/index_3/seed_2/timings.json",
+      "bytes": 27633,
+      "sha256": "e4bb31012d552a52cfb3b01209806d4836ec6770e37ffa615e7ef94342222eca"
+    },
+    {
+      "path": "phase2/results/generalization/none/xvla/black_bowl/chunk_default/index_3/seed_2/rollout.mp4",
+      "bytes": 136566,
+      "sha256": "860f95b8b74eceeb0db12e87f90051a032d86142db367c90bf9ab3259c3694dd"
+    },
+    {
+      "path": "phase2/results/generalization/none/xvla/black_bowl/chunk_default/index_3/seed_2/stage_metrics.json",
+      "bytes": 552,
+      "sha256": "6806522f979a0f3e7a8bfdb1e021bdbdb6830fab3b0edea351f7c13b5c84348d"
+    },
+    {
+      "path": "phase2/results/generalization/none/xvla/milk/chunk_default/index_1/seed_0/result.json",
+      "bytes": 522,
+      "sha256": "67aab4101f430b6be9de98ffa02dc8fea29330f4d62a2942f7b65b74d7698363"
+    },
+    {
+      "path": "phase2/results/generalization/none/xvla/milk/chunk_default/index_1/seed_0/trajectory.npz",
+      "bytes": 66889,
+      "sha256": "6beed7a6a97bde1fd767e579e36e019fe2209a3e0f0fb9999883b70217c1041b"
+    },
+    {
+      "path": "phase2/results/generalization/none/xvla/milk/chunk_default/index_1/seed_0/timings.json",
+      "bytes": 45539,
+      "sha256": "2230635d18a782ed3d2f7619917378778a29ab34b32fecea0fcdccf695ab30d9"
+    },
+    {
+      "path": "phase2/results/generalization/none/xvla/milk/chunk_default/index_1/seed_0/rollout.mp4",
+      "bytes": 175903,
+      "sha256": "1e9ecaa6ce407fdc77d5b6c927c0aa896193bccdd502bede2211a4830323cd24"
+    },
+    {
+      "path": "phase2/results/generalization/none/xvla/milk/chunk_default/index_1/seed_0/stage_metrics.json",
+      "bytes": 705,
+      "sha256": "fc8b5b3e589eff887a88a24895de7d235f1d17095740afd74fb242874beb11d3"
+    },
+    {
+      "path": "phase2/results/generalization/none/xvla/milk/chunk_default/index_1/seed_1/result.json",
+      "bytes": 522,
+      "sha256": "f8770d789b0dec4322baf644c4a6970af7a77fe3008932d131739eaa18956aa8"
+    },
+    {
+      "path": "phase2/results/generalization/none/xvla/milk/chunk_default/index_1/seed_1/trajectory.npz",
+      "bytes": 66631,
+      "sha256": "434373f707660554322fc964e2875214b54f1682c82d47232b8a0e4cde90b9a4"
+    },
+    {
+      "path": "phase2/results/generalization/none/xvla/milk/chunk_default/index_1/seed_1/timings.json",
+      "bytes": 45520,
+      "sha256": "538fcb204763f8a562a1514bae6575af15db5d849591315eae412d91d726539d"
+    },
+    {
+      "path": "phase2/results/generalization/none/xvla/milk/chunk_default/index_1/seed_1/rollout.mp4",
+      "bytes": 176206,
+      "sha256": "b7cfd253d0985984dee637cdbdad8af549566be5ebf48bb2f2d31393bf06de00"
+    },
+    {
+      "path": "phase2/results/generalization/none/xvla/milk/chunk_default/index_1/seed_1/stage_metrics.json",
+      "bytes": 704,
+      "sha256": "57a906bf543ab4007a75f42bffd80898d908e5d87bc9f70a95775d659152f7eb"
+    },
+    {
+      "path": "phase2/results/generalization/none/xvla/milk/chunk_default/index_1/seed_2/result.json",
+      "bytes": 523,
+      "sha256": "ad65bd8e5f8a78199ebf366000272ca0e09614639ecaea04f768a44cd754e938"
+    },
+    {
+      "path": "phase2/results/generalization/none/xvla/milk/chunk_default/index_1/seed_2/trajectory.npz",
+      "bytes": 66817,
+      "sha256": "f0412c8d7178913a83b6106dfe2b17fc2627170194838bf06fd0f89e58b3e55f"
+    },
+    {
+      "path": "phase2/results/generalization/none/xvla/milk/chunk_default/index_1/seed_2/timings.json",
+      "bytes": 45527,
+      "sha256": "38d9a29fbed75698e8350b461fedbe56d71c99f2f00ace8cd70c08cd772962fc"
+    },
+    {
+      "path": "phase2/results/generalization/none/xvla/milk/chunk_default/index_1/seed_2/rollout.mp4",
+      "bytes": 175768,
+      "sha256": "79b26f0855d2e2c76f7fc8803134df39f1c116651f2d7da0fee8f65d48ed1462"
+    },
+    {
+      "path": "phase2/results/generalization/none/xvla/milk/chunk_default/index_1/seed_2/stage_metrics.json",
+      "bytes": 707,
+      "sha256": "8574c8a844ac49fbac11b476ae9458212ac5e2ee4e6762dfb7efcb651a6c9773"
+    },
+    {
+      "path": "phase2/results/generalization/none/xvla/milk/chunk_default/index_2/seed_0/result.json",
+      "bytes": 523,
+      "sha256": "aa6622ea5e584ed69b3e21818b2ba0ac91fe592cbdb3af076039536df8f37a33"
+    },
+    {
+      "path": "phase2/results/generalization/none/xvla/milk/chunk_default/index_2/seed_0/trajectory.npz",
+      "bytes": 67892,
+      "sha256": "047101c936750172e11b09f6bdb7805854eb0ba26dd88fb0626eeb4925313366"
+    },
+    {
+      "path": "phase2/results/generalization/none/xvla/milk/chunk_default/index_2/seed_0/timings.json",
+      "bytes": 45817,
+      "sha256": "8d09135f8b9460fc5e3189e39c83701f69947c06596ea31dc2685d481231bd63"
+    },
+    {
+      "path": "phase2/results/generalization/none/xvla/milk/chunk_default/index_2/seed_0/rollout.mp4",
+      "bytes": 183468,
+      "sha256": "13347d580fd132b22ffcf3b442fd702156b23b15f65db9e6f13064aa17dd8e60"
+    },
+    {
+      "path": "phase2/results/generalization/none/xvla/milk/chunk_default/index_2/seed_0/stage_metrics.json",
+      "bytes": 710,
+      "sha256": "aaaad7de39ac224614f15c9e62d3ef3066633e1f8ce6c7292a35688907fa47d6"
+    },
+    {
+      "path": "phase2/results/generalization/none/xvla/milk/chunk_default/index_2/seed_1/result.json",
+      "bytes": 522,
+      "sha256": "55c60a5213ab63cbddd3f6e00e7cbfcd3c6306dd1da66d8fb1ccb11aa00d9150"
+    },
+    {
+      "path": "phase2/results/generalization/none/xvla/milk/chunk_default/index_2/seed_1/trajectory.npz",
+      "bytes": 67571,
+      "sha256": "c4b0150bd941c9db0bc436aadfe60fe5e9950782e877a9acc84873725a967038"
+    },
+    {
+      "path": "phase2/results/generalization/none/xvla/milk/chunk_default/index_2/seed_1/timings.json",
+      "bytes": 45771,
+      "sha256": "748902ec57353edafa62e77bb80199f739ae40267266af13fd0efb5048e5de73"
+    },
+    {
+      "path": "phase2/results/generalization/none/xvla/milk/chunk_default/index_2/seed_1/rollout.mp4",
+      "bytes": 183154,
+      "sha256": "0475d0dbb753543fd8e7b4093efcd9a92261552a7f1c75d6874243e2a1058fa2"
+    },
+    {
+      "path": "phase2/results/generalization/none/xvla/milk/chunk_default/index_2/seed_1/stage_metrics.json",
+      "bytes": 711,
+      "sha256": "25cdb78c13dc5d7161f49904ba855083016a98323c947f6623a5a34104350e55"
+    },
+    {
+      "path": "phase2/results/generalization/none/xvla/milk/chunk_default/index_2/seed_2/result.json",
+      "bytes": 523,
+      "sha256": "18eedb9d0ec3d316481f06893d35527f6c86dd5161e51f93c400ec90b3ed7fee"
+    },
+    {
+      "path": "phase2/results/generalization/none/xvla/milk/chunk_default/index_2/seed_2/trajectory.npz",
+      "bytes": 68110,
+      "sha256": "cba5538a293798253ddda08fb79c41064a833c3e0f676a9f5363a41d7875f7f6"
+    },
+    {
+      "path": "phase2/results/generalization/none/xvla/milk/chunk_default/index_2/seed_2/timings.json",
+      "bytes": 45755,
+      "sha256": "9dd2b851d7ee9de1302405540fd76a4d77b4284e3bdd4ba1f82ebb75ae2dea00"
+    },
+    {
+      "path": "phase2/results/generalization/none/xvla/milk/chunk_default/index_2/seed_2/rollout.mp4",
+      "bytes": 183081,
+      "sha256": "54c05317815433aa948b6b8506bf227b217e7c5474875fe0ecb52527f174bd7b"
+    },
+    {
+      "path": "phase2/results/generalization/none/xvla/milk/chunk_default/index_2/seed_2/stage_metrics.json",
+      "bytes": 708,
+      "sha256": "914baafe9014821f176e72a66486edfea55e241e39e4bee4731638a402753a5c"
+    },
+    {
+      "path": "phase2/results/generalization/none/xvla/milk/chunk_default/index_3/seed_0/result.json",
+      "bytes": 522,
+      "sha256": "eabbdc585941b5c8be6d60d79db8c0ef0045b6296f6cb82b84b7935fac11876c"
+    },
+    {
+      "path": "phase2/results/generalization/none/xvla/milk/chunk_default/index_3/seed_0/trajectory.npz",
+      "bytes": 68434,
+      "sha256": "37e8c16bc6f6523a58141e951ba27b4ea398fc4c7b5d6a4cea6fc2d2f391c935"
+    },
+    {
+      "path": "phase2/results/generalization/none/xvla/milk/chunk_default/index_3/seed_0/timings.json",
+      "bytes": 47005,
+      "sha256": "0eed2aa0a63ec956ac584227ad30f3542bd498d0e52f37f9af240365ad03f27e"
+    },
+    {
+      "path": "phase2/results/generalization/none/xvla/milk/chunk_default/index_3/seed_0/rollout.mp4",
+      "bytes": 184800,
+      "sha256": "ad68eff1cc0613bfbfe54a0a1ec8041d7638dfd834d9609dc6ef83557f338914"
+    },
+    {
+      "path": "phase2/results/generalization/none/xvla/milk/chunk_default/index_3/seed_0/stage_metrics.json",
+      "bytes": 709,
+      "sha256": "9c1eb44dd5b2ccf89af2591ce2d61794e56b3f6488f5b7eb2bbfc9b069217c5c"
+    },
+    {
+      "path": "phase2/results/generalization/none/xvla/milk/chunk_default/index_3/seed_1/result.json",
+      "bytes": 523,
+      "sha256": "ef3de84eb3a8c3a04567f700f54911b805aa67d4c51fd4bdb2e6e26ac63e8df8"
+    },
+    {
+      "path": "phase2/results/generalization/none/xvla/milk/chunk_default/index_3/seed_1/trajectory.npz",
+      "bytes": 68890,
+      "sha256": "a8f7a3989e7ae320782beab367f7901e70a25b2eba8e3d93c884afb648bc1307"
+    },
+    {
+      "path": "phase2/results/generalization/none/xvla/milk/chunk_default/index_3/seed_1/timings.json",
+      "bytes": 47442,
+      "sha256": "b5e14b983279e69504581abf45580404026b7461d615ffb273bbbe766ca7b165"
+    },
+    {
+      "path": "phase2/results/generalization/none/xvla/milk/chunk_default/index_3/seed_1/rollout.mp4",
+      "bytes": 184287,
+      "sha256": "fded9089c7df4ec51055466f6ba4e7df57ef0d9115329fcdf1f247a1a84d141b"
+    },
+    {
+      "path": "phase2/results/generalization/none/xvla/milk/chunk_default/index_3/seed_1/stage_metrics.json",
+      "bytes": 708,
+      "sha256": "225e72a3a86623143e37d38bad3c0ff81a423ab3efcbb8de66782988d2e4f8da"
+    },
+    {
+      "path": "phase2/results/generalization/none/xvla/milk/chunk_default/index_3/seed_2/result.json",
+      "bytes": 523,
+      "sha256": "ec604a2a67e9cb22a2b48e43236282b6d87c1fa20ae0a547f30e2c9030c6c8ef"
+    },
+    {
+      "path": "phase2/results/generalization/none/xvla/milk/chunk_default/index_3/seed_2/trajectory.npz",
+      "bytes": 68303,
+      "sha256": "ec6843227628de0fee920ca11b6c84a1e2da674c76819d2556122db27c68eb10"
+    },
+    {
+      "path": "phase2/results/generalization/none/xvla/milk/chunk_default/index_3/seed_2/timings.json",
+      "bytes": 47202,
+      "sha256": "e102f817851f8b78505043b47b74b922e07bf04f6ae6a1e97aacd6088fa473f8"
+    },
+    {
+      "path": "phase2/results/generalization/none/xvla/milk/chunk_default/index_3/seed_2/rollout.mp4",
+      "bytes": 184691,
+      "sha256": "8dfb0a9499bf26e364da21f12e3d1632ed972c8146ae24fd78638004cbc6a0f3"
+    },
+    {
+      "path": "phase2/results/generalization/none/xvla/milk/chunk_default/index_3/seed_2/stage_metrics.json",
+      "bytes": 710,
+      "sha256": "f03969abf5f8190633b449ec2a2026bd36cf3c77d940bd7c66549ef1d718bb68"
+    },
+    {
+      "path": "phase2/results/generalization/none/xvla/wine_bottle/chunk_default/index_1/seed_0/result.json",
+      "bytes": 544,
+      "sha256": "5d5b2e93d8279152c95f26b80f1640ee8ea4875ccc222e4012b31459feb71cf7"
+    },
+    {
+      "path": "phase2/results/generalization/none/xvla/wine_bottle/chunk_default/index_1/seed_0/trajectory.npz",
+      "bytes": 39077,
+      "sha256": "381e2aa3efcfedec2926eadd49233baf9dfc9a49653c3730825e6df471b2a810"
+    },
+    {
+      "path": "phase2/results/generalization/none/xvla/wine_bottle/chunk_default/index_1/seed_0/timings.json",
+      "bytes": 26777,
+      "sha256": "af21d37ee7e7dff913deeb84e38b1f09d447f96b7018cc8923419c970abb75a3"
+    },
+    {
+      "path": "phase2/results/generalization/none/xvla/wine_bottle/chunk_default/index_1/seed_0/rollout.mp4",
+      "bytes": 113420,
+      "sha256": "71ee7bf366026f0826efc009eea7de2c7d754091fd74733aea2516b7cf169e0e"
+    },
+    {
+      "path": "phase2/results/generalization/none/xvla/wine_bottle/chunk_default/index_1/seed_0/stage_metrics.json",
+      "bytes": 545,
+      "sha256": "448502bca26a5c1e149411cc85e598f571984e94021ce6f994d83755421806d9"
+    },
+    {
+      "path": "phase2/results/generalization/none/xvla/wine_bottle/chunk_default/index_1/seed_1/result.json",
+      "bytes": 544,
+      "sha256": "0c07a203236fef3389107d2eaf2b65953d27936677eb62af85324c711519175c"
+    },
+    {
+      "path": "phase2/results/generalization/none/xvla/wine_bottle/chunk_default/index_1/seed_1/trajectory.npz",
+      "bytes": 41127,
+      "sha256": "154f3bd42cc07cb8301f4406af9da7997c7d68736906e1966cf3105630e88166"
+    },
+    {
+      "path": "phase2/results/generalization/none/xvla/wine_bottle/chunk_default/index_1/seed_1/timings.json",
+      "bytes": 28311,
+      "sha256": "a608c0a1897c34ff8b3116f96c0006c4078b7f6480a166a74bd7b1dbb35d4ecd"
+    },
+    {
+      "path": "phase2/results/generalization/none/xvla/wine_bottle/chunk_default/index_1/seed_1/rollout.mp4",
+      "bytes": 118283,
+      "sha256": "acd697df930f367df85389accbbd83a1cec8047a7552a9c9c02da7434db35dca"
+    },
+    {
+      "path": "phase2/results/generalization/none/xvla/wine_bottle/chunk_default/index_1/seed_1/stage_metrics.json",
+      "bytes": 547,
+      "sha256": "2336e2fb76a2ee3fbe30f3b85b61aa54d097c928d9eac605f89b5a0481804633"
+    },
+    {
+      "path": "phase2/results/generalization/none/xvla/wine_bottle/chunk_default/index_1/seed_2/result.json",
+      "bytes": 544,
+      "sha256": "558487fe73888ec515485854943d81f82c78664a187c6e5a1fdb1cbb7018e7b6"
+    },
+    {
+      "path": "phase2/results/generalization/none/xvla/wine_bottle/chunk_default/index_1/seed_2/trajectory.npz",
+      "bytes": 41887,
+      "sha256": "2726e07a9f2a7b748da7ac4d0f77ffc45e34a05624a033f170ed1d298957a4a4"
+    },
+    {
+      "path": "phase2/results/generalization/none/xvla/wine_bottle/chunk_default/index_1/seed_2/timings.json",
+      "bytes": 28305,
+      "sha256": "faf7c1a066528226e0be572d57fa1b1579c91e4fe9dd1815cc58d7fc40d39cb5"
+    },
+    {
+      "path": "phase2/results/generalization/none/xvla/wine_bottle/chunk_default/index_1/seed_2/rollout.mp4",
+      "bytes": 118299,
+      "sha256": "c8088cf14a8dc20986f443cb29618a7989b71ca03f812e9b8e2ca66feac1ffd2"
+    },
+    {
+      "path": "phase2/results/generalization/none/xvla/wine_bottle/chunk_default/index_1/seed_2/stage_metrics.json",
+      "bytes": 545,
+      "sha256": "b04cf58b23b1189e930ceb73b7596b7f8a1ae924f54be87814fd4f25c7ca2310"
+    },
+    {
+      "path": "phase2/results/generalization/none/xvla/wine_bottle/chunk_default/index_2/seed_0/result.json",
+      "bytes": 544,
+      "sha256": "f51b1951375433ad12038e0071617684e3ba9cd967a6460833fcc018f4e586ca"
+    },
+    {
+      "path": "phase2/results/generalization/none/xvla/wine_bottle/chunk_default/index_2/seed_0/trajectory.npz",
+      "bytes": 39162,
+      "sha256": "551e9e57a6ae990db9bcf2bea59b7855f00a6c8e14b838f881affe3c6a3e604b"
+    },
+    {
+      "path": "phase2/results/generalization/none/xvla/wine_bottle/chunk_default/index_2/seed_0/timings.json",
+      "bytes": 26754,
+      "sha256": "77a97cb58d7f251224cb7ce78fc67414328f22ed986606c6e6fea76fa4169f57"
+    },
+    {
+      "path": "phase2/results/generalization/none/xvla/wine_bottle/chunk_default/index_2/seed_0/rollout.mp4",
+      "bytes": 111617,
+      "sha256": "5ff1776374108b3188e34ea0aefcc808f4008a286009b2125bb0a1c1d9b59ceb"
+    },
+    {
+      "path": "phase2/results/generalization/none/xvla/wine_bottle/chunk_default/index_2/seed_0/stage_metrics.json",
+      "bytes": 544,
+      "sha256": "239ef2764cdb0d043d38c1bdfa6e260886fa522a657f7f6455c39219e561c5a5"
+    },
+    {
+      "path": "phase2/results/generalization/none/xvla/wine_bottle/chunk_default/index_2/seed_1/result.json",
+      "bytes": 544,
+      "sha256": "4a5dc57e619ba6217de6946e48d65735015dabf50f6d9797349fcef81f38becf"
+    },
+    {
+      "path": "phase2/results/generalization/none/xvla/wine_bottle/chunk_default/index_2/seed_1/trajectory.npz",
+      "bytes": 39441,
+      "sha256": "73e9e661594922cef4ccca0987db4f4b85cef0349f39370fa253800ac27f061a"
+    },
+    {
+      "path": "phase2/results/generalization/none/xvla/wine_bottle/chunk_default/index_2/seed_1/timings.json",
+      "bytes": 27076,
+      "sha256": "7de5b4ea91ce06430124e4bf0d84405c89df30acec8fcf1aac5878018b564975"
+    },
+    {
+      "path": "phase2/results/generalization/none/xvla/wine_bottle/chunk_default/index_2/seed_1/rollout.mp4",
+      "bytes": 113051,
+      "sha256": "82bd48e3713fcf12f66551efc800287f355adae2e8e2e377db5772bb0ddee57b"
+    },
+    {
+      "path": "phase2/results/generalization/none/xvla/wine_bottle/chunk_default/index_2/seed_1/stage_metrics.json",
+      "bytes": 547,
+      "sha256": "94d5f93f32e51f1fed0d1adca5704c050577a472dec7ebcdb8a6cd988eebdc55"
+    },
+    {
+      "path": "phase2/results/generalization/none/xvla/wine_bottle/chunk_default/index_2/seed_2/result.json",
+      "bytes": 543,
+      "sha256": "7ca0fb6998c094c8a2701162826f6d7232661ab27f5da066cb413a56bd28f645"
+    },
+    {
+      "path": "phase2/results/generalization/none/xvla/wine_bottle/chunk_default/index_2/seed_2/trajectory.npz",
+      "bytes": 40279,
+      "sha256": "72ea988fd287aec2fa37130c196aff033969fa5af7f567780c9c25ba0782cebf"
+    },
+    {
+      "path": "phase2/results/generalization/none/xvla/wine_bottle/chunk_default/index_2/seed_2/timings.json",
+      "bytes": 27690,
+      "sha256": "bd01fc2dc409c193a3acd77055cdd9c50851e32774708731a580b0dd25ead596"
+    },
+    {
+      "path": "phase2/results/generalization/none/xvla/wine_bottle/chunk_default/index_2/seed_2/rollout.mp4",
+      "bytes": 114429,
+      "sha256": "d8da59345b82ce3e5767b6d874d34c70d424f5b362aacdf1d77119e5eca71895"
+    },
+    {
+      "path": "phase2/results/generalization/none/xvla/wine_bottle/chunk_default/index_2/seed_2/stage_metrics.json",
+      "bytes": 546,
+      "sha256": "c79c29f88e90ee18c055c08fd8d2ad688ce8246076dccb8bb7c81d68d5a3cd87"
+    },
+    {
+      "path": "phase2/results/generalization/none/xvla/wine_bottle/chunk_default/index_3/seed_0/result.json",
+      "bytes": 544,
+      "sha256": "9ed15fd7d0c0581c36486531de6e592d956dcc40b0061b7b02459f8571e48ffd"
+    },
+    {
+      "path": "phase2/results/generalization/none/xvla/wine_bottle/chunk_default/index_3/seed_0/trajectory.npz",
+      "bytes": 41596,
+      "sha256": "99e088a19e821402092dea0f1100ddb23cdc692822cbb947b3c8d1df137b4e21"
+    },
+    {
+      "path": "phase2/results/generalization/none/xvla/wine_bottle/chunk_default/index_3/seed_0/timings.json",
+      "bytes": 28628,
+      "sha256": "08e9971dde55afa2cfd2c4b47e4c14f593108600519841f6a04b5f23ddf89263"
+    },
+    {
+      "path": "phase2/results/generalization/none/xvla/wine_bottle/chunk_default/index_3/seed_0/rollout.mp4",
+      "bytes": 116096,
+      "sha256": "3ea96dba86b321d28af322c59d8f198b2623901570ed30a96447daa36d31ed08"
+    },
+    {
+      "path": "phase2/results/generalization/none/xvla/wine_bottle/chunk_default/index_3/seed_0/stage_metrics.json",
+      "bytes": 545,
+      "sha256": "875bad7f4baf5827caf9fd5b597ad712a6cad74816c8f7e369ada955f5472b03"
+    },
+    {
+      "path": "phase2/results/generalization/none/xvla/wine_bottle/chunk_default/index_3/seed_1/result.json",
+      "bytes": 544,
+      "sha256": "30acddd57b761ff6956bbd4aa4abe5d6987aa3903cbc174030b339c98f5ca52a"
+    },
+    {
+      "path": "phase2/results/generalization/none/xvla/wine_bottle/chunk_default/index_3/seed_1/trajectory.npz",
+      "bytes": 43797,
+      "sha256": "3869ab273aeddd92dbf5f0a344818c8dfc57d3b5ee43245e7cdfda9288ca45b7"
+    },
+    {
+      "path": "phase2/results/generalization/none/xvla/wine_bottle/chunk_default/index_3/seed_1/timings.json",
+      "bytes": 30188,
+      "sha256": "fe686c6d07d5e81551cb9237850c256d50c0e3f3f7d9b838f3118bbe4ce96e58"
+    },
+    {
+      "path": "phase2/results/generalization/none/xvla/wine_bottle/chunk_default/index_3/seed_1/rollout.mp4",
+      "bytes": 122460,
+      "sha256": "4a984340c958a400f24ac706d8b8c30046179267d61a5df4dbee91b7e582e656"
+    },
+    {
+      "path": "phase2/results/generalization/none/xvla/wine_bottle/chunk_default/index_3/seed_1/stage_metrics.json",
+      "bytes": 545,
+      "sha256": "04353157e9a0dde23175e2ae689ef1fc2d36571a888bbfbdf804f40de93052ae"
+    },
+    {
+      "path": "phase2/results/generalization/none/xvla/wine_bottle/chunk_default/index_3/seed_2/result.json",
+      "bytes": 544,
+      "sha256": "00b9fc7b7c6f6fd10ae952ed9f121449b4e03cf126e4c63096f1f95c533cc690"
+    },
+    {
+      "path": "phase2/results/generalization/none/xvla/wine_bottle/chunk_default/index_3/seed_2/trajectory.npz",
+      "bytes": 43738,
+      "sha256": "a6bd6a8986daf83b06e52251a5c9c067afd67966f1f18016ef3fd2a30a1c47f4"
+    },
+    {
+      "path": "phase2/results/generalization/none/xvla/wine_bottle/chunk_default/index_3/seed_2/timings.json",
+      "bytes": 30203,
+      "sha256": "dfa361f1f26dcc869bd3bdf3fa86df1c1cad65f9e6e4595093bacb27e648aff3"
+    },
+    {
+      "path": "phase2/results/generalization/none/xvla/wine_bottle/chunk_default/index_3/seed_2/rollout.mp4",
+      "bytes": 121477,
+      "sha256": "c24f93fdd3ea86c4309cd61cec80fd7bc4120a2d7e55ea5b1a9bdb6e8b770c99"
+    },
+    {
+      "path": "phase2/results/generalization/none/xvla/wine_bottle/chunk_default/index_3/seed_2/stage_metrics.json",
+      "bytes": 544,
+      "sha256": "7f830503416cedaccc479a94fc2956bd75f93d8ba8284a67dae467b8a0f884b6"
+    },
+    {
+      "path": "phase2/results/intervention/lift/smolvla/milk/chunk_default/index_0/seed_0/result.json",
+      "bytes": 526,
+      "sha256": "349539fbb64fa5adcb19753d5cd81f85564760c9b438cd446c1fb78cf6137c93"
+    },
+    {
+      "path": "phase2/results/intervention/lift/smolvla/milk/chunk_default/index_0/seed_0/trajectory.npz",
+      "bytes": 543526,
+      "sha256": "02b2fad2602936ba72518989a57fb61469cc2439d0f83c813b0c3d44b5250d67"
+    },
+    {
+      "path": "phase2/results/intervention/lift/smolvla/milk/chunk_default/index_0/seed_0/timings.json",
+      "bytes": 352549,
+      "sha256": "00aa26798d5a6c6de753448d982a02ac0beae9655e6ed67df2822c6db839bd30"
+    },
+    {
+      "path": "phase2/results/intervention/lift/smolvla/milk/chunk_default/index_0/seed_0/rollout.mp4",
+      "bytes": 1477287,
+      "sha256": "2a7062c4af3076e91df5bfacd7c8210cf727466095db0bcd9b5857468bb87d3d"
+    },
+    {
+      "path": "phase2/results/intervention/lift/smolvla/milk/chunk_default/index_0/seed_0/stage_metrics.json",
+      "bytes": 712,
+      "sha256": "2e5828f77ed1c9a2f182223c8deeda58e3881bb00cc51dcf8c046bf7a046ce04"
+    },
+    {
+      "path": "phase2/results/intervention/lift/smolvla/milk/chunk_default/index_0/seed_1/result.json",
+      "bytes": 526,
+      "sha256": "ee23450bb8c7f174dcc7ab47ebe5d93b7b74aa2f032b2f7da195aada8b46bc15"
+    },
+    {
+      "path": "phase2/results/intervention/lift/smolvla/milk/chunk_default/index_0/seed_1/trajectory.npz",
+      "bytes": 513232,
+      "sha256": "3c3a2d2152205379115c08a55144b18e4e0075ac19011826fab5cb153eb187c5"
+    },
+    {
+      "path": "phase2/results/intervention/lift/smolvla/milk/chunk_default/index_0/seed_1/timings.json",
+      "bytes": 354546,
+      "sha256": "6610611b0583afb7b09c371f97070dec3b8e0e0eead09cb747acd682b84ce296"
+    },
+    {
+      "path": "phase2/results/intervention/lift/smolvla/milk/chunk_default/index_0/seed_1/rollout.mp4",
+      "bytes": 1503543,
+      "sha256": "f52d3ca25676ccfcec5416e6b97d47a2d79ef9d7e8e9ae6a0dd7bcecedeb19cc"
+    },
+    {
+      "path": "phase2/results/intervention/lift/smolvla/milk/chunk_default/index_0/seed_1/stage_metrics.json",
+      "bytes": 695,
+      "sha256": "50fd64cab1185912831cdd65a4b92e82445be8bc39e8823009932e165983bbb0"
+    },
+    {
+      "path": "phase2/results/intervention/lift/smolvla/milk/chunk_default/index_0/seed_2/result.json",
+      "bytes": 526,
+      "sha256": "b316be11c72cfeca621dfa46cd1f7019d8dcb8185342dbf77e89655d89d4c35f"
+    },
+    {
+      "path": "phase2/results/intervention/lift/smolvla/milk/chunk_default/index_0/seed_2/trajectory.npz",
+      "bytes": 514248,
+      "sha256": "3fc8238e318ac0b65808bd0b3a5580a4db9cf305a750945c590dbc6adb067a0b"
+    },
+    {
+      "path": "phase2/results/intervention/lift/smolvla/milk/chunk_default/index_0/seed_2/timings.json",
+      "bytes": 353170,
+      "sha256": "b4767befae3381afe6e97fd5fc605d4592ead0a15411490575333ec3afd684c3"
+    },
+    {
+      "path": "phase2/results/intervention/lift/smolvla/milk/chunk_default/index_0/seed_2/rollout.mp4",
+      "bytes": 1390692,
+      "sha256": "2a6fbe2d61de5f0d0694975b0f3463878f8601b4fddee0b7aa5f7596d1279aa0"
+    },
+    {
+      "path": "phase2/results/intervention/lift/smolvla/milk/chunk_default/index_0/seed_2/stage_metrics.json",
+      "bytes": 709,
+      "sha256": "ae6e36947d42ce3051f6b32915361b0ec2384a792bc8d319a80d525d75edad22"
+    },
+    {
+      "path": "phase2/results/intervention/lift/smolvla/milk/chunk_default/index_0/seed_3/result.json",
+      "bytes": 551,
+      "sha256": "3fc54af7e33ed4ac88a3e4e25d7a5345f39a6b2f21647dde96a229bfd2b0e744"
+    },
+    {
+      "path": "phase2/results/intervention/lift/smolvla/milk/chunk_default/index_0/seed_3/trajectory.npz",
+      "bytes": 508593,
+      "sha256": "eff543bf91a41c3f60ba7016568b9e94724ebd1e0daecba462765bd07f7a0fff"
+    },
+    {
+      "path": "phase2/results/intervention/lift/smolvla/milk/chunk_default/index_0/seed_3/timings.json",
+      "bytes": 351839,
+      "sha256": "3774c3091595b405a18d16664d4de46efd8b8efa0f66969da11adeb3fe5c5558"
+    },
+    {
+      "path": "phase2/results/intervention/lift/smolvla/milk/chunk_default/index_0/seed_3/rollout.mp4",
+      "bytes": 1336886,
+      "sha256": "9c5a8982d661c834be5d08dc01ef317dcb53047a0341f809754ce15648f18bdf"
+    },
+    {
+      "path": "phase2/results/intervention/lift/smolvla/milk/chunk_default/index_0/seed_3/stage_metrics.json",
+      "bytes": 712,
+      "sha256": "22d95968359696c52e877d725cea9465f018ce45b80c6c513870cfd661911523"
+    },
+    {
+      "path": "phase2/results/intervention/lift/smolvla/milk/chunk_default/index_0/seed_4/result.json",
+      "bytes": 551,
+      "sha256": "cb2e8c0a247aed60842e46506b16b9d682d6c240c6430f712e74a3aaf779f559"
+    },
+    {
+      "path": "phase2/results/intervention/lift/smolvla/milk/chunk_default/index_0/seed_4/trajectory.npz",
+      "bytes": 511508,
+      "sha256": "cba6cef8b319e2e767ab5a3e4a6a12ec8d67ccdded66059af24364eaf3cb49b0"
+    },
+    {
+      "path": "phase2/results/intervention/lift/smolvla/milk/chunk_default/index_0/seed_4/timings.json",
+      "bytes": 351567,
+      "sha256": "59f1c7c4263359774f10e3c74e53da1b5282412d35d205fe3462c1ddd3434002"
+    },
+    {
+      "path": "phase2/results/intervention/lift/smolvla/milk/chunk_default/index_0/seed_4/rollout.mp4",
+      "bytes": 1407915,
+      "sha256": "f3ef35e75af0368c78830cf9a0b603b835844f4161f8b64cb07c84aa35eaade3"
+    },
+    {
+      "path": "phase2/results/intervention/lift/smolvla/milk/chunk_default/index_0/seed_4/stage_metrics.json",
+      "bytes": 709,
+      "sha256": "c8e84e0e97d2c8607e3a05e04a67fb0f79b8869df6bf40246ff6155a56b1f6ec"
+    },
+    {
+      "path": "phase2/results/intervention/lift/smolvla/milk/chunk_default/index_0/seed_5/result.json",
+      "bytes": 551,
+      "sha256": "5b50bf2562edc6cdc5e6b8e25c4da848a8eeb51fb300619e14360e8927963b60"
+    },
+    {
+      "path": "phase2/results/intervention/lift/smolvla/milk/chunk_default/index_0/seed_5/trajectory.npz",
+      "bytes": 504633,
+      "sha256": "c78eab852b25ada6caafaf76768dfb5634c79695db827cb65666ab3e3ccd5bad"
+    },
+    {
+      "path": "phase2/results/intervention/lift/smolvla/milk/chunk_default/index_0/seed_5/timings.json",
+      "bytes": 350461,
+      "sha256": "349a0a8c5538b2d8ff7095eed5bed7689071e62a8e108161a6c644823c280bc1"
+    },
+    {
+      "path": "phase2/results/intervention/lift/smolvla/milk/chunk_default/index_0/seed_5/rollout.mp4",
+      "bytes": 1395480,
+      "sha256": "8360072d6eccf0b4fbdf487bf9e0d78a2b3ea7d6e23920836c7aff5ca465fba8"
+    },
+    {
+      "path": "phase2/results/intervention/lift/smolvla/milk/chunk_default/index_0/seed_5/stage_metrics.json",
+      "bytes": 694,
+      "sha256": "39cfdad1e2a9311afcb54cd93b33c529b5863b14cb8484121cf26e4633eac8e8"
+    },
+    {
+      "path": "phase2/results/intervention/lift/smolvla/milk/chunk_default/index_0/seed_6/result.json",
+      "bytes": 550,
+      "sha256": "bae35c7462f6a11892592465b9bb27699b8b3c7130bb12bdc5c7edb029bef81f"
+    },
+    {
+      "path": "phase2/results/intervention/lift/smolvla/milk/chunk_default/index_0/seed_6/trajectory.npz",
+      "bytes": 506652,
+      "sha256": "8ffd5f14dbc9f3539a354201effdb965174e8f0eb26bb761b87f20b6d05480db"
+    },
+    {
+      "path": "phase2/results/intervention/lift/smolvla/milk/chunk_default/index_0/seed_6/timings.json",
+      "bytes": 352068,
+      "sha256": "2bd8fa2d33cf6b8d5a13232c23e95e4d90720dad360621c7ff351c93bb5492aa"
+    },
+    {
+      "path": "phase2/results/intervention/lift/smolvla/milk/chunk_default/index_0/seed_6/rollout.mp4",
+      "bytes": 1582350,
+      "sha256": "3750c5c56d57a42d638ba662f0380eb3d75e46ac9a5611e078f618bebe6219fa"
+    },
+    {
+      "path": "phase2/results/intervention/lift/smolvla/milk/chunk_default/index_0/seed_6/stage_metrics.json",
+      "bytes": 695,
+      "sha256": "fd8c831bed602df05b0b8799a7096af2f79146253b21f4bc61da0e438c8b6498"
+    },
+    {
+      "path": "phase2/results/intervention/lift/smolvla/milk/chunk_default/index_0/seed_7/result.json",
+      "bytes": 550,
+      "sha256": "983e77dced089a769c4a37a9ca4a8c25f7ab16744d3427ab2d30a47e51aed8cf"
+    },
+    {
+      "path": "phase2/results/intervention/lift/smolvla/milk/chunk_default/index_0/seed_7/trajectory.npz",
+      "bytes": 509090,
+      "sha256": "ebe51940fae21d01648baede46090204152000106c09f4ae0098579fb3d0c278"
+    },
+    {
+      "path": "phase2/results/intervention/lift/smolvla/milk/chunk_default/index_0/seed_7/timings.json",
+      "bytes": 353441,
+      "sha256": "59634254e6d3bdecbf2558dbfef484f1d5313648b46dbbc5efe8ad2390af2283"
+    },
+    {
+      "path": "phase2/results/intervention/lift/smolvla/milk/chunk_default/index_0/seed_7/rollout.mp4",
+      "bytes": 1372725,
+      "sha256": "d7a39a4f0f265410a8ebeb9ab17b4a66c88cff23f673b156d7daa3c3c84fcb68"
+    },
+    {
+      "path": "phase2/results/intervention/lift/smolvla/milk/chunk_default/index_0/seed_7/stage_metrics.json",
+      "bytes": 709,
+      "sha256": "29ae27692d6ccda552da17ffdfde12656885a70092d75b8ac60a7d93c027f64b"
+    },
+    {
+      "path": "phase2/results/intervention/lift/smolvla/milk/chunk_default/index_0/seed_8/result.json",
+      "bytes": 551,
+      "sha256": "bd2d2eced85facb27e96b20ac74c6adbb481b90b3c54739171966a471cc3220b"
+    },
+    {
+      "path": "phase2/results/intervention/lift/smolvla/milk/chunk_default/index_0/seed_8/trajectory.npz",
+      "bytes": 504930,
+      "sha256": "d37c71a83c391315155b91089a83270f3fb5120b1e741677bebaa70733b77378"
+    },
+    {
+      "path": "phase2/results/intervention/lift/smolvla/milk/chunk_default/index_0/seed_8/timings.json",
+      "bytes": 353946,
+      "sha256": "e94aa10b32a57d0e75191c3653b17006f46399ba22f2a642b147061d9eb6f4cb"
+    },
+    {
+      "path": "phase2/results/intervention/lift/smolvla/milk/chunk_default/index_0/seed_8/rollout.mp4",
+      "bytes": 1355568,
+      "sha256": "fe0892fc5f585f382d42163cd79713b633204b636d2dde7527ea272ada9c4fe9"
+    },
+    {
+      "path": "phase2/results/intervention/lift/smolvla/milk/chunk_default/index_0/seed_8/stage_metrics.json",
+      "bytes": 697,
+      "sha256": "6f0226bdf722a4f819ce6b8a5c4c25c7de1cd440d57ae05f92493f09e1b28023"
+    },
+    {
+      "path": "phase2/results/intervention/lift/smolvla/milk/chunk_default/index_0/seed_9/result.json",
+      "bytes": 550,
+      "sha256": "6c6e2afb4b3e32d768dfd47713b068bd6c37d9d628cc8829bec76b1a37e60543"
+    },
+    {
+      "path": "phase2/results/intervention/lift/smolvla/milk/chunk_default/index_0/seed_9/trajectory.npz",
+      "bytes": 514368,
+      "sha256": "29700034df5a81980aba817ca8439305fda643d60f96a2b7384709a0c7aebc0d"
+    },
+    {
+      "path": "phase2/results/intervention/lift/smolvla/milk/chunk_default/index_0/seed_9/timings.json",
+      "bytes": 352331,
+      "sha256": "456b0aa7984fb771b481daeeb2174b9e2ded3c392dcf27e355ccd80e7e485a45"
+    },
+    {
+      "path": "phase2/results/intervention/lift/smolvla/milk/chunk_default/index_0/seed_9/rollout.mp4",
+      "bytes": 1382401,
+      "sha256": "5e2b20c5a06b8e374c9a57b485d2400c066894f90d50bfb24f3a09da2d313da1"
+    },
+    {
+      "path": "phase2/results/intervention/lift/smolvla/milk/chunk_default/index_0/seed_9/stage_metrics.json",
+      "bytes": 713,
+      "sha256": "a055786bae23513282bb81784f652bb3836dee8f1deee7ce38c2d06e35552e53"
+    },
+    {
+      "path": "phase2/results/intervention/sham/smolvla/milk/chunk_default/index_0/seed_0/result.json",
+      "bytes": 526,
+      "sha256": "15afbc619e916481e62f013ee63a87cb9353ce78489461ac91b9f1ba14eaee78"
+    },
+    {
+      "path": "phase2/results/intervention/sham/smolvla/milk/chunk_default/index_0/seed_0/trajectory.npz",
+      "bytes": 512199,
+      "sha256": "14f5534ded276b14f99e8fbf2b520fcd875e485678cda917b10a7d1861e7b29e"
+    },
+    {
+      "path": "phase2/results/intervention/sham/smolvla/milk/chunk_default/index_0/seed_0/timings.json",
+      "bytes": 352224,
+      "sha256": "2d26f7c78f5236c9cba01456d79614a9b2c60eb26cc34dcc1aec4156bd161392"
+    },
+    {
+      "path": "phase2/results/intervention/sham/smolvla/milk/chunk_default/index_0/seed_0/rollout.mp4",
+      "bytes": 1279462,
+      "sha256": "425c9656e15f51c6ff4b63fe3c18e1b7805ce9b777412f0c8bb455f99346fc77"
+    },
+    {
+      "path": "phase2/results/intervention/sham/smolvla/milk/chunk_default/index_0/seed_0/stage_metrics.json",
+      "bytes": 712,
+      "sha256": "1d6bd8ef43b94579ae29f777c45118489e001d105ecce254227cbedd17eed058"
+    },
+    {
+      "path": "phase2/results/intervention/sham/smolvla/milk/chunk_default/index_0/seed_1/result.json",
+      "bytes": 525,
+      "sha256": "df46f1f2a9a5e616b3d51d6c3dc7aeb228eab74303a5db8a93a744c4ed3b572b"
+    },
+    {
+      "path": "phase2/results/intervention/sham/smolvla/milk/chunk_default/index_0/seed_1/trajectory.npz",
+      "bytes": 513232,
+      "sha256": "3c3a2d2152205379115c08a55144b18e4e0075ac19011826fab5cb153eb187c5"
+    },
+    {
+      "path": "phase2/results/intervention/sham/smolvla/milk/chunk_default/index_0/seed_1/timings.json",
+      "bytes": 354584,
+      "sha256": "2d4b6d24d3f0f898015edd34d434f92458a0ef67f503513fbb338e741c8b2fb9"
+    },
+    {
+      "path": "phase2/results/intervention/sham/smolvla/milk/chunk_default/index_0/seed_1/rollout.mp4",
+      "bytes": 1503543,
+      "sha256": "f52d3ca25676ccfcec5416e6b97d47a2d79ef9d7e8e9ae6a0dd7bcecedeb19cc"
+    },
+    {
+      "path": "phase2/results/intervention/sham/smolvla/milk/chunk_default/index_0/seed_1/stage_metrics.json",
+      "bytes": 695,
+      "sha256": "50fd64cab1185912831cdd65a4b92e82445be8bc39e8823009932e165983bbb0"
+    },
+    {
+      "path": "phase2/results/intervention/sham/smolvla/milk/chunk_default/index_0/seed_2/result.json",
+      "bytes": 526,
+      "sha256": "23b2ddbe540c574ad1ea12c167b6bc7c9c9cf76fa4636da1ad130f52dfd64967"
+    },
+    {
+      "path": "phase2/results/intervention/sham/smolvla/milk/chunk_default/index_0/seed_2/trajectory.npz",
+      "bytes": 515132,
+      "sha256": "c39d55bab056adf3077f0007ebcde1d8129834dee40de67ed8c51cb16fdfa2fe"
+    },
+    {
+      "path": "phase2/results/intervention/sham/smolvla/milk/chunk_default/index_0/seed_2/timings.json",
+      "bytes": 352693,
+      "sha256": "d6c7c20af82a4a80b44c1353119654c34c74b55459f68e15d2e14b0468fdcc5e"
+    },
+    {
+      "path": "phase2/results/intervention/sham/smolvla/milk/chunk_default/index_0/seed_2/rollout.mp4",
+      "bytes": 1379591,
+      "sha256": "6eb4931574af13efd8f998728cad75ca25582a1479a53188b213052592607c69"
+    },
+    {
+      "path": "phase2/results/intervention/sham/smolvla/milk/chunk_default/index_0/seed_2/stage_metrics.json",
+      "bytes": 709,
+      "sha256": "24dcb27b1f2b83e50c2924d1e17ea1adf07241c6869bed87335ab3b25d49b847"
+    },
+    {
+      "path": "phase2/results/intervention/sham/smolvla/milk/chunk_default/index_0/seed_3/result.json",
+      "bytes": 551,
+      "sha256": "f6bb6ac94156b74e97155878f82cbc4de4bfd0ce83f459cb9812d75f17300bb3"
+    },
+    {
+      "path": "phase2/results/intervention/sham/smolvla/milk/chunk_default/index_0/seed_3/trajectory.npz",
+      "bytes": 538265,
+      "sha256": "b20ad688417be7c2844483d336bb7f86ed41a44b5e16146825ee7651160d0fae"
+    },
+    {
+      "path": "phase2/results/intervention/sham/smolvla/milk/chunk_default/index_0/seed_3/timings.json",
+      "bytes": 352852,
+      "sha256": "901abec29a706c8c8056d50ca52960982b31f3fdae5d846aa49a498ee1ff61ce"
+    },
+    {
+      "path": "phase2/results/intervention/sham/smolvla/milk/chunk_default/index_0/seed_3/rollout.mp4",
+      "bytes": 1299904,
+      "sha256": "9a6e28b29e6c5542c046da160f56a118c529abb4fb9780977e8b669494d4168f"
+    },
+    {
+      "path": "phase2/results/intervention/sham/smolvla/milk/chunk_default/index_0/seed_3/stage_metrics.json",
+      "bytes": 712,
+      "sha256": "e8d531e1d31e6f4b2805e8342abc7628b16c2403ae7d5ecc9401899b672b2689"
+    },
+    {
+      "path": "phase2/results/intervention/sham/smolvla/milk/chunk_default/index_0/seed_4/result.json",
+      "bytes": 551,
+      "sha256": "4ce4c196519ee0f98b3b98607bfa84bb06e14e3b9b04453c9752e2fdba615c36"
+    },
+    {
+      "path": "phase2/results/intervention/sham/smolvla/milk/chunk_default/index_0/seed_4/trajectory.npz",
+      "bytes": 541196,
+      "sha256": "9d5d37f819ef9d69c67f6ceb115eb0dca29913283511f18b2772bffed1073650"
+    },
+    {
+      "path": "phase2/results/intervention/sham/smolvla/milk/chunk_default/index_0/seed_4/timings.json",
+      "bytes": 351599,
+      "sha256": "39156f69344bf34a994042b2e5d09731270036873bcbc8f9fc4193587e71760b"
+    },
+    {
+      "path": "phase2/results/intervention/sham/smolvla/milk/chunk_default/index_0/seed_4/rollout.mp4",
+      "bytes": 1334136,
+      "sha256": "841a5e57aee32fd2aef0d977c70686668981c80eb6016bba18994de1f005d277"
+    },
+    {
+      "path": "phase2/results/intervention/sham/smolvla/milk/chunk_default/index_0/seed_4/stage_metrics.json",
+      "bytes": 709,
+      "sha256": "22573194b4c0e4576413e3ce92614f2a92377dbde64505718ae939faa8c781e9"
+    },
+    {
+      "path": "phase2/results/intervention/sham/smolvla/milk/chunk_default/index_0/seed_5/result.json",
+      "bytes": 551,
+      "sha256": "b404cd90fe9f47bafc4918295a5f6d2aa38635496007d4a6f63c9b5c2c4f865e"
+    },
+    {
+      "path": "phase2/results/intervention/sham/smolvla/milk/chunk_default/index_0/seed_5/trajectory.npz",
+      "bytes": 504633,
+      "sha256": "c78eab852b25ada6caafaf76768dfb5634c79695db827cb65666ab3e3ccd5bad"
+    },
+    {
+      "path": "phase2/results/intervention/sham/smolvla/milk/chunk_default/index_0/seed_5/timings.json",
+      "bytes": 350457,
+      "sha256": "db61422c9553d8217d8c5e8aded8ed06d123360d946942d57491a5b9998948b0"
+    },
+    {
+      "path": "phase2/results/intervention/sham/smolvla/milk/chunk_default/index_0/seed_5/rollout.mp4",
+      "bytes": 1395480,
+      "sha256": "8360072d6eccf0b4fbdf487bf9e0d78a2b3ea7d6e23920836c7aff5ca465fba8"
+    },
+    {
+      "path": "phase2/results/intervention/sham/smolvla/milk/chunk_default/index_0/seed_5/stage_metrics.json",
+      "bytes": 694,
+      "sha256": "39cfdad1e2a9311afcb54cd93b33c529b5863b14cb8484121cf26e4633eac8e8"
+    },
+    {
+      "path": "phase2/results/intervention/sham/smolvla/milk/chunk_default/index_0/seed_6/result.json",
+      "bytes": 551,
+      "sha256": "d9fd419f2af29b34a5477cdb952d424f6c09042bcb5857a2d62e1aa85a2bc6c2"
+    },
+    {
+      "path": "phase2/results/intervention/sham/smolvla/milk/chunk_default/index_0/seed_6/trajectory.npz",
+      "bytes": 506652,
+      "sha256": "8ffd5f14dbc9f3539a354201effdb965174e8f0eb26bb761b87f20b6d05480db"
+    },
+    {
+      "path": "phase2/results/intervention/sham/smolvla/milk/chunk_default/index_0/seed_6/timings.json",
+      "bytes": 352076,
+      "sha256": "4bf1fe44549882bdcb39d22cb75614cbe21caf5ce9565698fc192e79e2a209a4"
+    },
+    {
+      "path": "phase2/results/intervention/sham/smolvla/milk/chunk_default/index_0/seed_6/rollout.mp4",
+      "bytes": 1582350,
+      "sha256": "3750c5c56d57a42d638ba662f0380eb3d75e46ac9a5611e078f618bebe6219fa"
+    },
+    {
+      "path": "phase2/results/intervention/sham/smolvla/milk/chunk_default/index_0/seed_6/stage_metrics.json",
+      "bytes": 695,
+      "sha256": "fd8c831bed602df05b0b8799a7096af2f79146253b21f4bc61da0e438c8b6498"
+    },
+    {
+      "path": "phase2/results/intervention/sham/smolvla/milk/chunk_default/index_0/seed_7/result.json",
+      "bytes": 551,
+      "sha256": "b5ade13fd006be13c6cd0ab4f797161302c037b58489546783bbfd44c6031aeb"
+    },
+    {
+      "path": "phase2/results/intervention/sham/smolvla/milk/chunk_default/index_0/seed_7/trajectory.npz",
+      "bytes": 513109,
+      "sha256": "31f61f89467c8dc788e0d9cc2860f8477e87e849df041a7e45156c28a55e33e4"
+    },
+    {
+      "path": "phase2/results/intervention/sham/smolvla/milk/chunk_default/index_0/seed_7/timings.json",
+      "bytes": 352660,
+      "sha256": "11e3189a7adef95d6260eef3746fcdf7917a343c484150d2eabc3cfecdd9161c"
+    },
+    {
+      "path": "phase2/results/intervention/sham/smolvla/milk/chunk_default/index_0/seed_7/rollout.mp4",
+      "bytes": 1381227,
+      "sha256": "7e09668667ab9f147c604d9e2d65f78a7177942119980f408ca55b50c7f672c1"
+    },
+    {
+      "path": "phase2/results/intervention/sham/smolvla/milk/chunk_default/index_0/seed_7/stage_metrics.json",
+      "bytes": 711,
+      "sha256": "e825b2559aa3919e132f3c238a3607a204dbbf4479141b93f3ee858648ad1be4"
+    },
+    {
+      "path": "phase2/results/intervention/sham/smolvla/milk/chunk_default/index_0/seed_8/result.json",
+      "bytes": 551,
+      "sha256": "fde20ac60ae6ce5a5d9eb14ea89a8896e1ef948805fb9cfca14c90275d27df08"
+    },
+    {
+      "path": "phase2/results/intervention/sham/smolvla/milk/chunk_default/index_0/seed_8/trajectory.npz",
+      "bytes": 504930,
+      "sha256": "d37c71a83c391315155b91089a83270f3fb5120b1e741677bebaa70733b77378"
+    },
+    {
+      "path": "phase2/results/intervention/sham/smolvla/milk/chunk_default/index_0/seed_8/timings.json",
+      "bytes": 353901,
+      "sha256": "0b78f4c2b7e0d7675a72c8155cc44b3028614017f3b9d139f6e648d70099787e"
+    },
+    {
+      "path": "phase2/results/intervention/sham/smolvla/milk/chunk_default/index_0/seed_8/rollout.mp4",
+      "bytes": 1355568,
+      "sha256": "fe0892fc5f585f382d42163cd79713b633204b636d2dde7527ea272ada9c4fe9"
+    },
+    {
+      "path": "phase2/results/intervention/sham/smolvla/milk/chunk_default/index_0/seed_8/stage_metrics.json",
+      "bytes": 697,
+      "sha256": "6f0226bdf722a4f819ce6b8a5c4c25c7de1cd440d57ae05f92493f09e1b28023"
+    },
+    {
+      "path": "phase2/results/intervention/sham/smolvla/milk/chunk_default/index_0/seed_9/result.json",
+      "bytes": 551,
+      "sha256": "faaadd32181505df191a82a9478422150247cb689b83d1fca0ed82f3bf52b68e"
+    },
+    {
+      "path": "phase2/results/intervention/sham/smolvla/milk/chunk_default/index_0/seed_9/trajectory.npz",
+      "bytes": 509774,
+      "sha256": "39f365ace3ab1d67c360f558695afcc4722f5a4274cfeafc44d4caf73c47d86f"
+    },
+    {
+      "path": "phase2/results/intervention/sham/smolvla/milk/chunk_default/index_0/seed_9/timings.json",
+      "bytes": 354214,
+      "sha256": "dd3e5e6fae6471cdfed8b2cceacf94b8a8ee7c36dc312b0b42b328a66ca343cd"
+    },
+    {
+      "path": "phase2/results/intervention/sham/smolvla/milk/chunk_default/index_0/seed_9/rollout.mp4",
+      "bytes": 1346715,
+      "sha256": "2797fd8e3ee389954e2af71ab4c042d819c2600d8b86e4116b5b2236cc918adf"
+    },
+    {
+      "path": "phase2/results/intervention/sham/smolvla/milk/chunk_default/index_0/seed_9/stage_metrics.json",
+      "bytes": 713,
+      "sha256": "1dd4262b075673e87a6343d194e28b724c2def61e6fe65041e62317a46a2f1ff"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/black_bowl/chunk_10/index_0/seed_0/result.json",
+      "bytes": 535,
+      "sha256": "0d356fd3d9e6de87bb1c82219e4c48b3fa1eda47f004a5c6820e63d97cf1401e"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/black_bowl/chunk_10/index_0/seed_0/trajectory.npz",
+      "bytes": 42781,
+      "sha256": "ac1c159c84e5f9ddebe34b42bc923fb9af252c6bf30acf5d4fb80dcdbe986c26"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/black_bowl/chunk_10/index_0/seed_0/timings.json",
+      "bytes": 29461,
+      "sha256": "6d79710e6ba473587f9594044a642efd09091e4593910731d78452efd551f63d"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/black_bowl/chunk_10/index_0/seed_0/rollout.mp4",
+      "bytes": 136707,
+      "sha256": "181440c5d2d8acee4af6ece86ac372b55d1c72024524e2df1e24a0d84037c304"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/black_bowl/chunk_10/index_0/seed_0/stage_metrics.json",
+      "bytes": 550,
+      "sha256": "e8e30d88dbf9ee81c7621a2b0fce57bd14205be30c621a43548ba1fe2c4bb0f9"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/black_bowl/chunk_10/index_0/seed_1/result.json",
+      "bytes": 535,
+      "sha256": "fe20221882c5571bc7aba5427437987ab94cac91266d13cc3fa470e06a24c659"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/black_bowl/chunk_10/index_0/seed_1/trajectory.npz",
+      "bytes": 43298,
+      "sha256": "efc327bc6961932563204feb91b12f565b3adb67b46419f1494b7e07eacfdbda"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/black_bowl/chunk_10/index_0/seed_1/timings.json",
+      "bytes": 29765,
+      "sha256": "0ffaeb73fa4fa0c06939e1c3afc04baf5f5b9b1a8b5877f23b34acd3e9b2c8f2"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/black_bowl/chunk_10/index_0/seed_1/rollout.mp4",
+      "bytes": 138886,
+      "sha256": "70f94e3ecec015c4ead479ce628ea071c1b01a4bac80c87ce77a2ebbeb033842"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/black_bowl/chunk_10/index_0/seed_1/stage_metrics.json",
+      "bytes": 548,
+      "sha256": "131d83d22402a8b214ee9a9f55ff3317ac4edd2743989bc5959c55ba12fd4658"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/black_bowl/chunk_10/index_0/seed_2/result.json",
+      "bytes": 536,
+      "sha256": "19abff3d13a6c515ede40d1ad9185d4fdf4c0b6f11140fe87618b5e1b479aac2"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/black_bowl/chunk_10/index_0/seed_2/trajectory.npz",
+      "bytes": 45057,
+      "sha256": "0921132a1c8ce4a7571144ca08a4cdbd52a02061c164377d29b75316820ef86a"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/black_bowl/chunk_10/index_0/seed_2/timings.json",
+      "bytes": 31002,
+      "sha256": "5adc4c4969797a5fd547f616c1bbe8a0e09456bf4efa81682cbcdf58b6bf9372"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/black_bowl/chunk_10/index_0/seed_2/rollout.mp4",
+      "bytes": 145181,
+      "sha256": "6df975062edd58b5334354ab6a7a00e94a7a5a4684e6231908b930531c94f9fa"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/black_bowl/chunk_10/index_0/seed_2/stage_metrics.json",
+      "bytes": 548,
+      "sha256": "70cfbf17fe3798f414ad44ddf7311acdc6d4a46802b68f3de09b6375d6b00523"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/black_bowl/chunk_10/index_0/seed_3/result.json",
+      "bytes": 536,
+      "sha256": "63eabf1607146f62d678c793927fe85724f4063c7a4c0fb13be44567ffbf73da"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/black_bowl/chunk_10/index_0/seed_3/trajectory.npz",
+      "bytes": 42442,
+      "sha256": "34eb9e2dd8df0d2a6816985df4a1f94a602d6ac89ab46c0455c588a2d2d8f690"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/black_bowl/chunk_10/index_0/seed_3/timings.json",
+      "bytes": 29178,
+      "sha256": "0bf9ddf17df03dab35e5ebdb2d2afecc7ea263f5c96532c7fb2610023d1a9b30"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/black_bowl/chunk_10/index_0/seed_3/rollout.mp4",
+      "bytes": 136562,
+      "sha256": "61acd872eeff11938ec7b0e0e4c7f4dae7d673c19cd7cdfa874042c7ec315a52"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/black_bowl/chunk_10/index_0/seed_3/stage_metrics.json",
+      "bytes": 550,
+      "sha256": "ef2abb635799960b8399c39bb577559d0db7491dcb7b8fb74b4e12759850f20f"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/black_bowl/chunk_10/index_0/seed_4/result.json",
+      "bytes": 535,
+      "sha256": "0ec3b83e98367fb3d120399b61fad9190d1abd09b2b6bb1f16f8d432f67af910"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/black_bowl/chunk_10/index_0/seed_4/trajectory.npz",
+      "bytes": 42068,
+      "sha256": "3110d9ae2410b6f8c3253eade9124eeededbcc8150a4de105cdeb7fd73f96987"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/black_bowl/chunk_10/index_0/seed_4/timings.json",
+      "bytes": 28847,
+      "sha256": "3af4a8e3d64f9db3fb5bcdcf40f70b9bd15d04bd297f24df6709d19b075eaba7"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/black_bowl/chunk_10/index_0/seed_4/rollout.mp4",
+      "bytes": 135958,
+      "sha256": "c9a0aebd511f6da2e63aac72eae54f978e5510c10a3067c43a169bda63a8c32b"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/black_bowl/chunk_10/index_0/seed_4/stage_metrics.json",
+      "bytes": 550,
+      "sha256": "3c414f9979c8e9c8c3723d5b162f8d4e10b8d20aa9057987d25816e82d5778b1"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/black_bowl/chunk_10/index_0/seed_5/result.json",
+      "bytes": 536,
+      "sha256": "ca19070ffe62aada26147b160c9b88139068a0d53d27b98e4f69e3c48f3f8abe"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/black_bowl/chunk_10/index_0/seed_5/trajectory.npz",
+      "bytes": 43343,
+      "sha256": "a192f00603762d378028a5fc8d5365a1c682aabaad764e2b1b302660efa358ac"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/black_bowl/chunk_10/index_0/seed_5/timings.json",
+      "bytes": 29755,
+      "sha256": "5526fbd0dd6a80a41ab1f66d9241b1ffe8546ea0afb25ab40807dac9a7903202"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/black_bowl/chunk_10/index_0/seed_5/rollout.mp4",
+      "bytes": 138674,
+      "sha256": "a10d62b0eff328210b101cab5a9f08abec3a1bb6253ef89ea7da354ee79dd5bd"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/black_bowl/chunk_10/index_0/seed_5/stage_metrics.json",
+      "bytes": 550,
+      "sha256": "8806f4bd506edda8b3bae0d9c6ec0d334e32527993d21fc9e4b6193a75a47832"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/black_bowl/chunk_10/index_0/seed_6/result.json",
+      "bytes": 536,
+      "sha256": "61e91af64c11d81531c21dfc13c2ca493f9cd4f7eb83d3cf31a9010133baf276"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/black_bowl/chunk_10/index_0/seed_6/trajectory.npz",
+      "bytes": 44156,
+      "sha256": "eaae2d27eed62d4589890885f4004e3fed2b3e4a05b28e175c7dd376a47fb6bf"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/black_bowl/chunk_10/index_0/seed_6/timings.json",
+      "bytes": 30423,
+      "sha256": "9bacef9dc69a33130530a9b774e24e840e3cfdb8fdf714f960697b6ab082aedd"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/black_bowl/chunk_10/index_0/seed_6/rollout.mp4",
+      "bytes": 139596,
+      "sha256": "9fe24dfd60f5330b56ab3b9e894a2c9b8a47e4b03cd337157fa879b66292c9da"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/black_bowl/chunk_10/index_0/seed_6/stage_metrics.json",
+      "bytes": 550,
+      "sha256": "454a6a72e677fb1f0528136287d2d28b952df06bffe1c80bee040ac768eda196"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/black_bowl/chunk_10/index_0/seed_7/result.json",
+      "bytes": 536,
+      "sha256": "9e325da235518148de0abb66979b73afd2e043d7ed4569ffa847a3e498c896cc"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/black_bowl/chunk_10/index_0/seed_7/trajectory.npz",
+      "bytes": 42562,
+      "sha256": "9775c307fbc97ae5c5ce827f249b7ca7c995f14cf2afe72061defacc9bb31dd0"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/black_bowl/chunk_10/index_0/seed_7/timings.json",
+      "bytes": 29175,
+      "sha256": "b8c0ab8ec583bc9e0f9eef153341de313e392208dbca42a8c570658a9edac763"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/black_bowl/chunk_10/index_0/seed_7/rollout.mp4",
+      "bytes": 136800,
+      "sha256": "130d0b1bc986bfcd08318170548be4cecc5b236c8db22d4b57377cc1c3b8b889"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/black_bowl/chunk_10/index_0/seed_7/stage_metrics.json",
+      "bytes": 550,
+      "sha256": "e86fdce54b20462046e93021e452354ddee5625d247e74f096a19a4ecc63b00c"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/black_bowl/chunk_10/index_0/seed_8/result.json",
+      "bytes": 534,
+      "sha256": "c7dd4e7b2a73e4584e83e2faf3231fe55ddcc6a078b359b34a8e6934648ff6df"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/black_bowl/chunk_10/index_0/seed_8/trajectory.npz",
+      "bytes": 42022,
+      "sha256": "164c9a6b22df03a938a43d80556f2cada8af83608afbe2c7f4d002caf7bffbd1"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/black_bowl/chunk_10/index_0/seed_8/timings.json",
+      "bytes": 28854,
+      "sha256": "c21b987bf5ae7a72cedf3090378af800fc529e33e70d8647f9dc70d51d9d802f"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/black_bowl/chunk_10/index_0/seed_8/rollout.mp4",
+      "bytes": 137553,
+      "sha256": "24aa0cef4dffc36a3630f0214e042814c157ab6ad051ffabe598e3decc61929e"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/black_bowl/chunk_10/index_0/seed_8/stage_metrics.json",
+      "bytes": 550,
+      "sha256": "f0556a3bb0ece45a44333bccf6536d94e8eead429f647c3340fc838d38f69ae4"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/black_bowl/chunk_10/index_0/seed_9/result.json",
+      "bytes": 535,
+      "sha256": "c57d2e6e4e0407c956efe94a4ee9b1107cc54a7bb0e8fcebdd62bd04c7218e79"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/black_bowl/chunk_10/index_0/seed_9/trajectory.npz",
+      "bytes": 42405,
+      "sha256": "30aa1c895eeb95dcef7e3b6b0cfbbc91e0d472417ab9f9ea8f2258577d70e8be"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/black_bowl/chunk_10/index_0/seed_9/timings.json",
+      "bytes": 29169,
+      "sha256": "6eea58c1fa319359de67928c40cb15c2176d63e22d62328427d1d60e46fc76e3"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/black_bowl/chunk_10/index_0/seed_9/rollout.mp4",
+      "bytes": 137164,
+      "sha256": "a936f39af378b58105f99c62d39a6461698d96a94158f89978c419fddb0f39f6"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/black_bowl/chunk_10/index_0/seed_9/stage_metrics.json",
+      "bytes": 548,
+      "sha256": "b8ab5cca6d0719bed7601d7f28738fce797cd363e922ccd0b84947b8cfe5e499"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/milk/chunk_10/index_0/seed_0/result.json",
+      "bytes": 526,
+      "sha256": "ca246699145249b91caabb2152c26a57ea7993d910c47ae0966e0f32c2a88aa8"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/milk/chunk_10/index_0/seed_0/trajectory.npz",
+      "bytes": 72959,
+      "sha256": "793b03a7b73652d9162611cc1c75264133df64268709601a5349d9e48847a0c4"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/milk/chunk_10/index_0/seed_0/timings.json",
+      "bytes": 49893,
+      "sha256": "6c89aeba00b79df655b46f10bba34b596109dbe4033794040b165ecadbfa7c23"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/milk/chunk_10/index_0/seed_0/rollout.mp4",
+      "bytes": 188200,
+      "sha256": "9af9ce2a7cfb69ce8ad7292d5063b271f00e517bfa6a1bb91f80c75ea80c61c0"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/milk/chunk_10/index_0/seed_0/stage_metrics.json",
+      "bytes": 712,
+      "sha256": "bd0792fbe56a13a2d2765ac5203b2c0d3d1931d23193cff8936ebf0c24cbc85d"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/milk/chunk_10/index_0/seed_1/result.json",
+      "bytes": 526,
+      "sha256": "7ad53977c24b4c391e47de6440ba5e431c105143effd3868fedfd020ba493ecd"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/milk/chunk_10/index_0/seed_1/trajectory.npz",
+      "bytes": 72897,
+      "sha256": "d5e2f8567a46524d028374c7d8ca3e30ea355e84cf151a6bb1d30dc9f0a605ca"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/milk/chunk_10/index_0/seed_1/timings.json",
+      "bytes": 49922,
+      "sha256": "ca17e57d3acf6940407b27a2b96f55d4b154e8b8821b9786197e97a8a63b4f64"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/milk/chunk_10/index_0/seed_1/rollout.mp4",
+      "bytes": 186687,
+      "sha256": "cf9286e3fde94dc8d85f061ecc7c43b245b6cda1c798de9cae08e422cdc97ec3"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/milk/chunk_10/index_0/seed_1/stage_metrics.json",
+      "bytes": 711,
+      "sha256": "858b352c06c53574091f24a618120fafb99e2584efecbe285d4731af7a851e8a"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/milk/chunk_10/index_0/seed_2/result.json",
+      "bytes": 526,
+      "sha256": "74395c72888387f1e17cbece77612710e425315367fb3f0e948d7cf49a349f7a"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/milk/chunk_10/index_0/seed_2/trajectory.npz",
+      "bytes": 72226,
+      "sha256": "bbc7b59fafc7c5a23b106b8ee153edc807407205f169b076f08dc16eadcf7825"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/milk/chunk_10/index_0/seed_2/timings.json",
+      "bytes": 49225,
+      "sha256": "8fb53531344c700dd49df653b9c39daa48cfd7629ef29dbc21fee1d931b224a1"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/milk/chunk_10/index_0/seed_2/rollout.mp4",
+      "bytes": 182179,
+      "sha256": "55f28293dfa782c739cc97aacf40d5918972feff37b3e2714d479eca69cac3c9"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/milk/chunk_10/index_0/seed_2/stage_metrics.json",
+      "bytes": 709,
+      "sha256": "ce9aab1867cb2358116288bd99ee9f275ba8f340ced81514af128f699d0c4499"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/milk/chunk_10/index_0/seed_3/result.json",
+      "bytes": 526,
+      "sha256": "5df55851bf3efe3a9531e8159cdda8d83a63a775d84d19ef4063d4792e96bd4b"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/milk/chunk_10/index_0/seed_3/trajectory.npz",
+      "bytes": 72236,
+      "sha256": "a9e01c8422be2ea5e5528c1509ff095b5b033afc9b009eb769cff2b3846c7ed5"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/milk/chunk_10/index_0/seed_3/timings.json",
+      "bytes": 49479,
+      "sha256": "ccb2a8399d4f197b309509f91549d860b5ac60bc39973ee821d1b30eed2e73ec"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/milk/chunk_10/index_0/seed_3/rollout.mp4",
+      "bytes": 182610,
+      "sha256": "267506fdd97e78453e132d01deb4f47c4e32895d12b5f406d26260a9f01d3df6"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/milk/chunk_10/index_0/seed_3/stage_metrics.json",
+      "bytes": 712,
+      "sha256": "96219a16e7a784289f959c5466a8a5ef8537f860d3f38ffef55cc9a6ff19954f"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/milk/chunk_10/index_0/seed_4/result.json",
+      "bytes": 526,
+      "sha256": "fa4fb65c9b658fe42c6168b368b3987d2b8a70b3445bb3fc8fc3355ee104e0a4"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/milk/chunk_10/index_0/seed_4/trajectory.npz",
+      "bytes": 73106,
+      "sha256": "64d542f1749ed36717fd4585aa7acd2d015d6d49b287cb95c50a5f9066d6d681"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/milk/chunk_10/index_0/seed_4/timings.json",
+      "bytes": 49652,
+      "sha256": "21dbe6181d89f396dc6d2236bb24052d40ad776b6d9d68a42a731f7fb6145932"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/milk/chunk_10/index_0/seed_4/rollout.mp4",
+      "bytes": 186027,
+      "sha256": "24a60e8da666289636cf3bf3cadd183eee4b7243a5a92046fd6fd95c31ba26e2"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/milk/chunk_10/index_0/seed_4/stage_metrics.json",
+      "bytes": 709,
+      "sha256": "393ffbce72b37c7f29681af5d11769fd06598a2ea74517ab2ef9493e6040e019"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/milk/chunk_10/index_0/seed_5/result.json",
+      "bytes": 526,
+      "sha256": "4377c7ccc4909fe3608dfb8fafb6f1017b6d999c412faf565faf0328b51f7567"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/milk/chunk_10/index_0/seed_5/trajectory.npz",
+      "bytes": 72401,
+      "sha256": "3be02cd0eaddf9720db219fbd043e0a30f92296161daf2d569b6f3bf9bf4b8bf"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/milk/chunk_10/index_0/seed_5/timings.json",
+      "bytes": 49276,
+      "sha256": "5389795476002b4e0c0c9af30dd0878b899572b1c41d75ec9574f2dcd4b31d11"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/milk/chunk_10/index_0/seed_5/rollout.mp4",
+      "bytes": 182548,
+      "sha256": "66461388496984c36a0c62176e35b2e85d70ae465c1abb0fdda77f42ba6c1888"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/milk/chunk_10/index_0/seed_5/stage_metrics.json",
+      "bytes": 709,
+      "sha256": "aa0b3fa5b95d6b34a389f580b92940858326e158f9efa714f472d52c527bf81d"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/milk/chunk_10/index_0/seed_6/result.json",
+      "bytes": 526,
+      "sha256": "8410249b0ab6483f41b2e8f1fc88884c144060e87b3e108fabd0d43711aad11f"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/milk/chunk_10/index_0/seed_6/trajectory.npz",
+      "bytes": 72262,
+      "sha256": "201c87982960e064fe751bbf1c7eaf71d9ca51f332b792b0f6e2cf3762c071ed"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/milk/chunk_10/index_0/seed_6/timings.json",
+      "bytes": 49352,
+      "sha256": "484758ea4c91c368a7b179b87a7849b2f516f236e304d8753692299136c6a2a4"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/milk/chunk_10/index_0/seed_6/rollout.mp4",
+      "bytes": 183734,
+      "sha256": "bfa803aec29ef53b621c157d5096bf8e7fd88844fa2dcf12e279f2c001b79bb3"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/milk/chunk_10/index_0/seed_6/stage_metrics.json",
+      "bytes": 708,
+      "sha256": "374e241f515b9df78a0886a9d577b28812dabb5ab528abcbeee72b7f715382b8"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/milk/chunk_10/index_0/seed_7/result.json",
+      "bytes": 526,
+      "sha256": "bef747e4c4bf1dfab78f065d6083f4aa8323fbf7c3f2016b043e1545a8dedd82"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/milk/chunk_10/index_0/seed_7/trajectory.npz",
+      "bytes": 72395,
+      "sha256": "16ecec1f43007195c2554621644c167bf607cdde8a77e392fbfabc03208b4d15"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/milk/chunk_10/index_0/seed_7/timings.json",
+      "bytes": 49450,
+      "sha256": "d687fbb9f061df952880ba7b6a88078ceb6fd0f4d4bbfa00a4878d73fca2dde5"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/milk/chunk_10/index_0/seed_7/rollout.mp4",
+      "bytes": 184708,
+      "sha256": "e8ddcd3027f8656721725c62aa4489dab207215e29188767182da6b168d5f798"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/milk/chunk_10/index_0/seed_7/stage_metrics.json",
+      "bytes": 711,
+      "sha256": "f367c73e02706bf5f1063c2fa19efb51f492e8fdf0573ba0416c77b4ec6728b8"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/milk/chunk_10/index_0/seed_8/result.json",
+      "bytes": 524,
+      "sha256": "f14b0a7f7907731985380dbe961960b02350f6f3fd07c4e407eb3ab080d87201"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/milk/chunk_10/index_0/seed_8/trajectory.npz",
+      "bytes": 72272,
+      "sha256": "fccd98292dc0bce0a4888c505c4ff912cd844f37b4f11d9e32e8d80b14333051"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/milk/chunk_10/index_0/seed_8/timings.json",
+      "bytes": 49467,
+      "sha256": "4bee45bae56a15433dc07f62b5be2b563fa4168a7f65d2ed7d8d335445e5494b"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/milk/chunk_10/index_0/seed_8/rollout.mp4",
+      "bytes": 184575,
+      "sha256": "012528870d7ce5f25dec46356100fbe44a8adbdaae5ba62e8c0d7d2a4dc18192"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/milk/chunk_10/index_0/seed_8/stage_metrics.json",
+      "bytes": 712,
+      "sha256": "ff03b98db7587b5b651d2b0c32d2d1aca727834dc68c3d49de643e517a0a715b"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/milk/chunk_10/index_0/seed_9/result.json",
+      "bytes": 525,
+      "sha256": "9b5335baf47b912a14f67fe2b9441dad1482a3fd51f39c7f5471d0d60e025836"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/milk/chunk_10/index_0/seed_9/trajectory.npz",
+      "bytes": 72109,
+      "sha256": "f5bca12630d8d830b2f64dee0321f61bb01668740f36eb373bdd83c8328bca07"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/milk/chunk_10/index_0/seed_9/timings.json",
+      "bytes": 49467,
+      "sha256": "128c539d7ed7577ef8a04ae0d0909dc0a86da3921cfdc33137b97339a3ed4722"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/milk/chunk_10/index_0/seed_9/rollout.mp4",
+      "bytes": 184373,
+      "sha256": "bb219441a82131a23ae3aa5fb1aebdc07730cbe618aeba705b181bbc8b0202eb"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/milk/chunk_10/index_0/seed_9/stage_metrics.json",
+      "bytes": 709,
+      "sha256": "aae251efd6f6136cad932889ba09e61cbdf837d7e63ae51bba92ae0597bc53a1"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/wine_bottle/chunk_10/index_0/seed_0/result.json",
+      "bytes": 547,
+      "sha256": "400ca77c23e7db4d5c7e37593f52e8cf9c1c496b4d825174642ad505c374f4c6"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/wine_bottle/chunk_10/index_0/seed_0/trajectory.npz",
+      "bytes": 42858,
+      "sha256": "703272e28b4e658aefba42e82a9129ae9ebe2b58b23533b31b6152560c3beb5f"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/wine_bottle/chunk_10/index_0/seed_0/timings.json",
+      "bytes": 29253,
+      "sha256": "bf1083c6a962ce6c350f1649d86fb37de4e2fecbec279c6e270e21fc6a1ce508"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/wine_bottle/chunk_10/index_0/seed_0/rollout.mp4",
+      "bytes": 116067,
+      "sha256": "af72c96e8d7f15470c4b428e653609e19be7a44d96ea5f97e6d894a7439725ec"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/wine_bottle/chunk_10/index_0/seed_0/stage_metrics.json",
+      "bytes": 546,
+      "sha256": "446b34ad8d97563ed836487621b28c0cffe476b13a5ee3eeb1a276d01d1abcc0"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/wine_bottle/chunk_10/index_0/seed_1/result.json",
+      "bytes": 546,
+      "sha256": "9fe37f40daf01b3cdc59efab4422602caf778d5aa6599c5226879a11e8cfeb92"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/wine_bottle/chunk_10/index_0/seed_1/trajectory.npz",
+      "bytes": 44555,
+      "sha256": "2b0f76d0ed82a3bbb23175a32985089bb8765cab7341ecd58fdaa41ee36a39ea"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/wine_bottle/chunk_10/index_0/seed_1/timings.json",
+      "bytes": 30521,
+      "sha256": "1f133ee870f2ba3fa57504090b324970ea443be0472e39ebef5097fbedf1d90f"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/wine_bottle/chunk_10/index_0/seed_1/rollout.mp4",
+      "bytes": 119772,
+      "sha256": "287a103ba985bbc15d4f2e49a72b8a7b4b0abe858aa8a85383cafc3f0c3bb9a9"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/wine_bottle/chunk_10/index_0/seed_1/stage_metrics.json",
+      "bytes": 547,
+      "sha256": "d3143a46203901c479c6ce8f25044fe1c49d10db1d306376290d093b09ceb069"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/wine_bottle/chunk_10/index_0/seed_2/result.json",
+      "bytes": 547,
+      "sha256": "69f021ac1c83efcf989373a63e9af5199e46833f8351ac283392926b7304e9e5"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/wine_bottle/chunk_10/index_0/seed_2/trajectory.npz",
+      "bytes": 46162,
+      "sha256": "36cc97ae411d3e83ab1a53b0f4f761850917248059151109c949309ecff81700"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/wine_bottle/chunk_10/index_0/seed_2/timings.json",
+      "bytes": 31754,
+      "sha256": "2de8103ccd7a7adec7ea8fe0ece309815b0d7872ba70e1063c282275aaef2a4a"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/wine_bottle/chunk_10/index_0/seed_2/rollout.mp4",
+      "bytes": 121875,
+      "sha256": "a987a79fbba75fb6fd53651cc6692110bcd1e50a727276c92232596dcd16ae19"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/wine_bottle/chunk_10/index_0/seed_2/stage_metrics.json",
+      "bytes": 545,
+      "sha256": "ce39ba9ec4a03f28c5aade7af064c7b1a27ef364fad15b52adfe63ddca8cffaf"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/wine_bottle/chunk_10/index_0/seed_3/result.json",
+      "bytes": 545,
+      "sha256": "041d8cbf2fe238bcfa42aa3914e533fd956137c57595244a6c277056d9332e7e"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/wine_bottle/chunk_10/index_0/seed_3/trajectory.npz",
+      "bytes": 42797,
+      "sha256": "8a35391e98b706858fe64dd539385167468ac0633eba490ef071a44d945fb853"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/wine_bottle/chunk_10/index_0/seed_3/timings.json",
+      "bytes": 29245,
+      "sha256": "0c6cda43603fc343362b46535afcb98c0d7b7394e169e7c2853117de9889c571"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/wine_bottle/chunk_10/index_0/seed_3/rollout.mp4",
+      "bytes": 113204,
+      "sha256": "1468666c001d826ba5377106f04718ea14566514ae5f22b6d8b8bf2243f2591b"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/wine_bottle/chunk_10/index_0/seed_3/stage_metrics.json",
+      "bytes": 545,
+      "sha256": "433fd51fbacd3217b30de5d67b0054101e4ab3490490e5e0a4ec5dc6b0e55906"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/wine_bottle/chunk_10/index_0/seed_4/result.json",
+      "bytes": 546,
+      "sha256": "2477a2544c84a5fc9eb4a01f0ba197e123317b23b5060e6cf1f8c5e4cc14f998"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/wine_bottle/chunk_10/index_0/seed_4/trajectory.npz",
+      "bytes": 43245,
+      "sha256": "4efb4c1ea1df68756e9b8a222087433916847320aa70730b3ac874846c0490c1"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/wine_bottle/chunk_10/index_0/seed_4/timings.json",
+      "bytes": 29572,
+      "sha256": "e37b97f252e5ef31633c3e8713f391975ff2d097d3f78d1b383e106badeff43a"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/wine_bottle/chunk_10/index_0/seed_4/rollout.mp4",
+      "bytes": 113829,
+      "sha256": "09d93b1818c85e79a5831cb19fc5684c7d44670c6c8316d9fbdf3d77b869843f"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/wine_bottle/chunk_10/index_0/seed_4/stage_metrics.json",
+      "bytes": 548,
+      "sha256": "9f7e4f42cf2e1bd8306c383f552da5f18e66c3dcbcb8e0acf5486bd7455d8d30"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/wine_bottle/chunk_10/index_0/seed_5/result.json",
+      "bytes": 546,
+      "sha256": "02e7f0b9826d83d6ce17510568f8cc3b4d137e17540991a7278bdc04e81fea7e"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/wine_bottle/chunk_10/index_0/seed_5/trajectory.npz",
+      "bytes": 42786,
+      "sha256": "bf3b40c4723ff7fe2c107747b23735353827868ffd930b0e1b5568374e254a14"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/wine_bottle/chunk_10/index_0/seed_5/timings.json",
+      "bytes": 29265,
+      "sha256": "afb7085292c13ba70aae1d541fb34e3b28fff63c6c6485585111344f67dc2d4a"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/wine_bottle/chunk_10/index_0/seed_5/rollout.mp4",
+      "bytes": 115245,
+      "sha256": "53f0d204c7dc192587e614b093a113bb76c054749e5dc90e0159eb68efb8fd3f"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/wine_bottle/chunk_10/index_0/seed_5/stage_metrics.json",
+      "bytes": 546,
+      "sha256": "cf3eafb67582070a60931ceca865c47adcbc7ded70d179e66f067981e2b610df"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/wine_bottle/chunk_10/index_0/seed_6/result.json",
+      "bytes": 547,
+      "sha256": "3dcca10d104890f134306690630149b48fead2f0cb53a65914465c819e67ad62"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/wine_bottle/chunk_10/index_0/seed_6/trajectory.npz",
+      "bytes": 43230,
+      "sha256": "8449980c88eeae9d7666700b6e02ff57cdb33328545b205979c82990b205fbdc"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/wine_bottle/chunk_10/index_0/seed_6/timings.json",
+      "bytes": 29578,
+      "sha256": "83bcdf82e0e564122d7443d973e4c1d4c5613c2a7fc0463003e14827c691466d"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/wine_bottle/chunk_10/index_0/seed_6/rollout.mp4",
+      "bytes": 116042,
+      "sha256": "78886ffaa767b15d4343621c7e5146391de6e9ffa46ec0d552569ae0fac62bb8"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/wine_bottle/chunk_10/index_0/seed_6/stage_metrics.json",
+      "bytes": 548,
+      "sha256": "02f836a7d7e9afdf43111aef6c972288f2ad2f161e0379569ee37b2fa28b1214"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/wine_bottle/chunk_10/index_0/seed_7/result.json",
+      "bytes": 547,
+      "sha256": "e0c562697dd7773dcb2c5c07c365bbba32381f1a528aace1a7dfa58d2daf1158"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/wine_bottle/chunk_10/index_0/seed_7/trajectory.npz",
+      "bytes": 42833,
+      "sha256": "ac2cb669536ce694ba161b71b286e7711fec4c41f75a4a3fd37f039c5bb9de63"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/wine_bottle/chunk_10/index_0/seed_7/timings.json",
+      "bytes": 29248,
+      "sha256": "52f6af999fd9964b4d8ed27f4ceb308c284fe792c47bb07c5118b09b26caec46"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/wine_bottle/chunk_10/index_0/seed_7/rollout.mp4",
+      "bytes": 115131,
+      "sha256": "e4a311490133334cb2f34600038a6c77d0bdd2d8bef148ed03bd1ce07e193adb"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/wine_bottle/chunk_10/index_0/seed_7/stage_metrics.json",
+      "bytes": 546,
+      "sha256": "93b59480aedcca7ae177442b1bcb698598e1240478c9412164e0a5396d402ac3"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/wine_bottle/chunk_10/index_0/seed_8/result.json",
+      "bytes": 547,
+      "sha256": "caecdfc7fa3ffb367a717035ada0e1efcc9ac0bd20f6207f738e701cffe30cda"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/wine_bottle/chunk_10/index_0/seed_8/trajectory.npz",
+      "bytes": 43190,
+      "sha256": "f08378cfcaa20af2be97a22b7b6294a9ffdd1c37c02fac742d4646e245890730"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/wine_bottle/chunk_10/index_0/seed_8/timings.json",
+      "bytes": 29573,
+      "sha256": "93f439bb116f28e71a770412e5c86fa0ec8494ac483ebbbfdfb228bac7ff19df"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/wine_bottle/chunk_10/index_0/seed_8/rollout.mp4",
+      "bytes": 114342,
+      "sha256": "112f3ef2806eb266a5a4d3a973571b43f09bd5aca0e1b293b94e5b16e4ad9828"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/wine_bottle/chunk_10/index_0/seed_8/stage_metrics.json",
+      "bytes": 547,
+      "sha256": "54232a9b1c8061e957a834dfd85d17d1afa18774344d048900b2be26e93ea635"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/wine_bottle/chunk_10/index_0/seed_9/result.json",
+      "bytes": 545,
+      "sha256": "4e2dc4606e7387eaf4b7585482b1fbe08b620ce2d99eb1b4b1f28882b0c1ba33"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/wine_bottle/chunk_10/index_0/seed_9/trajectory.npz",
+      "bytes": 43682,
+      "sha256": "2360338daac62d93b821816a1b1e58b160638bc3cabd3ea2099cd47c7670f73f"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/wine_bottle/chunk_10/index_0/seed_9/timings.json",
+      "bytes": 29875,
+      "sha256": "48312324da8d4fd7bc55b66f93b444f8a249c738e7d2223cf431393bcc16a8cb"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/wine_bottle/chunk_10/index_0/seed_9/rollout.mp4",
+      "bytes": 117315,
+      "sha256": "4a213339e47b40c752be9443168d761138070660dcd151197758150af8248f90"
+    },
+    {
+      "path": "phase2/results/matched_frequency/none/xvla/wine_bottle/chunk_10/index_0/seed_9/stage_metrics.json",
+      "bytes": 546,
+      "sha256": "f688c996c26625cda702c71137c754c8a02f56340d61d4e7c4dab9c231a2e7ab"
+    }
+  ]
+}

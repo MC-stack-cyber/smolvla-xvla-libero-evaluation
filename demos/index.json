@@ -1,0 +1,51 @@
+[
+  {
+    "file": "bowl-smolvla-failure.mp4",
+    "source": "phase2/results/generalization/none/smolvla/black_bowl/chunk_default/index_1/seed_0/result.json",
+    "success": false,
+    "steps": 800,
+    "seconds": 40.0
+  },
+  {
+    "file": "bowl-xvla-success.mp4",
+    "source": "phase2/results/generalization/none/xvla/black_bowl/chunk_default/index_1/seed_0/result.json",
+    "success": true,
+    "steps": 86,
+    "seconds": 4.3
+  },
+  {
+    "file": "milk-smolvla-failure.mp4",
+    "source": "results/smolvla/milk/chunk_default/index_0/seed_0/result.json",
+    "success": false,
+    "steps": 800,
+    "seconds": 40.0
+  },
+  {
+    "file": "milk-xvla-success.mp4",
+    "source": "results/xvla/milk/chunk_default/index_0/seed_0/result.json",
+    "success": true,
+    "steps": 107,
+    "seconds": 5.35
+  },
+  {
+    "file": "milk-smolvla-clearance-80.mp4",
+    "source": "phase2/clearance_calibration/results/clearance_calibration/clearance/smolvla/milk/chunk_default/index_0/seed_0/result.json",
+    "success": false,
+    "steps": 800,
+    "seconds": 40.0
+  },
+  {
+    "file": "milk-xvla-external-mask.mp4",
+    "source": "phase2/results/camera_mask/external/xvla/milk/chunk_default/index_0/seed_0/result.json",
+    "success": false,
+    "steps": 800,
+    "seconds": 40.0
+  },
+  {
+    "file": "milk-xvla-wrist-mask.mp4",
+    "source": "phase2/results/camera_mask/wrist/xvla/milk/chunk_default/index_0/seed_0/result.json",
+    "success": false,
+    "steps": 800,
+    "seconds": 40.0
+  }
+]

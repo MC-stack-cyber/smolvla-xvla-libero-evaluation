@@ -1,0 +1,15 @@
+{
+  "smolvla": {
+    "parameters_in_checkpoint": 450046176,
+    "tensor_dtypes": {
+      "F32": 26,
+      "BF16": 474
+    }
+  },
+  "xvla": {
+    "parameters_in_checkpoint": 879738545,
+    "tensor_dtypes": {
+      "F32": 903
+    }
+  }
+}

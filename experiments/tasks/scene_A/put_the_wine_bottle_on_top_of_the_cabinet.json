@@ -1,0 +1,15 @@
+{
+  "scene": "A",
+  "scene_name": "Kitchen Manipulation",
+  "base_suite": "libero_goal",
+  "base_task_id": 9,
+  "instruction": "Put the wine bottle on top of the cabinet.",
+  "goals": [
+    "(On wine_bottle_1 wooden_cabinet_1_top_side)"
+  ],
+  "obj_of_interest": [
+    "wine_bottle_1",
+    "wooden_cabinet_1_top_side"
+  ],
+  "bddl_file": "tasks/scene_A/put_the_wine_bottle_on_top_of_the_cabinet.bddl"
+}
